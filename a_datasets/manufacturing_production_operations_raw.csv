@@ -1,0 +1,605 @@
+Batch_ID,Production_Date,Plant,Production_Line,Product_Category,Shift,Supervisor,Target_Units,Units_Produced,Rejected_Units,Downtime_Hours,Operating_Hours,Unit_Production_Cost_KES,Quality_Status
+BAT-0001,2025-02-02,Mombasa Plant,Line C,Industrial Cleaners,Day,S. Kiptoo,1378,1308,39,26.0,7.2,66.91,Review
+BAT-0002,2025-10-10,Nakuru Plant,Line A,Packaging Resin,Night,A. Wanjiku,1557,1522,27,40.8,7.0,47.54,Pass
+BAT-0003,2025-08-27,Athi River Plant,Line A,Protective Coatings,Day,A. Wanjiku,1072,1121,27,24.3,6.7,138.5,Review
+BAT-0004,2025-06-10,Mombasa Plant,Line E,Packaging Resin,Night,J. Mwangi,1104,1124,22,103.9,8.1,100.88,Pass
+BAT-0005,2025-06-08,Mombasa Plant,Line E,Protective Coatings,Evening,S. Kiptoo,922,857,22,34.1,6.5,106.24,Review
+BAT-0006,2025-11-10,Nakuru Plant,Line C,Construction Additives,Day,P. Otieno,1585,1491,39,74.6,6.2,136.86,Review
+BAT-0007,2025-02-01,Athi River Plant,Line C,Construction Additives,Day,S. Kiptoo,1496,1260,35,20.3,8.0,138.15,Review
+BAT-0008,2025-09-12,Mombasa Plant,Line A,Water Treatment Chemicals,Evening,A. Wanjiku,851,819,18,9.5,6.4,89.75,Review
+BAT-0009,2025-03-15,Athi River Plant,Line E,Water Treatment Chemicals,Evening,J. Mwangi,708,517,14,41.1,7.2,94.15,Review
+BAT-0010,2025-02-04,Nakuru Plant,Line A,construction additives,Evening,A. Wanjiku,1330,1198,6,50.7,7.6,71.16,Pass
+BAT-0011,2025-07-12,Athi River Plant,Line E,Protective Coatings,Evening,S. Kiptoo,1714,1784,48,69.9,6.7,64.25,Review
+BAT-0012,2025-12-23,Mombasa Plant,Line B,Industrial Cleaners,Evening,A. Wanjiku,1552,1467,48,28.4,7.1,66.68,Review
+BAT-0013,2025-09-26,Mombasa Plant,Line D,Packaging Resin,Evening,,840,743,13,14.9,6.9,143.3,Pass
+BAT-0014,2025-10-05,Mombasa Plant,Line C,Water Treatment Chemicals,Evening,S. Kiptoo,1503,1571,47,60.3,7.6,33.48,Review
+BAT-0015,2025-09-19,Nakuru Plant,Line A,Water Treatment Chemicals,Night,P. Otieno,1226,1120,32,35.2,6.7,76.24,Review
+BAT-0016,2025-10-14,Nakuru Plant,Line B,Protective Coatings,Day,F. Ali,1347,1186,33,45.5,6.3,144.62,Review
+BAT-0017,2025-07-07,Athi River Plant,Line E,Construction Additives,Day,R. Njeri,748,682,23,46.1,7.7,100.57,Review
+BAT-0018,2025-02-16,Mombasa Plant,Line A,Industrial Cleaners,Evening,D. Kamau,1667,1727,18,38.8,6.4,116.65,Pass
+BAT-0019,2025-11-03,Mombasa Plant,Line B,Water Treatment Chemicals,Night,R. Njeri,1589,1462,4,48.2,6.1,94.95,Pass
+BAT-0020,2025-06-14,Nakuru Plant,Line D,Packaging Resin,Evening,F. Ali,918,762,3,6.7,8.0,135.83,Pass
+BAT-0021,2025-07-02,Athi River Plant,Line B,Packaging Resin,Day,M. Hassan,832,889,8,82.1,6.3,82.08,Pass
+BAT-0022,2025-05-16,Athi River Plant,Line E,Protective Coatings,Evening,R. Njeri,1550,1697,13,34.8,7.8,42.52,Pass
+BAT-0023,2025-03-08,Mombasa Plant,Line E,Packaging Resin,Evening,A. Wanjiku,717,745,3,103.3,7.5,23.38,Pass
+BAT-0024,2025-12-05,Mombasa Plant,Line B,Industrial Cleaners,Night,P. Otieno,998,944,5,3.9,6.5,142.46,Pass
+BAT-0025,2025-10-13,Nakuru Plant,Line A,Construction Additives,Evening,D. Kamau,1351,1354,10,27.5,8.4,56.27,Pass
+BAT-0026,2025-08-24,Athi River Plant,Line E,Protective Coatings,Evening,J. Mwangi,1204,978,32,69.9,6.4,82.56,Review
+BAT-0027,2025-05-27,Nakuru Plant,Line E,Industrial Cleaners,Evening,R. Njeri,1460,1686,20,125.3,6.8,72.34,Pass
+BAT-0028,2025-10-28,Athi River Plant,Line D,Industrial Cleaners,Day,F. Ali,1144,1136,18,31.6,6.5,92.71,Pass
+BAT-0029,2025-07-19,Nakuru Plant,Line C,Industrial Cleaners,Night,P. Otieno,1362,1245,12,25.1,7.4,89.85,Pass
+BAT-0030,2025-06-11,Mombasa Plant,Line C,Protective Coatings,Night,S. Kiptoo,1049,964,12,25.3,8.0,87.74,Pass
+BAT-0031,2025-06-14,Athi River Plant,Line B,Packaging Resin,Night,J. Mwangi,916,879,23,162.8,8.2,134.97,Review
+BAT-0032,2025-03-24,Athi River Plant,Line D,Protective Coatings,Day,A. Wanjiku,1174,1120,14,27.9,8.1,80.76,Pass
+BAT-0033,2025-02-03,Athi River Plant,Line B,Water Treatment Chemicals,Day,S. Kiptoo,745,764,9,70.7,6.8,39.97,Pass
+BAT-0034,2025-07-22,Mombasa Plant,Line A,Protective Coatings,Night,F. Ali,827,871,25,3.9,8.1,65.28,Review
+BAT-0035,2025-11-21,Nakuru Plant,Line B,Industrial Cleaners,Day,F. Ali,1480,1314,44,6.5,8.5,116.06,Review
+BAT-0036,2025-01-24,Mombasa Plant,Line C,Protective Coatings,Night,D. Kamau,869,785,12,46.3,7.6,19.36,Pass
+BAT-0037,2025-11-10,Nakuru Plant,Line B,Packaging Resin,Night,M. Hassan,1443,1435,42,53.5,8.5,88.61,Review
+BAT-0038,2025-10-30,Nakuru Plant,Line C,Construction Additives,Evening,F. Ali,930,810,14,82.5,7.0,28.17,Pass
+BAT-0039,2025-04-12,Mombasa Plant,Line B,Industrial Cleaners,Day,R. Njeri,1619,1596,14,94.5,8.3,23.67,Pass
+BAT-0040,2025-08-19,Nakuru Plant,Line E,Industrial Cleaners,Day,S. Kiptoo,1531,1230,26,52.4,7.2,28.68,Review
+BAT-0041,2025-03-02,Mombasa Plant,Line A,Industrial Cleaners,Day,A. Wanjiku,996,873,21,39.3,7.9,25.38,Review
+BAT-0042,2025-10-04,Athi River Plant,Line A,Industrial Cleaners,Night,S. Kiptoo,968,831,24,55.0,7.2,115.62,Review
+BAT-0043,2025-09-13,Nakuru Plant,Line D,Water Treatment Chemicals,Day,P. Otieno,1458,1386,41,24.8,6.9,81.35,Review
+BAT-0044,2025-05-10,Nakuru Plant,Line D,Protective Coatings,Day,F. Ali,1638,1488,48,13.9,7.6,40.54,Review
+BAT-0045,2025-01-25,Mombasa Plant,Line A,Construction Additives,Day,D. Kamau,709,733,12,28.2,6.8,94.01,Pass
+BAT-0046,2025-12-21,Athi River Plant,Line D,Water Treatment Chemicals,Evening,J. Mwangi,1073,1022,23,39.8,8.5,96.79,Review
+BAT-0047,2025-06-12,Mombasa Plant,Line D,Industrial Cleaners,Night,R. Njeri,1667,1558,52,43.0,8.0,128.08,Review
+BAT-0048,2025-11-22,Mombasa Plant,Line B,Industrial Cleaners,Day,F. Ali,1225,1263,26,120.1,7.6,141.17,Review
+BAT-0049,2025-09-05,Athi River Plant,Line B,Packaging Resin,Evening,F. Ali,818,805,11,109.2,6.3,23.2,Pass
+BAT-0050,2025-10-12,Mombasa Plant,Line D,Packaging Resin,Night,A. Wanjiku,1784,1637,29,20.3,8.4,70.27,Pass
+BAT-0051,2025-10-05,Nakuru Plant,Line E,Industrial Cleaners,Day,A. Wanjiku,781,849,27,18.3,8.1,22.7,Review
+BAT-0052,2025-03-13,Mombasa Plant,Line D,Packaging Resin,Evening,F. Ali,1573,1244,30,48.8,7.8,116.26,Review
+BAT-0053,2025-05-13,Athi River Plant,Line A,Packaging Resin,Day,D. Kamau,708,588,6,55.3,7.6,126.98,Pass
+BAT-0054,2025-06-20,Athi River Plant,Line C,Industrial Cleaners,Evening,M. Hassan,1652,1591,6,40.0,7.0,131.75,Pass
+BAT-0055,2025-07-01,Nakuru Plant,Line E,Construction Additives,Night,F. Ali,1372,1174,35,1.2,6.7,92.97,Review
+BAT-0056,2025-01-16,Mombasa Plant,Line C,Packaging Resin,Day,J. Mwangi,1439,1336,12,25.2,6.2,61.42,Pass
+BAT-0057,2025-07-19,Nakuru Plant,Line E,Protective Coatings,Day,R. Njeri,1195,1230,19,123.7,6.3,91.01,Pass
+BAT-0058,2025-02-26,Mombasa Plant,Line E,Industrial Cleaners,Evening,P. Otieno,1490,1172,22,36.8,6.3,64.4,Pass
+BAT-0059,2025-09-29,Nakuru Plant,Line A,Industrial Cleaners,Day,A. Wanjiku,790,804,18,41.5,6.9,71.39,Review
+BAT-0060,2025-09-07,Mombasa Plant,Line B,Protective Coatings,Evening,A. Wanjiku,773,611,7,31.8,8.2,47.86,Pass
+BAT-0061,2025-12-03,Mombasa Plant,Line E,Protective Coatings,Night,J. Mwangi,1317,1327,29,20.2,7.6,56.02,Review
+BAT-0062,2025-09-29,Mombasa Plant,Line D,Protective Coatings,Night,R. Njeri,1058,876,27,60.1,6.7,89.31,Review
+BAT-0063,2025-05-14,Mombasa Plant,Line C,Water Treatment Chemicals,Day,M. Hassan,975,919,32,59.3,7.7,121.46,Review
+BAT-0064,2025-12-20,Mombasa Plant,Line C,Construction Additives,Evening,R. Njeri,1571,1429,29,22.0,6.3,100.92,Review
+BAT-0065,2025-05-30,Mombasa Plant,Line D,Industrial Cleaners,Night,A. Wanjiku,1051,1041,35,26.2,6.3,23.22,Review
+BAT-0066,2025-04-29,Nakuru Plant,Line B,Industrial Cleaners,Night,M. Hassan,1751,1274,24,12.8,6.8,24.47,Pass
+BAT-0067,2025-11-27,Athi River Plant,Line A,Packaging Resin,Day,R. Njeri,1638,1563,15,69.1,6.8,68.05,Pass
+BAT-0068,2025-05-16,Mombasa Plant,Line D,Water Treatment Chemicals,Night,M. Hassan,822,842,25,31.9,6.0,82.54,Review
+BAT-0069,2025-01-28,Nakuru Plant,Line E,Protective Coatings,Day,M. Hassan,1002,805,24,54.2,6.7,58.96,Review
+BAT-0070,2025-06-21,Mombasa Plant,Line C,Industrial Cleaners,Day,A. Wanjiku,1238,906,9,6.6,6.8,136.16,Pass
+BAT-0071,2025-10-18,Mombasa Plant,Line C,Protective Coatings,Evening,S. Kiptoo,1231,1043,4,45.7,6.3,134.69,Pass
+BAT-0072,2025-03-11,Mombasa Plant,Line C,Water Treatment Chemicals,Night,F. Ali,753,734,4,57.7,7.6,48.69,Pass
+BAT-0073,2025-06-18,Mombasa Plant,Line A,Water Treatment Chemicals,Night,D. Kamau,797,683,20,3.8,7.5,38.67,Review
+BAT-0074,2025-02-17,Mombasa Plant,Line A,Water Treatment Chemicals,Evening,P. Otieno,1326,1223,39,13.8,7.1,94.63,Review
+BAT-0075,2025-09-08,Mombasa Plant,Line D,Water Treatment Chemicals,Night,D. Kamau,1701,1826,52,13.4,7.5,45.48,Review
+BAT-0076,2025-06-23,Mombasa Plant,Line A,Protective Coatings,Day,P. Otieno,1784,1825,7,56.3,6.9,20.42,Pass
+BAT-0077,2025-05-01,Mombasa Plant,Line C,Protective Coatings,Night,P. Otieno,1473,1225,16,101.0,8.2,93.42,Pass
+BAT-0078,2025-03-24,Mombasa Plant,Line A,Construction Additives,Evening,R. Njeri,882,847,7,38.0,7.3,143.96,Pass
+BAT-0079,2025-07-26,Athi River Plant,Line B,Industrial Cleaners,Night,S. Kiptoo,991,943,6,107.8,8.2,129.81,Pass
+BAT-0080,2025-09-02,Athi River Plant,Line E,Industrial Cleaners,Evening,P. Otieno,704,661,3,11.2,7.5,55.43,Pass
+BAT-0081,2025-12-10,Mombasa Plant,Line B,Packaging Resin,Evening,J. Mwangi,1078,842,8,29.1,8.2,50.22,Pass
+BAT-0082,2025-06-09,Nakuru Plant,Line C,Packaging Resin,Evening,S. Kiptoo,1430,1251,30,11.1,7.8,90.0,Review
+BAT-0083,2025-02-28,Mombasa Plant,Line A,Water Treatment Chemicals,Evening,J. Mwangi,994,830,2,24.5,8.0,84.07,Pass
+BAT-0084,2025-10-31,Mombasa Plant,Line B,Construction Additives,Evening,R. Njeri,1535,1396,21,18.3,7.7,36.97,Pass
+BAT-0085,2025-08-18,Mombasa Plant,Line B,Water Treatment Chemicals,Day,S. Kiptoo,1095,998,32,87.7,6.5,77.66,Review
+BAT-0086,2025-09-13,Athi River Plant,Line C,Construction Additives,Day,M. Hassan,1758,1360,26,33.0,7.9,110.85,Pass
+BAT-0087,2025-02-05,Nakuru Plant,Line E,Water Treatment Chemicals,Evening,R. Njeri,1287,1436,44,10.6,8.0,30.68,Review
+BAT-0088,2025-04-25,Mombasa Plant,Line C,Industrial Cleaners,Day,M. Hassan,1562,1722,59,110.2,6.9,109.35,Review
+BAT-0089,2025-10-08,Mombasa Plant,Line E,Industrial Cleaners,Evening,R. Njeri,1725,1678,36,43.0,7.0,94.43,Review
+BAT-0090,2025-10-31,Athi River Plant,Line E,water treatment chemicals,Night,A. Wanjiku,1677,1549,23,20.9,7.0,34.65,Pass
+BAT-0091,2025-06-08,Nakuru Plant,Line B,Construction Additives,Evening,J. Mwangi,1065,1067,28,12.5,8.2,53.32,Review
+BAT-0092,2025-10-21,Mombasa Plant,Line E,construction additives,Night,S. Kiptoo,879,916,16,8.1,6.6,23.74,Pass
+BAT-0093,2025-11-04,Athi River Plant,Line A,Water Treatment Chemicals,Night,R. Njeri,709,731,4,34.0,6.6,55.44,Pass
+BAT-0094,2025-05-22,Athi River Plant,Line A,Protective Coatings,Night,M. Hassan,1230,1168,40,31.5,8.5,139.03,Review
+BAT-0095,2025-11-24,Athi River Plant,Line D,Protective Coatings,Evening,D. Kamau,1348,1333,8,78.1,8.1,96.33,Pass
+BAT-0096,2025-04-16,Nakuru Plant,Line B,Water Treatment Chemicals,Day,D. Kamau,779,704,5,22.6,8.1,92.2,Pass
+BAT-0097,2025-03-29,Nakuru Plant,Line B,Construction Additives,Night,M. Hassan,1276,1286,35,6.2,7.9,44.27,Review
+BAT-0098,2025-09-07,Nakuru Plant,Line A,Construction Additives,Evening,M. Hassan,1509,1354,8,124.2,6.7,125.5,Pass
+BAT-0099,2025-08-21,Athi River Plant,Line E,Packaging Resin,Night,R. Njeri,1380,1379,35,49.4,8.1,129.07,Review
+BAT-0100,2025-02-21,Athi River Plant,Line D,Construction Additives,Night,S. Kiptoo,897,774,8,48.5,6.4,137.38,Pass
+BAT-0101,2025-10-31,Athi River Plant,Line B,Protective Coatings,Night,A. Wanjiku,781,705,14,28.0,7.3,73.19,Pass
+BAT-0102,2025-03-14,Nakuru Plant,Line E,Water Treatment Chemicals,Evening,A. Wanjiku,1677,1622,29,32.4,8.4,38.77,Pass
+BAT-0103,2025-10-21,Nakuru Plant,Line C,Packaging Resin,Day,S. Kiptoo,1110,937,6,30.0,8.3,58.83,Pass
+BAT-0104,2025-01-03,Mombasa Plant,Line A,Packaging Resin,Day,F. Ali,1310,1321,26,76.0,6.5,143.55,Pass
+BAT-0105,2025-10-18,Mombasa Plant,Line D,Protective Coatings,Evening,S. Kiptoo,856,509,16,4.7,6.9,24.36,Review
+BAT-0106,2025-10-15,Athi River Plant,Line D,Construction Additives,Day,P. Otieno,1600,1755,47,21.0,8.0,44.92,Review
+BAT-0107,2025-10-12,Mombasa Plant,Line D,Industrial Cleaners,Day,P. Otieno,931,800,27,29.4,6.7,25.88,Review
+BAT-0108,2025-08-31,Athi River Plant,Line A,Protective Coatings,Night,S. Kiptoo,1717,1807,41,33.2,7.0,135.08,Review
+BAT-0109,2025-06-22,Athi River Plant,Line B,Industrial Cleaners,Evening,R. Njeri,1413,1209,26,71.6,7.2,138.66,Review
+BAT-0110,2025-09-15,Nakuru Plant,Line E,Construction Additives,Evening,F. Ali,1051,848,25,38.8,6.1,75.1,Review
+BAT-0111,2025-04-12,Nakuru Plant,Line D,Packaging Resin,Evening,M. Hassan,1018,946,31,21.0,6.9,111.79,Review
+BAT-0112,2025-10-12,Nakuru Plant,Line C,packaging resin,Night,F. Ali,1682,1596,30,42.6,8.3,71.25,Pass
+BAT-0113,2025-07-22,Athi River Plant,Line D,Packaging Resin,Day,M. Hassan,908,805,5,22.4,6.2,102.77,Pass
+BAT-0114,2025-06-17,Athi River Plant,Line C,Packaging Resin,Evening,A. Wanjiku,1412,1302,17,56.9,6.5,116.83,Pass
+BAT-0115,2025-07-04,Mombasa Plant,Line B,Packaging Resin,Evening,P. Otieno,1734,1483,17,12.0,6.3,54.01,Pass
+BAT-0116,2025-07-27,Mombasa Plant,Line D,Packaging Resin,Evening,R. Njeri,1647,1637,33,41.4,7.8,139.02,Review
+BAT-0117,2025-01-14,Athi River Plant,Line D,Protective Coatings,Day,S. Kiptoo,1341,1292,44,32.1,7.0,105.05,Review
+BAT-0118,2025-02-21,Athi River Plant,Line E,Construction Additives,Night,J. Mwangi,1371,1382,31,20.1,7.1,136.86,Review
+BAT-0119,2025-03-31,Athi River Plant,Line D,Protective Coatings,Day,R. Njeri,1632,1410,32,65.8,6.8,49.01,Review
+BAT-0120,2025-02-11,Athi River Plant,Line D,Water Treatment Chemicals,Night,S. Kiptoo,1640,1486,50,49.0,7.9,115.11,Review
+BAT-0121,2025-06-10,Mombasa Plant,Line C,Construction Additives,Evening,F. Ali,956,1151,27,7.7,6.7,50.74,Review
+BAT-0122,2025-09-01,Athi River Plant,Line C,Industrial Cleaners,Night,D. Kamau,1539,1545,44,28.3,8.2,39.3,Review
+BAT-0123,2025-08-27,Athi River Plant,Line B,Packaging Resin,Night,J. Mwangi,1102,939,6,46.0,7.9,32.69,Pass
+BAT-0124,2025-06-21,Nakuru Plant,Line E,Construction Additives,Night,J. Mwangi,708,663,5,5.7,7.1,96.7,Pass
+BAT-0125,2025-11-09,Nakuru Plant,Line D,Industrial Cleaners,Day,F. Ali,1666,1838,52,39.2,6.7,130.38,Review
+BAT-0126,2025-07-26,Mombasa Plant,Line C,Packaging Resin,Evening,R. Njeri,1727,1587,13,7.5,7.1,88.13,Pass
+BAT-0127,2025-01-29,Athi River Plant,Line C,Packaging Resin,Evening,D. Kamau,968,1006,35,37.3,7.3,30.09,Review
+BAT-0128,2025-10-07,Athi River Plant,Line C,Water Treatment Chemicals,Day,F. Ali,1251,1262,22,65.8,7.1,24.53,Pass
+BAT-0129,2025-07-29,Nakuru Plant,Line E,Industrial Cleaners,Day,R. Njeri,1105,939,27,54.8,7.0,58.84,Review
+BAT-0130,2025-08-20,Nakuru Plant,Line A,Packaging Resin,Night,J. Mwangi,1440,1596,50,25.6,6.4,129.64,Review
+BAT-0131,2025-07-26,Mombasa Plant,Line B,Industrial Cleaners,Day,P. Otieno,1708,1577,7,42.6,6.0,73.41,Pass
+BAT-0132,2025-07-22,Mombasa Plant,Line D,Packaging Resin,Night,A. Wanjiku,805,753,22,27.6,6.4,36.65,Review
+BAT-0133,2025-02-03,Mombasa Plant,Line D,Protective Coatings,Night,M. Hassan,771,671,4,25.8,7.0,111.7,Pass
+BAT-0134,2025-07-24,Mombasa Plant,Line E,Water Treatment Chemicals,Night,A. Wanjiku,1647,1591,42,33.3,7.2,64.72,Review
+BAT-0135,2025-10-18,Athi River Plant,Line A,Packaging Resin,Night,J. Mwangi,1153,1044,6,32.7,6.4,40.27,Pass
+BAT-0136,2025-04-21,Nakuru Plant,Line D,Water Treatment Chemicals,Evening,S. Kiptoo,941,1000,7,37.4,7.6,74.99,Pass
+BAT-0137,2025-08-09,Nakuru Plant,Line B,Industrial Cleaners,Day,M. Hassan,1710,1641,15,89.6,6.6,101.32,Pass
+BAT-0138,2025-01-12,Mombasa Plant,Line E,Protective Coatings,Day,R. Njeri,1132,1057,21,6.5,8.1,108.24,Pass
+BAT-0139,2025-05-07,Athi River Plant,Line C,Protective Coatings,Day,R. Njeri,1211,1118,12,10.3,7.0,114.25,Pass
+BAT-0140,2025-06-09,Athi River Plant,Line D,Industrial Cleaners,Day,D. Kamau,729,583,6,15.9,7.3,57.97,Pass
+BAT-0141,2025-12-25,Nakuru Plant,Line D,Water Treatment Chemicals,Night,P. Otieno,1195,1051,10,52.2,8.2,100.08,Pass
+BAT-0142,2025-03-20,Mombasa Plant,Line E,Construction Additives,Night,M. Hassan,1321,1349,24,28.7,8.3,25.55,Pass
+BAT-0143,2025-04-11,Nakuru Plant,Line D,Protective Coatings,Evening,D. Kamau,1074,1241,12,9.4,6.2,44.29,Pass
+BAT-0144,2025-05-30,Athi River Plant,Line C,Protective Coatings,Day,A. Wanjiku,936,853,26,44.8,6.8,63.82,Review
+BAT-0145,2025-12-29,Athi River Plant,Line B,Water Treatment Chemicals,Evening,D. Kamau,968,1150,11,40.9,8.2,136.07,Pass
+BAT-0146,2025-11-08,Mombasa Plant,Line D,Water Treatment Chemicals,Evening,P. Otieno,760,528,12,7.7,6.3,126.25,Review
+BAT-0147,2025-01-13,Mombasa Plant,Line C,Construction Additives,Evening,R. Njeri,1759,1915,8,44.5,7.0,59.14,Pass
+BAT-0148,2025-03-27,Nakuru Plant,Line C,Water Treatment Chemicals,Night,J. Mwangi,1530,1380,11,49.6,8.4,81.33,Pass
+BAT-0149,2025-10-27,Mombasa Plant,Line A,Protective Coatings,Day,D. Kamau,1284,939,20,34.6,6.3,58.78,Review
+BAT-0150,2025-01-22,Nakuru Plant,Line B,Construction Additives,Night,F. Ali,1243,1270,27,93.8,6.9,69.9,Review
+BAT-0151,2025-11-09,Athi River Plant,Line A,Construction Additives,Day,M. Hassan,1184,1144,17,22.5,6.8,75.28,Pass
+BAT-0152,2025-04-13,Athi River Plant,Line B,Packaging Resin,Evening,R. Njeri,1175,1306,27,15.4,6.8,61.91,Review
+BAT-0153,2025-12-01,Nakuru Plant,Line E,Construction Additives,Evening,D. Kamau,777,881,13,21.0,6.5,89.46,Pass
+BAT-0154,2025-04-18,Athi River Plant,Line C,Protective Coatings,Night,F. Ali,1116,1065,34,29.3,7.5,102.96,Review
+BAT-0155,2025-06-08,Athi River Plant,Line C,Water Treatment Chemicals,Day,A. Wanjiku,1792,1980,42,23.3,6.0,22.89,Review
+BAT-0156,2025-08-30,Athi River Plant,Line A,Packaging Resin,Night,P. Otieno,757,849,22,43.0,8.1,81.05,Review
+BAT-0157,2025-02-16,Mombasa Plant,Line D,Packaging Resin,Evening,,923,891,27,39.4,6.9,89.76,Review
+BAT-0158,2025-07-23,Mombasa Plant,Line C,Industrial Cleaners,Day,R. Njeri,1212,1184,22,21.9,7.3,140.61,Pass
+BAT-0159,2025-07-04,Athi River Plant,Line A,Packaging Resin,Night,P. Otieno,784,700,21,10.2,6.9,30.84,Review
+BAT-0160,2025-10-14,Mombasa Plant,Line A,Water Treatment Chemicals,Night,M. Hassan,1760,1797,61,56.8,7.5,71.97,Review
+BAT-0161,2025-12-30,Nakuru Plant,Line D,Packaging Resin,Day,J. Mwangi,1729,1599,47,9.9,6.7,56.58,Review
+BAT-0162,2025-08-31,Athi River Plant,Line D,Protective Coatings,Evening,F. Ali,1107,1265,22,27.2,7.7,38.75,Pass
+BAT-0163,2025-05-30,Mombasa Plant,Line A,Water Treatment Chemicals,Evening,F. Ali,1389,1330,23,6.0,7.3,45.22,Pass
+BAT-0164,2025-05-29,Mombasa Plant,Line D,Industrial Cleaners,Evening,A. Wanjiku,1435,1359,8,56.3,8.4,69.43,Pass
+BAT-0165,2025-06-02,Nakuru Plant,Line A,Protective Coatings,Day,P. Otieno,947,1085,33,46.4,7.6,72.49,Review
+BAT-0166,2025-10-25,Athi River Plant,Line A,Protective Coatings,Day,A. Wanjiku,1590,1594,55,45.4,8.4,23.13,Review
+BAT-0167,2025-04-28,Athi River Plant,Line E,Protective Coatings,Night,S. Kiptoo,923,970,31,29.4,8.1,32.92,Review
+BAT-0168,2025-03-02,Athi River Plant,Line D,Protective Coatings,Evening,M. Hassan,1477,1524,30,114.8,8.3,90.07,Pass
+BAT-0169,2025-05-03,Athi River Plant,Line C,Protective Coatings,Night,J. Mwangi,1479,1363,17,63.4,6.5,54.33,Pass
+BAT-0170,2025-01-09,Nakuru Plant,Line A,Protective Coatings,Day,S. Kiptoo,1137,963,24,,8.1,141.94,Review
+BAT-0171,2025-02-08,Nakuru Plant,Line A,Water Treatment Chemicals,Day,S. Kiptoo,1381,1104,22,31.6,7.4,132.16,Pass
+BAT-0172,2025-02-02,Nakuru Plant,Line A,Packaging Resin,Day,J. Mwangi,1627,1801,31,77.2,7.0,63.92,Pass
+BAT-0173,2025-10-09,Athi River Plant,Line E,Construction Additives,Evening,M. Hassan,914,991,17,11.1,8.3,95.75,Pass
+BAT-0174,2025-09-21,Mombasa Plant,Line C,Industrial Cleaners,Night,M. Hassan,1131,1024,35,46.2,6.5,83.5,Review
+BAT-0175,2025-09-12,Mombasa Plant,Line B,Construction Additives,Evening,S. Kiptoo,1431,1172,9,75.1,6.2,42.78,Pass
+BAT-0176,2025-06-18,Mombasa Plant,Line E,Construction Additives,Day,P. Otieno,1730,1780,40,39.6,6.5,119.67,Review
+BAT-0177,2025-09-19,Mombasa Plant,Line A,Water Treatment Chemicals,Day,P. Otieno,1650,1325,7,78.9,6.6,73.61,Pass
+BAT-0178,2025-02-28,Nakuru Plant,Line E,Water Treatment Chemicals,Evening,F. Ali,1380,1458,29,33.0,6.5,58.73,Pass
+BAT-0179,2025-11-25,Athi River Plant,Line C,Industrial Cleaners,Night,D. Kamau,904,785,20,59.6,6.4,136.96,Review
+BAT-0180,2025-07-02,Nakuru Plant,Line E,Water Treatment Chemicals,Evening,F. Ali,1419,1230,24,14.2,7.3,73.46,Pass
+BAT-0181,2025-12-09,Nakuru Plant,Line A,Industrial Cleaners,Evening,R. Njeri,1004,838,4,72.3,7.5,46.95,Pass
+BAT-0182,2025-02-25,Athi River Plant,Line A,Protective Coatings,Day,S. Kiptoo,1795,1697,30,40.6,8.2,78.4,Pass
+BAT-0183,2025-07-01,Nakuru Plant,Line A,Protective Coatings,Night,M. Hassan,1489,1505,25,29.5,7.6,126.74,Pass
+BAT-0184,2025-09-12,Mombasa Plant,Line B,Protective Coatings,Evening,F. Ali,766,742,18,107.0,8.4,65.11,Review
+BAT-0185,2025-06-30,Mombasa Plant,Line E,Water Treatment Chemicals,Evening,F. Ali,1359,1438,25,33.4,6.5,112.64,Pass
+BAT-0186,2025-06-12,Athi River Plant,Line C,Industrial Cleaners,Evening,R. Njeri,1168,1134,30,72.5,8.2,52.62,Review
+BAT-0187,2025-03-02,Nakuru Plant,Line A,Water Treatment Chemicals,Day,,1320,1074,13,22.9,7.3,130.12,Pass
+BAT-0188,2025-05-20,Nakuru Plant,Line D,Construction Additives,Evening,D. Kamau,821,815,11,57.7,7.2,36.72,Pass
+BAT-0189,2025-03-29,Mombasa Plant,Line D,Protective Coatings,Day,R. Njeri,1128,1013,25,31.7,6.2,79.1,Review
+BAT-0190,2025-04-21,Athi River Plant,Line A,Water Treatment Chemicals,Evening,J. Mwangi,1001,993,17,10.3,8.1,48.58,Pass
+BAT-0191,2025-09-07,Athi River Plant,Line D,Protective Coatings,Day,S. Kiptoo,1073,1065,11,26.9,7.9,57.86,Pass
+BAT-0192,2025-08-19,Athi River Plant,Line E,Protective Coatings,Evening,F. Ali,1097,1067,13,34.1,6.9,47.97,Pass
+BAT-0193,2025-08-10,Mombasa Plant,Line C,Industrial Cleaners,Night,P. Otieno,1293,1148,35,81.4,8.5,95.92,Review
+BAT-0194,2025-05-13,Athi River Plant,Line D,Water Treatment Chemicals,Day,J. Mwangi,1540,1442,25,27.5,6.2,20.01,Pass
+BAT-0195,2025-12-17,Mombasa Plant,Line B,Protective Coatings,Evening,J. Mwangi,1339,1368,28,49.4,8.1,31.8,Review
+BAT-0196,2025-02-01,Athi River Plant,Line A,Protective Coatings,Day,A. Wanjiku,1225,1058,36,56.6,8.2,131.02,Review
+BAT-0197,2025-05-06,Mombasa Plant,Line B,Construction Additives,Evening,M. Hassan,876,861,28,29.6,6.9,88.74,Review
+BAT-0198,2025-02-13,Nakuru Plant,Line C,Protective Coatings,Evening,F. Ali,1046,1061,5,44.0,8.4,69.17,Pass
+BAT-0199,2025-05-04,Mombasa Plant,Line D,Construction Additives,Night,P. Otieno,765,686,19,16.5,6.7,133.99,Review
+BAT-0200,2025-12-18,Mombasa Plant,Line E,Construction Additives,Night,P. Otieno,1618,1575,16,15.0,6.7,140.49,Pass
+BAT-0201,2025-05-14,Athi River Plant,Line D,Industrial Cleaners,Evening,M. Hassan,1318,1361,37,5.8,7.9,66.05,Review
+BAT-0202,2025-11-28,Athi River Plant,Line C,Industrial Cleaners,Night,F. Ali,991,807,17,9.0,8.5,22.91,Review
+BAT-0203,2025-06-30,Athi River Plant,Line E,Packaging Resin,Evening,R. Njeri,929,877,13,49.3,7.9,65.19,Pass
+BAT-0204,2025-09-13,Nakuru Plant,Line E,Water Treatment Chemicals,Evening,F. Ali,929,979,17,12.5,8.2,99.57,Pass
+BAT-0205,2025-06-16,Mombasa Plant,Line B,Water Treatment Chemicals,Night,D. Kamau,1513,1509,49,45.9,6.6,110.69,Review
+BAT-0206,2025-04-08,Athi River Plant,Line A,Packaging Resin,Evening,F. Ali,1460,1393,13,72.8,6.5,76.91,Pass
+BAT-0207,2025-10-06,Athi River Plant,Line B,Construction Additives,Evening,J. Mwangi,962,942,10,26.8,6.7,50.35,Pass
+BAT-0208,2025-12-20,Nakuru Plant,Line E,Packaging Resin,Evening,A. Wanjiku,1018,985,10,17.4,8.1,68.7,Pass
+BAT-0209,2025-04-07,Mombasa Plant,Line E,Construction Additives,Evening,J. Mwangi,981,998,9,33.5,8.3,126.08,Pass
+BAT-0210,2025-10-12,Athi River Plant,Line B,Packaging Resin,Day,F. Ali,738,535,16,95.9,6.8,96.6,Review
+BAT-0211,2025-04-06,Athi River Plant,Line E,Water Treatment Chemicals,Night,D. Kamau,1291,1237,32,40.4,7.1,129.34,Review
+BAT-0212,2025-09-19,Athi River Plant,Line E,Industrial Cleaners,Evening,R. Njeri,1536,1443,38,6.8,6.7,32.97,Review
+BAT-0213,2025-10-15,Nakuru Plant,Line A,Construction Additives,Night,A. Wanjiku,1786,1724,26,29.2,8.0,133.97,Pass
+BAT-0214,2025-06-14,Nakuru Plant,Line C,Packaging Resin,Day,A. Wanjiku,962,1045,20,48.8,6.5,118.99,Pass
+BAT-0215,2025-09-26,Mombasa Plant,Line A,Construction Additives,Evening,P. Otieno,1199,1241,17,35.8,7.6,78.19,Pass
+BAT-0216,2025-04-10,Mombasa Plant,Line A,Water Treatment Chemicals,Evening,J. Mwangi,1757,1896,58,17.0,6.7,118.05,Review
+BAT-0217,2025-01-29,Athi River Plant,Line C,Water Treatment Chemicals,Evening,P. Otieno,1361,1089,30,36.0,6.8,95.01,Review
+BAT-0218,2025-02-05,Nakuru Plant,Line D,Packaging Resin,Night,P. Otieno,1121,1117,11,16.5,7.8,89.57,Pass
+BAT-0219,2025-06-13,Mombasa Plant,Line A,Packaging Resin,Night,D. Kamau,1366,1224,4,52.5,7.0,138.03,Pass
+BAT-0220,2025-11-26,Nakuru Plant,Line B,Protective Coatings,Evening,P. Otieno,1245,1128,30,5.9,8.2,45.42,Review
+BAT-0221,2025-02-16,Athi River Plant,Line C,Packaging Resin,Evening,M. Hassan,1302,1189,4,145.9,8.4,108.17,Pass
+BAT-0222,2025-06-16,Athi River Plant,Line C,Industrial Cleaners,Night,P. Otieno,1284,1250,22,1.5,7.1,99.34,Pass
+BAT-0223,2025-09-14,Athi River Plant,Line C,Industrial Cleaners,Night,M. Hassan,1041,982,21,19.1,6.4,141.49,Review
+BAT-0224,2025-03-15,Nakuru Plant,Line C,Construction Additives,Evening,M. Hassan,921,895,7,19.1,6.5,29.43,Pass
+BAT-0225,2025-09-21,Athi River Plant,Line D,Packaging Resin,Day,S. Kiptoo,906,809,5,115.4,8.1,91.69,Pass
+BAT-0226,2025-04-22,Nakuru Plant,Line C,Construction Additives,Night,M. Hassan,832,804,18,33.3,7.3,108.52,Review
+BAT-0227,2025-10-23,Mombasa Plant,Line D,Water Treatment Chemicals,Evening,J. Mwangi,1156,1215,34,7.8,6.7,37.5,Review
+BAT-0228,2025-07-31,Nakuru Plant,Line A,Protective Coatings,Night,F. Ali,1192,1320,32,47.7,8.1,27.87,Review
+BAT-0229,2025-07-19,Mombasa Plant,Line E,Water Treatment Chemicals,Evening,S. Kiptoo,1670,1521,48,62.4,6.7,90.24,Review
+BAT-0230,2025-03-06,Nakuru Plant,Line C,Packaging Resin,Night,P. Otieno,1542,1649,37,52.1,7.6,35.16,Review
+BAT-0231,2025-06-19,Nakuru Plant,Line A,Industrial Cleaners,Evening,F. Ali,1060,935,16,18.2,7.0,29.01,Pass
+BAT-0232,2025-11-09,Nakuru Plant,Line C,Industrial Cleaners,Night,P. Otieno,1463,1527,16,13.5,8.1,87.32,Pass
+BAT-0233,2025-01-08,Athi River Plant,Line C,Industrial Cleaners,Night,D. Kamau,740,614,20,102.4,7.2,85.14,Review
+BAT-0234,2025-10-04,Mombasa Plant,Line B,Packaging Resin,Night,R. Njeri,1537,1303,25,89.0,7.2,135.05,Pass
+BAT-0235,2025-06-29,Nakuru Plant,Line C,Protective Coatings,Day,M. Hassan,1068,1154,10,71.8,6.5,30.09,Pass
+BAT-0236,2025-09-20,Athi River Plant,Line C,Construction Additives,Day,F. Ali,1243,1192,31,40.1,6.1,90.39,Review
+BAT-0237,2025-08-31,Mombasa Plant,Line B,Industrial Cleaners,Night,D. Kamau,1774,1603,21,21.8,7.6,70.36,Pass
+BAT-0238,2025-06-07,Athi River Plant,Line A,Protective Coatings,Evening,J. Mwangi,869,842,25,32.3,8.5,46.44,Review
+BAT-0239,2025-04-23,Nakuru Plant,Line A,Water Treatment Chemicals,Evening,R. Njeri,1498,1437,49,37.0,8.5,84.9,Review
+BAT-0240,2025-08-17,Nakuru Plant,Line D,Water Treatment Chemicals,Night,R. Njeri,1015,947,28,77.0,6.8,73.86,Review
+BAT-0241,2025-02-21,Nakuru Plant,Line B,Industrial Cleaners,Evening,J. Mwangi,965,841,9,26.6,6.8,87.5,Pass
+BAT-0242,2025-08-02,Nakuru Plant,Line C,Protective Coatings,Night,S. Kiptoo,1785,1816,29,34.7,7.9,60.36,Pass
+BAT-0243,2025-02-04,Nakuru Plant,Line D,Industrial Cleaners,Night,M. Hassan,1166,1120,19,61.8,6.6,114.44,Pass
+BAT-0244,2025-08-26,Mombasa Plant,Line B,Construction Additives,Day,J. Mwangi,1064,902,7,23.1,7.6,52.93,Pass
+BAT-0245,2025-08-18,Athi River Plant,Line A,Water Treatment Chemicals,Day,S. Kiptoo,1456,1466,44,17.1,6.4,95.03,Review
+BAT-0246,2025-01-31,Mombasa Plant,Line D,Protective Coatings,Evening,R. Njeri,771,790,22,11.1,8.2,19.4,Review
+BAT-0247,2025-10-04,Athi River Plant,Line E,Protective Coatings,Night,P. Otieno,1303,1339,12,23.4,7.6,110.05,Pass
+BAT-0248,2025-06-01,Nakuru Plant,Line A,Construction Additives,Evening,D. Kamau,896,753,9,11.4,7.2,63.68,Pass
+BAT-0249,2025-10-15,Mombasa Plant,Line C,Water Treatment Chemicals,Day,F. Ali,1515,1564,5,86.9,7.1,99.79,Pass
+BAT-0250,2025-01-16,Mombasa Plant,Line C,Construction Additives,Day,R. Njeri,947,808,20,37.9,6.3,78.33,Review
+BAT-0251,2025-03-07,Nakuru Plant,Line C,Protective Coatings,Day,,1383,1029,18,25.7,7.0,40.44,Pass
+BAT-0252,2025-06-30,Mombasa Plant,Line A,Water Treatment Chemicals,Evening,A. Wanjiku,1364,1162,38,19.6,6.0,135.47,Review
+BAT-0253,2025-03-10,Nakuru Plant,Line E,Packaging Resin,Day,J. Mwangi,1270,1223,39,36.4,8.4,87.89,Review
+BAT-0254,2025-05-01,Mombasa Plant,Line B,Water Treatment Chemicals,Night,S. Kiptoo,1748,1774,47,68.0,6.2,110.68,Review
+BAT-0255,2025-08-30,Nakuru Plant,Line B,Industrial Cleaners,Night,S. Kiptoo,901,966,32,30.8,7.8,64.86,Review
+BAT-0256,2025-02-22,Athi River Plant,Line B,Packaging Resin,Night,J. Mwangi,1634,1688,55,4.7,7.8,45.34,Review
+BAT-0257,2025-09-05,Mombasa Plant,Line B,Water Treatment Chemicals,Night,M. Hassan,1742,1666,37,10.2,8.3,50.75,Review
+BAT-0258,2025-02-07,Mombasa Plant,Line A,Packaging Resin,Day,J. Mwangi,1646,1378,8,2.1,7.7,61.15,Pass
+BAT-0259,2025-03-05,Mombasa Plant,Line E,Water Treatment Chemicals,Evening,J. Mwangi,1041,1207,16,33.8,8.1,84.05,Pass
+BAT-0260,2025-08-03,Athi River Plant,Line A,Packaging Resin,Day,D. Kamau,778,667,15,,6.3,130.41,Review
+BAT-0261,2025-10-17,Mombasa Plant,Line A,Protective Coatings,Evening,F. Ali,1459,1361,6,26.4,6.7,35.75,Pass
+BAT-0262,2025-03-04,Nakuru Plant,Line E,Water Treatment Chemicals,Day,F. Ali,1238,1135,13,58.5,6.1,96.03,Pass
+BAT-0263,2025-04-20,Mombasa Plant,Line E,Protective Coatings,Day,M. Hassan,1037,1075,11,3.5,7.1,68.05,Pass
+BAT-0264,2025-12-04,Nakuru Plant,Line A,Construction Additives,Day,F. Ali,1111,1004,22,33.1,6.1,83.42,Review
+BAT-0265,2025-12-28,Athi River Plant,Line A,Construction Additives,Evening,F. Ali,1532,1347,44,7.9,6.1,94.37,Review
+BAT-0266,2025-08-01,Mombasa Plant,Line C,Industrial Cleaners,Night,P. Otieno,1079,1045,24,43.9,8.3,142.59,Review
+BAT-0267,2025-06-13,Mombasa Plant,Line C,Industrial Cleaners,Night,R. Njeri,1511,1349,18,45.3,8.5,20.06,Pass
+BAT-0268,2025-05-07,Nakuru Plant,Line E,Construction Additives,Evening,F. Ali,746,633,11,75.4,8.4,78.31,Pass
+BAT-0269,2025-08-12,Nakuru Plant,Line D,Protective Coatings,Day,A. Wanjiku,720,702,11,31.5,8.3,81.81,Pass
+BAT-0270,2025-08-04,Nakuru Plant,Line B,Protective Coatings,Evening,F. Ali,844,743,22,35.9,7.1,53.49,Review
+BAT-0271,2025-04-18,Athi River Plant,Line C,Packaging Resin,Evening,D. Kamau,1155,1132,10,21.1,6.8,21.95,Pass
+BAT-0272,2025-01-09,Nakuru Plant,Line A,Construction Additives,Evening,D. Kamau,1641,1594,14,56.1,7.7,51.46,Pass
+BAT-0273,2025-02-25,Nakuru Plant,Line C,Water Treatment Chemicals,Evening,P. Otieno,1257,1289,18,115.0,8.1,90.64,Pass
+BAT-0274,2025-12-16,Mombasa Plant,Line A,construction additives,Day,,1091,1101,4,35.1,7.2,33.74,Pass
+BAT-0275,2025-06-02,Mombasa Plant,Line C,Construction Additives,Day,J. Mwangi,1748,1742,39,50.4,7.8,108.63,Review
+BAT-0276,2025-06-26,Nakuru Plant,Line E,Protective Coatings,Evening,A. Wanjiku,962,784,15,103.3,7.3,40.59,Pass
+BAT-0277,2025-06-20,Athi River Plant,Line D,Construction Additives,Night,J. Mwangi,1194,1142,4,48.6,6.3,48.51,Pass
+BAT-0278,2025-10-13,Nakuru Plant,Line C,Water Treatment Chemicals,Evening,A. Wanjiku,1375,1284,19,33.8,7.0,61.05,Pass
+BAT-0279,2025-01-24,Nakuru Plant,Line B,Protective Coatings,Day,F. Ali,1076,1076,29,43.7,8.5,135.92,Review
+BAT-0280,2025-01-31,Mombasa Plant,Line C,Packaging Resin,Night,R. Njeri,1061,1008,27,21.3,7.9,125.22,Review
+BAT-0281,2025-04-11,Athi River Plant,Line E,Industrial Cleaners,Day,D. Kamau,1227,1278,16,34.9,8.3,29.98,Pass
+BAT-0282,2025-06-27,Nakuru Plant,Line E,Protective Coatings,Night,J. Mwangi,1685,1877,45,39.6,6.1,115.81,Review
+BAT-0283,2025-09-02,Nakuru Plant,Line C,Protective Coatings,Day,P. Otieno,1513,1664,19,11.6,7.0,23.39,Pass
+BAT-0284,2025-06-29,Nakuru Plant,Line C,Water Treatment Chemicals,Evening,R. Njeri,1579,1659,27,37.9,8.2,52.33,Pass
+BAT-0285,2025-06-11,Mombasa Plant,Line B,Industrial Cleaners,Night,D. Kamau,1648,1709,27,49.4,6.6,81.84,Pass
+BAT-0286,2025-12-09,Mombasa Plant,Line A,Industrial Cleaners,Day,S. Kiptoo,1684,1649,26,134.0,8.1,50.6,Pass
+BAT-0287,2025-02-28,Athi River Plant,Line D,Construction Additives,Evening,P. Otieno,1437,1325,10,41.7,7.3,39.59,Pass
+BAT-0288,2025-07-28,Athi River Plant,Line C,Water Treatment Chemicals,Night,A. Wanjiku,1767,1752,57,78.8,6.3,89.61,Review
+BAT-0289,2025-07-17,Mombasa Plant,Line B,Industrial Cleaners,Night,J. Mwangi,1121,998,5,13.1,7.3,50.84,Pass
+BAT-0290,2025-06-22,Athi River Plant,Line D,Industrial Cleaners,Night,D. Kamau,1493,1542,48,14.6,6.5,59.05,Review
+BAT-0291,2025-10-22,Nakuru Plant,Line D,Construction Additives,Evening,M. Hassan,832,855,5,16.2,8.5,75.83,Pass
+BAT-0292,2025-04-08,Nakuru Plant,Line A,Packaging Resin,Evening,D. Kamau,1346,1467,8,52.3,6.3,136.06,Pass
+BAT-0293,2025-12-15,Athi River Plant,Line E,Industrial Cleaners,Evening,M. Hassan,1420,1275,20,14.5,6.5,132.09,Pass
+BAT-0294,2025-05-02,Mombasa Plant,Line D,Industrial Cleaners,Night,J. Mwangi,1743,1682,7,46.9,7.6,61.06,Pass
+BAT-0295,2025-07-18,Mombasa Plant,Line C,Industrial Cleaners,Day,P. Otieno,1347,1042,32,12.3,6.3,58.66,Review
+BAT-0296,2025-07-10,Athi River Plant,Line C,Water Treatment Chemicals,Day,J. Mwangi,1421,1649,8,49.2,6.9,50.33,Pass
+BAT-0297,2025-11-07,Nakuru Plant,Line D,Construction Additives,Day,P. Otieno,1431,1108,17,27.7,6.9,85.81,Pass
+BAT-0298,2025-06-10,Nakuru Plant,Line B,Construction Additives,Night,R. Njeri,1124,1059,35,34.7,7.3,133.54,Review
+BAT-0299,2025-04-14,Athi River Plant,Line A,Industrial Cleaners,Evening,J. Mwangi,1703,1738,60,22.0,7.1,29.78,Review
+BAT-0300,2025-01-08,Mombasa Plant,Line C,Construction Additives,Night,D. Kamau,1573,1373,26,32.6,7.8,128.41,Pass
+BAT-0301,2025-05-13,Athi River Plant,Line D,Protective Coatings,Evening,A. Wanjiku,1358,1199,36,34.6,6.1,88.64,Review
+BAT-0302,2025-10-29,Mombasa Plant,Line C,Construction Additives,Day,F. Ali,1392,1416,23,132.6,6.5,61.06,Pass
+BAT-0303,2025-01-04,Mombasa Plant,Line D,Water Treatment Chemicals,Day,S. Kiptoo,1475,1279,35,11.7,6.5,55.12,Review
+BAT-0304,2025-11-24,Nakuru Plant,Line D,Construction Additives,Night,A. Wanjiku,1474,1596,20,15.2,6.7,23.02,Pass
+BAT-0305,2025-07-18,Athi River Plant,Line C,Construction Additives,Day,R. Njeri,780,690,23,30.8,7.9,77.9,Review
+BAT-0306,2025-02-21,Mombasa Plant,Line E,Packaging Resin,Night,A. Wanjiku,1502,1084,21,,7.1,93.97,Pass
+BAT-0307,2025-04-21,Nakuru Plant,Line B,Protective Coatings,Evening,R. Njeri,1397,1009,8,15.5,6.9,54.51,Pass
+BAT-0308,2025-07-22,Mombasa Plant,Line A,Packaging Resin,Day,M. Hassan,1688,1723,55,26.9,6.1,26.51,Review
+BAT-0309,2025-04-26,Mombasa Plant,Line E,Packaging Resin,Day,A. Wanjiku,729,766,7,35.8,6.5,90.85,Pass
+BAT-0310,2025-02-09,Nakuru Plant,Line D,Packaging Resin,Evening,F. Ali,1144,871,25,77.6,6.3,72.41,Review
+BAT-0311,2025-09-01,Nakuru Plant,Line E,Protective Coatings,Evening,R. Njeri,805,828,4,138.9,6.4,26.78,Pass
+BAT-0312,2025-09-03,Athi River Plant,Line A,Packaging Resin,Evening,F. Ali,1459,1576,8,22.2,8.2,124.11,Pass
+BAT-0313,2025-02-13,Athi River Plant,Line E,Water Treatment Chemicals,Day,R. Njeri,782,726,7,20.9,7.4,72.13,Pass
+BAT-0314,2025-04-13,Mombasa Plant,Line C,Protective Coatings,Evening,,797,725,25,116.2,6.4,123.5,Review
+BAT-0315,2025-03-31,Mombasa Plant,Line C,Industrial Cleaners,Evening,A. Wanjiku,1740,1908,47,33.8,6.7,71.16,Review
+BAT-0316,2025-08-29,Nakuru Plant,Line E,Industrial Cleaners,Night,D. Kamau,756,894,12,25.6,6.8,49.86,Pass
+BAT-0317,2025-09-24,Nakuru Plant,Line E,Construction Additives,Night,J. Mwangi,1652,1671,12,1.9,7.7,125.65,Pass
+BAT-0318,2025-09-23,Nakuru Plant,Line B,construction additives,Evening,F. Ali,1101,886,3,39.7,7.9,143.37,Pass
+BAT-0319,2025-12-09,Mombasa Plant,Line A,Protective Coatings,Evening,A. Wanjiku,996,1060,28,60.4,6.9,19.39,Review
+BAT-0320,2025-10-08,Nakuru Plant,Line A,Water Treatment Chemicals,Night,P. Otieno,749,779,7,12.7,6.3,88.52,Pass
+BAT-0321,2025-04-28,Mombasa Plant,Line D,Industrial Cleaners,Evening,P. Otieno,1373,1403,40,31.3,6.6,88.6,Review
+BAT-0322,2025-02-09,Athi River Plant,Line C,Water Treatment Chemicals,Evening,D. Kamau,1356,1345,33,76.4,8.4,70.95,Review
+BAT-0323,2025-08-13,Nakuru Plant,Line E,Water Treatment Chemicals,Day,R. Njeri,916,1111,22,89.9,6.2,136.3,Pass
+BAT-0324,2025-12-01,Athi River Plant,Line A,Industrial Cleaners,Night,D. Kamau,1291,1097,6,26.3,8.3,110.16,Pass
+BAT-0325,2025-12-22,Athi River Plant,Line E,Water Treatment Chemicals,Day,R. Njeri,816,726,21,33.4,7.8,92.44,Review
+BAT-0326,2025-03-26,Nakuru Plant,Line B,Industrial Cleaners,Evening,M. Hassan,775,703,15,54.1,7.7,73.52,Review
+BAT-0327,2025-03-28,Mombasa Plant,Line E,Construction Additives,Night,A. Wanjiku,1439,1099,22,55.0,7.2,90.59,Review
+BAT-0328,2025-01-14,Nakuru Plant,Line D,Water Treatment Chemicals,Night,R. Njeri,1532,1403,30,27.6,7.6,109.47,Review
+BAT-0329,2025-02-21,Nakuru Plant,Line E,Packaging Resin,Day,D. Kamau,908,808,9,14.3,7.3,128.87,Pass
+BAT-0330,2025-07-22,Athi River Plant,Line A,Protective Coatings,Evening,M. Hassan,1406,1274,12,13.7,7.8,123.08,Pass
+BAT-0331,2025-07-19,Mombasa Plant,Line C,Packaging Resin,Evening,S. Kiptoo,1118,989,30,18.2,7.8,84.01,Review
+BAT-0332,2025-05-16,Mombasa Plant,Line B,Packaging Resin,Day,M. Hassan,1353,1508,13,22.0,6.9,137.91,Pass
+BAT-0333,2025-04-24,Nakuru Plant,Line E,Industrial Cleaners,Night,J. Mwangi,1120,1279,37,6.3,7.0,116.11,Review
+BAT-0334,2025-10-30,Nakuru Plant,Line B,Water Treatment Chemicals,Night,D. Kamau,1256,1085,5,12.5,8.3,130.23,Pass
+BAT-0335,2025-06-17,Mombasa plant,Line B,Packaging Resin,Night,P. Otieno,1414,1220,23,56.3,6.1,104.74,Pass
+BAT-0336,2025-10-23,Mombasa Plant,Line D,Construction Additives,Evening,S. Kiptoo,1274,1321,6,59.4,8.4,137.01,Pass
+BAT-0337,2025-12-18,Nakuru Plant,Line C,Construction Additives,Night,F. Ali,761,737,5,66.7,6.2,47.56,Pass
+BAT-0338,2025-04-26,Nakuru Plant,Line B,Packaging Resin,Evening,F. Ali,1286,1065,21,28.3,6.5,38.73,Pass
+BAT-0339,2025-03-15,Athi River Plant,Line E,Packaging Resin,Evening,F. Ali,1138,1167,9,32.7,8.3,132.62,Pass
+BAT-0340,2025-12-14,Athi River Plant,Line E,Water Treatment Chemicals,Night,D. Kamau,1320,1147,26,33.2,7.7,20.09,Review
+BAT-0341,2025-08-20,Mombasa Plant,Line E,Packaging Resin,Day,M. Hassan,738,643,2,38.4,7.3,82.41,Pass
+BAT-0342,2025-04-17,Nakuru Plant,Line D,Industrial Cleaners,Evening,A. Wanjiku,1754,1832,36,84.7,6.9,141.18,Pass
+BAT-0343,2025-08-15,Mombasa Plant,Line C,Protective Coatings,Day,P. Otieno,1189,1232,23,15.9,7.6,138.65,Pass
+BAT-0344,2025-07-07,Athi River Plant,Line E,Water Treatment Chemicals,Day,D. Kamau,890,805,9,77.5,7.2,21.94,Pass
+BAT-0345,2025-11-27,Mombasa Plant,Line D,Industrial Cleaners,Evening,J. Mwangi,1598,1681,37,92.2,7.0,23.24,Review
+BAT-0346,2025-04-04,Mombasa Plant,Line D,Construction Additives,Night,R. Njeri,1380,1560,5,38.4,7.4,113.38,Pass
+BAT-0347,2025-12-28,Athi River Plant,Line A,Packaging Resin,Evening,S. Kiptoo,1223,1241,37,4.8,6.3,135.63,Review
+BAT-0348,2025-12-08,Athi River Plant,Line A,Industrial Cleaners,Night,R. Njeri,1610,1511,13,4.1,6.0,74.55,Pass
+BAT-0349,2025-03-07,Mombasa Plant,Line A,Packaging Resin,Evening,F. Ali,1654,1498,41,73.5,8.2,100.88,Review
+BAT-0350,2025-03-02,Nakuru Plant,Line D,Packaging Resin,Evening,J. Mwangi,1068,1136,18,14.3,8.4,138.73,Pass
+BAT-0351,2025-07-14,Mombasa Plant,Line C,Industrial Cleaners,Day,P. Otieno,1180,1094,4,58.1,6.4,96.0,Pass
+BAT-0352,2025-01-17,Nakuru Plant,Line E,Protective Coatings,Night,D. Kamau,1152,906,28,47.5,8.0,80.59,Review
+BAT-0353,2025-04-20,Athi River Plant,Line B,Industrial Cleaners,Evening,A. Wanjiku,1042,960,29,2.4,8.1,132.57,Review
+BAT-0354,2025-06-08,Mombasa Plant,Line D,Industrial Cleaners,Night,F. Ali,1550,1495,49,82.2,7.4,71.66,Review
+BAT-0355,2025-12-20,Mombasa Plant,Line D,Industrial Cleaners,Night,J. Mwangi,1486,1157,6,46.5,7.2,130.75,Pass
+BAT-0356,2025-12-29,Nakuru Plant,Line B,Protective Coatings,Night,P. Otieno,1316,1253,22,43.5,6.5,122.51,Pass
+BAT-0357,2025-02-25,Athi River Plant,Line A,Water Treatment Chemicals,Night,R. Njeri,1115,1178,36,30.0,6.7,129.97,Review
+BAT-0358,2025-11-22,Nakuru Plant,Line D,Packaging Resin,Day,A. Wanjiku,918,1010,30,41.2,8.5,71.36,Review
+BAT-0359,2025-02-03,Athi River Plant,Line A,Protective Coatings,Night,J. Mwangi,957,764,11,14.9,7.4,31.45,Pass
+BAT-0360,2025-10-01,Athi River Plant,Line A,Construction Additives,Night,D. Kamau,1596,1445,22,86.4,6.6,80.43,Pass
+BAT-0361,2025-11-05,Athi River Plant,Line A,Water Treatment Chemicals,Evening,A. Wanjiku,1319,1240,22,59.7,7.5,74.8,Pass
+BAT-0362,2025-11-22,Mombasa Plant,Line A,Water Treatment Chemicals,Night,R. Njeri,1587,1461,27,3.8,7.2,121.87,Pass
+BAT-0363,2025-03-23,Mombasa Plant,Line C,Packaging Resin,Night,R. Njeri,1464,1305,10,17.3,7.5,54.23,Pass
+BAT-0364,2025-11-23,Nakuru Plant,Line D,Packaging Resin,Night,F. Ali,1520,1664,18,89.2,7.3,138.48,Pass
+BAT-0365,2025-02-12,Mombasa Plant,Line A,Packaging Resin,Night,F. Ali,1127,1082,8,73.2,8.0,22.08,Pass
+BAT-0366,2025-07-09,Athi River Plant,Line B,Industrial Cleaners,Day,S. Kiptoo,1119,1050,21,53.4,7.0,121.16,Review
+BAT-0367,2025-06-21,Athi River Plant,Line C,Industrial Cleaners,Night,D. Kamau,1316,1453,12,28.3,7.6,141.44,Pass
+BAT-0368,2025-04-26,Athi River Plant,Line C,Protective Coatings,Day,S. Kiptoo,1481,1265,12,3.5,7.3,143.84,Pass
+BAT-0369,2025-01-09,Athi River Plant,Line A,Water Treatment Chemicals,Night,R. Njeri,1144,989,14,27.7,7.0,39.33,Pass
+BAT-0370,2025-10-09,Mombasa Plant,Line C,Water Treatment Chemicals,Evening,D. Kamau,713,582,9,22.3,8.2,18.34,Pass
+BAT-0371,2025-05-03,Athi River Plant,Line C,Construction Additives,Day,F. Ali,1479,1522,26,87.6,6.5,85.26,Pass
+BAT-0372,2025-08-30,Athi River Plant,Line E,Construction Additives,Evening,A. Wanjiku,1028,1147,34,47.8,6.4,115.13,Review
+BAT-0373,2025-05-30,Mombasa Plant,Line D,Construction Additives,Night,P. Otieno,1647,1467,27,6.7,6.1,46.61,Pass
+BAT-0374,2025-05-17,Athi River Plant,Line C,Protective Coatings,Day,A. Wanjiku,1096,842,26,8.8,8.0,128.45,Review
+BAT-0375,2025-11-20,Nakuru Plant,Line C,Water Treatment Chemicals,Evening,F. Ali,1260,1272,41,36.3,6.3,58.1,Review
+BAT-0376,2025-02-04,Nakuru Plant,Line D,Protective Coatings,Day,F. Ali,1468,1531,37,75.3,8.1,143.86,Review
+BAT-0377,2025-09-26,Athi River Plant,Line A,Water Treatment Chemicals,Night,R. Njeri,1012,960,26,30.9,6.9,100.37,Review
+BAT-0378,2025-09-30,Athi River Plant,Line C,Protective Coatings,Night,J. Mwangi,878,848,5,35.4,6.3,99.0,Pass
+BAT-0379,2025-05-19,Nakuru Plant,Line D,Industrial Cleaners,Evening,P. Otieno,942,740,14,37.3,8.3,66.95,Pass
+BAT-0380,2025-04-06,Mombasa Plant,Line E,Industrial Cleaners,Night,F. Ali,1086,1242,43,8.9,8.1,91.62,Review
+BAT-0381,2025-01-02,Mombasa Plant,Line A,Industrial Cleaners,Day,R. Njeri,1281,1178,41,13.1,7.2,25.79,Review
+BAT-0382,2025-12-08,Athi River Plant,Line E,Water Treatment Chemicals,Day,P. Otieno,1390,1424,19,14.8,7.8,41.34,Pass
+BAT-0383,2025-12-12,Athi River Plant,Line C,Construction Additives,Evening,A. Wanjiku,1694,1597,6,56.6,7.4,53.88,Pass
+BAT-0384,2025-03-29,Mombasa Plant,Line E,Protective Coatings,Evening,D. Kamau,882,941,11,9.7,7.7,24.86,Pass
+BAT-0385,2025-01-12,Nakuru Plant,Line C,Water Treatment Chemicals,Day,A. Wanjiku,1667,1330,13,20.0,8.0,111.52,Pass
+BAT-0386,2025-02-14,Nakuru Plant,Line B,Industrial Cleaners,Evening,D. Kamau,1752,1988,58,59.6,7.7,99.68,Review
+BAT-0387,2025-01-25,Mombasa Plant,Line C,Protective Coatings,Evening,F. Ali,1749,1604,45,165.7,7.1,73.66,Review
+BAT-0388,2025-10-31,Nakuru Plant,Line C,Packaging Resin,Night,F. Ali,1415,1571,16,17.7,6.2,115.47,Pass
+BAT-0389,2025-11-22,Mombasa Plant,Line B,Packaging Resin,Day,F. Ali,1491,1422,18,19.2,7.9,137.32,Pass
+BAT-0390,2025-02-25,Nakuru Plant,Line D,Packaging Resin,Day,R. Njeri,1114,1011,17,71.4,7.0,84.71,Pass
+BAT-0391,2025-09-30,Nakuru Plant,Line A,Water Treatment Chemicals,Night,M. Hassan,936,838,13,25.8,7.4,136.2,Pass
+BAT-0392,2025-03-07,Mombasa Plant,Line B,Water Treatment Chemicals,Evening,S. Kiptoo,1049,1018,3,103.6,6.6,33.05,Pass
+BAT-0393,2025-05-15,Mombasa Plant,Line B,Industrial Cleaners,Day,F. Ali,1669,1541,4,22.3,6.4,29.88,Pass
+BAT-0394,2025-08-07,Athi River Plant,Line E,Industrial Cleaners,Night,R. Njeri,938,973,9,56.8,6.1,137.55,Pass
+BAT-0395,2025-09-20,Nakuru Plant,Line B,Construction Additives,Night,A. Wanjiku,1138,1093,24,29.3,7.5,143.31,Review
+BAT-0396,2025-11-16,Athi River Plant,Line D,Industrial Cleaners,Night,F. Ali,819,711,16,66.1,7.1,66.76,Review
+BAT-0397,2025-01-17,Athi River Plant,Line D,Protective Coatings,Night,A. Wanjiku,1181,1161,27,75.8,8.4,25.32,Review
+BAT-0398,2025-03-13,Athi River Plant,Line A,Packaging Resin,Evening,F. Ali,1725,1782,13,17.6,7.3,103.54,Pass
+BAT-0399,2025-04-13,Athi River Plant,Line B,Protective Coatings,Night,P. Otieno,830,783,3,87.4,7.8,144.92,Pass
+BAT-0400,2025-04-24,Athi River Plant,Line E,Packaging Resin,Day,A. Wanjiku,1202,1146,5,35.7,7.5,104.87,Pass
+BAT-0401,2025-12-31,Mombasa Plant,Line C,Protective Coatings,Day,P. Otieno,1153,1459,14,11.1,7.4,130.0,Pass
+BAT-0402,2025-10-11,Nakuru Plant,Line B,Water Treatment Chemicals,Evening,M. Hassan,1347,1370,7,3.9,6.6,19.42,Pass
+BAT-0403,2025-04-27,Athi River Plant,Line B,Industrial Cleaners,Night,M. Hassan,871,720,8,20.0,7.0,59.2,Pass
+BAT-0404,2025-12-21,Nakuru Plant,Line C,Packaging Resin,Night,A. Wanjiku,1786,1848,14,73.2,7.9,36.79,Pass
+BAT-0405,2025-07-02,Nakuru Plant,Line B,Protective Coatings,Night,P. Otieno,1215,1126,3,15.0,6.6,134.08,Pass
+BAT-0406,2025-07-02,Nakuru Plant,Line E,Packaging Resin,Night,R. Njeri,1705,1523,33,17.6,6.6,86.95,Review
+BAT-0407,2025-06-08,Mombasa Plant,Line A,Protective Coatings,Day,J. Mwangi,1072,969,17,7.4,7.6,34.28,Pass
+BAT-0408,2025-02-22,Athi River Plant,Line B,Protective Coatings,Night,D. Kamau,1052,1130,27,32.8,7.8,108.95,Review
+BAT-0409,2025-12-08,Nakuru Plant,Line A,Protective Coatings,Evening,M. Hassan,1373,1011,22,42.8,6.2,48.64,Review
+BAT-0410,2025-01-06,Athi River Plant,Line B,Water Treatment Chemicals,Night,D. Kamau,1663,1748,39,16.6,8.0,122.38,Review
+BAT-0411,2025-03-05,Athi River Plant,Line A,Water Treatment Chemicals,Night,J. Mwangi,854,888,21,40.2,6.5,142.36,Review
+BAT-0412,2025-03-25,Athi River Plant,Line D,Packaging Resin,Evening,F. Ali,1040,1120,12,69.4,7.9,28.73,Pass
+BAT-0413,2025-04-12,Athi River Plant,Line E,Packaging Resin,Day,R. Njeri,1136,1005,27,98.8,6.7,130.94,Review
+BAT-0414,2025-02-18,Nakuru Plant,Line C,Water Treatment Chemicals,Evening,P. Otieno,1552,1525,39,96.4,8.4,29.63,Review
+BAT-0415,2025-01-07,Nakuru Plant,Line E,Water Treatment Chemicals,Day,R. Njeri,1341,1247,26,0.9,6.8,35.94,Review
+BAT-0416,2025-09-05,Athi River Plant,Line A,Packaging Resin,Evening,F. Ali,1059,1036,15,117.2,8.0,26.19,Pass
+BAT-0417,2025-12-20,Mombasa Plant,Line A,Packaging Resin,Day,M. Hassan,1110,888,20,86.3,6.0,41.41,Review
+BAT-0418,2025-02-14,Nakuru Plant,Line D,Construction Additives,Day,P. Otieno,979,934,25,31.5,7.1,113.19,Review
+BAT-0419,2025-04-19,Nakuru Plant,Line C,Water Treatment Chemicals,Day,P. Otieno,931,820,8,29.0,8.2,30.39,Pass
+BAT-0420,2025-07-04,Nakuru Plant,Line D,Construction Additives,Evening,M. Hassan,1773,1667,31,39.7,7.5,37.26,Pass
+BAT-0421,2025-12-05,Mombasa Plant,Line A,Construction Additives,Evening,F. Ali,1628,1599,17,85.0,8.2,65.49,Pass
+BAT-0422,2025-09-11,Mombasa Plant,Line E,Packaging Resin,Evening,J. Mwangi,937,854,22,15.9,7.1,20.06,Review
+BAT-0423,2025-10-07,Athi River Plant,Line D,Industrial Cleaners,Night,F. Ali,1284,1320,42,118.1,6.8,95.59,Review
+BAT-0424,2025-08-01,Nakuru Plant,Line A,Water Treatment Chemicals,Day,D. Kamau,1761,1877,12,25.6,7.6,117.18,Pass
+BAT-0425,2025-06-02,Athi River Plant,Line C,Packaging Resin,Evening,R. Njeri,1602,1696,34,19.4,8.3,129.1,Review
+BAT-0426,2025-03-14,Athi River Plant,Line A,Industrial Cleaners,Night,S. Kiptoo,1537,1393,7,91.1,7.0,50.73,Pass
+BAT-0427,2025-11-12,Nakuru Plant,Line C,Water Treatment Chemicals,Day,,874,903,24,7.9,7.6,103.85,Review
+BAT-0428,2025-10-21,Athi River Plant,Line E,Protective Coatings,Evening,A. Wanjiku,887,742,24,42.7,6.8,50.41,Review
+BAT-0429,2025-01-10,Mombasa Plant,Line D,Packaging Resin,Evening,R. Njeri,1113,1060,8,78.8,7.7,52.37,Pass
+BAT-0430,2025-09-19,Athi River Plant,Line B,Protective Coatings,Day,D. Kamau,1482,1367,18,47.0,7.1,42.18,Pass
+BAT-0431,2025-01-31,Mombasa Plant,Line A,Protective Coatings,Day,P. Otieno,1452,1262,41,30.3,7.1,132.44,Review
+BAT-0432,2025-09-27,Athi River Plant,Line E,Water Treatment Chemicals,Evening,P. Otieno,912,814,22,24.6,8.1,25.22,Review
+BAT-0433,2025-10-29,Nakuru Plant,Line B,Protective Coatings,Evening,R. Njeri,778,747,26,39.6,6.2,123.03,Review
+BAT-0434,2025-02-17,Athi River Plant,Line E,Packaging Resin,Night,M. Hassan,1555,1525,46,5.9,6.5,18.1,Review
+BAT-0435,2025-06-08,Athi River Plant,Line E,Protective Coatings,Night,F. Ali,881,734,9,69.0,6.2,25.23,Pass
+BAT-0436,2025-02-15,Athi River Plant,Line D,Protective Coatings,Day,R. Njeri,1358,1239,41,56.2,6.4,108.8,Review
+BAT-0437,2025-07-27,Nakuru Plant,Line A,Water Treatment Chemicals,Evening,M. Hassan,785,701,3,64.2,7.5,143.3,Pass
+BAT-0438,2025-12-05,Nakuru Plant,Line D,Industrial Cleaners,Evening,S. Kiptoo,1361,1217,37,12.1,6.9,18.55,Review
+BAT-0439,2025-01-30,Nakuru Plant,Line D,Industrial Cleaners,Day,D. Kamau,740,766,6,35.9,6.1,28.23,Pass
+BAT-0440,2025-05-26,Nakuru Plant,Line B,Packaging Resin,Day,A. Wanjiku,1258,1410,17,57.8,6.5,21.41,Pass
+BAT-0441,2025-12-22,Mombasa Plant,Line D,Packaging Resin,Evening,D. Kamau,969,809,16,42.0,6.2,37.6,Pass
+BAT-0442,2025-04-20,Athi River Plant,Line B,Packaging Resin,Evening,F. Ali,1309,1329,42,31.1,7.6,135.89,Review
+BAT-0443,2025-02-18,Nakuru Plant,Line B,Industrial Cleaners,Night,S. Kiptoo,1633,1576,9,18.3,6.9,107.06,Pass
+BAT-0444,2025-06-28,Athi River Plant,Line D,Protective Coatings,Night,D. Kamau,1158,1173,31,118.5,6.9,19.65,Review
+BAT-0445,2025-07-05,Mombasa Plant,Line D,Water Treatment Chemicals,Night,R. Njeri,1600,1472,40,43.2,7.7,35.65,Review
+BAT-0446,2025-08-30,Athi River Plant,Line C,Protective Coatings,Night,F. Ali,1008,994,23,13.6,7.2,73.8,Review
+BAT-0447,2025-04-25,Mombasa Plant,Line C,Packaging Resin,Night,M. Hassan,962,898,6,6.9,8.4,54.18,Pass
+BAT-0448,2025-12-15,Athi River Plant,Line C,Packaging Resin,Night,S. Kiptoo,823,845,17,18.0,8.3,56.09,Review
+BAT-0449,2025-07-10,Athi River Plant,Line D,Construction Additives,Evening,M. Hassan,845,901,28,54.3,7.2,141.36,Review
+BAT-0450,2025-04-15,Mombasa Plant,Line E,Water Treatment Chemicals,Night,D. Kamau,826,864,3,37.2,8.0,30.88,Pass
+BAT-0451,2025-12-17,Athi River Plant,Line B,Construction Additives,Evening,J. Mwangi,1591,1617,40,54.4,6.2,78.59,Review
+BAT-0452,2025-12-04,Nakuru Plant,Line A,Water Treatment Chemicals,Evening,F. Ali,1039,855,23,7.3,8.4,35.8,Review
+BAT-0453,2025-07-02,Nakuru Plant,Line D,Water Treatment Chemicals,Day,S. Kiptoo,1733,1438,36,27.1,8.0,79.4,Review
+BAT-0454,2025-01-10,Athi River Plant,Line E,Protective Coatings,Night,M. Hassan,1756,1631,39,71.5,6.1,53.01,Review
+BAT-0455,2025-08-06,Mombasa Plant,Line E,Packaging Resin,Night,S. Kiptoo,812,734,12,33.4,6.2,73.04,Pass
+BAT-0456,2025-07-22,Mombasa Plant,Line E,Packaging Resin,Day,S. Kiptoo,803,808,15,8.4,7.2,140.72,Pass
+BAT-0457,2025-02-24,Mombasa Plant,Line D,Industrial Cleaners,Evening,F. Ali,1107,878,29,3.9,6.8,50.5,Review
+BAT-0458,2025-08-20,Nakuru Plant,Line B,Industrial Cleaners,Day,P. Otieno,1532,1565,34,7.0,6.2,136.54,Review
+BAT-0459,2025-11-03,Nakuru Plant,Line D,Construction Additives,Evening,S. Kiptoo,1587,1610,8,71.2,7.8,30.93,Pass
+BAT-0460,2025-02-08,Athi River Plant,Line C,Water Treatment Chemicals,Night,J. Mwangi,1731,1514,25,39.7,7.8,119.77,Pass
+BAT-0461,2025-09-22,Nakuru Plant,Line E,Industrial Cleaners,Day,J. Mwangi,1305,1366,26,37.5,6.6,137.91,Pass
+BAT-0462,2025-02-21,Athi River Plant,Line B,Packaging Resin,Day,D. Kamau,1365,1259,18,42.3,6.9,84.63,Pass
+BAT-0463,2025-10-01,Mombasa Plant,Line C,Construction Additives,Day,J. Mwangi,1319,1122,32,41.9,6.4,31.15,Review
+BAT-0464,2025-06-02,Nakuru Plant,Line E,Water Treatment Chemicals,Day,R. Njeri,1672,1598,34,24.6,7.9,67.87,Review
+BAT-0465,2025-01-03,Athi River Plant,Line E,Water Treatment Chemicals,Night,F. Ali,1680,1290,24,10.5,6.9,89.2,Pass
+BAT-0466,2025-12-19,Nakuru Plant,Line D,Packaging Resin,Evening,S. Kiptoo,736,834,10,57.4,6.9,92.31,Pass
+BAT-0467,2025-03-02,Athi River Plant,Line B,Industrial Cleaners,Night,F. Ali,1650,1761,41,22.6,6.3,74.01,Review
+BAT-0468,2025-08-06,Nakuru Plant,Line B,Water Treatment Chemicals,Day,R. Njeri,1356,1376,11,19.1,7.3,71.89,Pass
+BAT-0469,2025-03-08,Nakuru Plant,Line B,Water Treatment Chemicals,Day,D. Kamau,1373,1393,45,65.9,7.4,43.74,Review
+BAT-0470,2025-12-07,Nakuru Plant,Line C,Construction Additives,Day,D. Kamau,711,610,10,21.8,6.7,35.56,Pass
+BAT-0471,2025-09-27,Mombasa Plant,Line B,Industrial Cleaners,Evening,R. Njeri,1137,1189,38,28.1,6.2,31.99,Review
+BAT-0472,2025-10-21,Mombasa Plant,Line C,Packaging Resin,Evening,S. Kiptoo,1469,1364,40,36.9,7.3,133.21,Review
+BAT-0473,2025-06-07,Athi River Plant,Line C,Construction Additives,Evening,J. Mwangi,754,673,12,25.8,6.3,101.67,Pass
+BAT-0474,2025-06-20,Nakuru Plant,Line C,Water Treatment Chemicals,Night,S. Kiptoo,1666,1608,20,25.3,6.6,96.74,Pass
+BAT-0475,2025-08-20,Nakuru Plant,Line A,Industrial Cleaners,Evening,M. Hassan,770,798,11,101.3,7.6,69.13,Pass
+BAT-0476,2025-10-14,Athi River Plant,Line E,Packaging Resin,Night,M. Hassan,1566,1531,47,48.9,8.3,122.34,Review
+BAT-0477,2025-11-06,Nakuru Plant,Line C,Industrial Cleaners,Evening,S. Kiptoo,1500,1388,7,0.5,7.4,59.76,Pass
+BAT-0478,2025-01-07,Mombasa Plant,Line D,Packaging Resin,Day,F. Ali,1319,1288,14,30.8,6.5,23.13,Pass
+BAT-0479,2025-08-31,Athi River Plant,Line D,Protective Coatings,Night,F. Ali,1670,1608,43,25.3,6.8,122.35,Review
+BAT-0480,2025-02-09,Nakuru Plant,Line B,Protective Coatings,Day,A. Wanjiku,1101,894,3,19.1,8.5,117.35,Pass
+BAT-0481,2025-04-16,Athi River Plant,Line E,Protective Coatings,Night,R. Njeri,1025,955,16,38.7,8.0,18.85,Pass
+BAT-0482,2025-10-30,Nakuru Plant,Line A,Industrial Cleaners,Day,S. Kiptoo,1732,1736,39,31.6,6.8,57.42,Review
+BAT-0483,2025-04-02,Nakuru Plant,Line B,Protective Coatings,Day,R. Njeri,1574,1385,22,11.6,7.4,72.91,Pass
+BAT-0484,2025-10-18,Athi River Plant,Line A,Protective Coatings,Night,S. Kiptoo,1764,1365,28,20.8,7.1,107.57,Review
+BAT-0485,2025-06-18,Athi River Plant,Line A,Protective Coatings,Night,F. Ali,789,659,16,55.1,7.9,44.5,Review
+BAT-0486,2025-03-26,Athi River Plant,Line B,Industrial Cleaners,Night,D. Kamau,1622,1550,11,2.0,8.0,109.07,Pass
+BAT-0487,2025-05-02,Nakuru Plant,Line A,Construction Additives,Night,F. Ali,1523,1479,31,64.5,6.0,99.9,Review
+BAT-0488,2025-07-13,Nakuru Plant,Line A,Water Treatment Chemicals,Evening,M. Hassan,1534,1635,47,12.6,7.7,53.32,Review
+BAT-0489,2025-10-07,Nakuru Plant,Line B,Industrial Cleaners,Night,A. Wanjiku,1271,1320,29,24.0,6.4,87.01,Review
+BAT-0490,2025-08-10,Athi River Plant,Line C,Industrial Cleaners,Night,A. Wanjiku,1755,1702,11,25.3,7.0,82.26,Pass
+BAT-0491,2025-12-07,Mombasa Plant,Line A,Protective Coatings,Evening,J. Mwangi,1791,1917,35,,6.1,20.09,Pass
+BAT-0492,2025-11-13,Athi River Plant,Line B,Water Treatment Chemicals,Day,D. Kamau,1175,942,26,54.9,6.6,93.21,Review
+BAT-0493,2025-10-02,Athi River Plant,Line D,Water Treatment Chemicals,Evening,D. Kamau,1594,1379,43,26.6,6.6,59.91,Review
+BAT-0494,2025-08-09,Nakuru Plant,Line E,Industrial Cleaners,Day,R. Njeri,870,715,4,47.2,8.1,127.69,Pass
+BAT-0495,2025-04-16,Mombasa Plant,Line E,Industrial Cleaners,Evening,P. Otieno,1412,1137,32,24.8,7.2,135.58,Review
+BAT-0496,2025-05-31,Mombasa Plant,Line A,Packaging Resin,Evening,F. Ali,1309,976,18,26.7,8.3,41.42,Pass
+BAT-0497,2025-02-13,Athi River Plant,Line E,Protective Coatings,Evening,S. Kiptoo,1022,1115,33,61.6,6.8,114.77,Review
+BAT-0498,2025-05-17,Athi River Plant,Line C,Packaging Resin,Day,M. Hassan,1771,1658,22,9.5,7.0,122.15,Pass
+BAT-0499,2025-12-05,Nakuru Plant,Line A,Packaging Resin,Day,D. Kamau,1164,1234,34,70.4,7.0,109.75,Review
+BAT-0500,2025-06-05,Mombasa Plant,Line B,Protective Coatings,Day,A. Wanjiku,982,1005,18,9.8,7.9,55.16,Pass
+BAT-0501,2025-02-11,Nakuru Plant,Line A,Industrial Cleaners,Evening,J. Mwangi,1190,1019,4,47.9,8.5,128.42,Pass
+BAT-0502,2025-08-26,Nakuru Plant,Line A,Packaging Resin,Evening,F. Ali,1585,1501,18,42.7,6.3,81.65,Pass
+BAT-0503,2025-12-18,Nakuru Plant,Line B,Packaging Resin,Day,P. Otieno,1786,1584,17,33.4,6.5,46.67,Pass
+BAT-0504,2025-11-13,Athi River Plant,Line B,Protective Coatings,Night,R. Njeri,942,940,29,8.3,7.5,106.21,Review
+BAT-0505,2025-04-11,Nakuru Plant,Line C,Protective Coatings,Day,M. Hassan,1185,1179,26,46.5,6.7,75.27,Review
+BAT-0506,2025-06-15,Nakuru Plant,Line E,Packaging Resin,Day,D. Kamau,1102,968,30,37.2,7.7,99.63,Review
+BAT-0507,2025-07-13,Athi River Plant,Line A,Water Treatment Chemicals,Night,P. Otieno,857,960,15,69.1,7.5,25.85,Pass
+BAT-0508,2025-04-01,Nakuru Plant,Line D,Construction Additives,Day,R. Njeri,908,965,19,4.8,6.7,21.84,Pass
+BAT-0509,2025-04-09,Nakuru Plant,Line C,Construction Additives,Night,D. Kamau,825,723,10,55.4,7.0,49.38,Pass
+BAT-0510,2025-03-28,Mombasa Plant,Line C,Construction Additives,Evening,P. Otieno,1598,1801,23,55.4,6.5,58.34,Pass
+BAT-0511,2025-12-30,Athi River Plant,Line B,Protective Coatings,Day,,1660,1653,16,30.4,8.3,131.03,Pass
+BAT-0512,2025-09-30,Athi River Plant,Line A,Packaging Resin,Night,D. Kamau,791,803,7,8.1,6.3,66.26,Pass
+BAT-0513,2025-11-03,Nakuru Plant,Line E,Construction Additives,Day,D. Kamau,818,951,13,12.0,8.0,129.55,Pass
+BAT-0514,2025-10-26,Athi River Plant,Line B,Packaging Resin,Evening,A. Wanjiku,1333,1459,6,108.0,7.8,39.72,Pass
+BAT-0515,2025-12-17,Athi River Plant,Line A,Construction Additives,Night,S. Kiptoo,1790,1400,19,85.6,8.4,96.12,Pass
+BAT-0516,2025-02-08,Athi River Plant,Line D,Industrial Cleaners,Night,J. Mwangi,1168,1129,6,58.9,7.4,113.5,Pass
+BAT-0517,2025-11-18,Mombasa Plant,Line E,Industrial Cleaners,Night,S. Kiptoo,1790,1581,26,19.2,8.2,49.0,Pass
+BAT-0518,2025-01-25,Mombasa Plant,Line C,Construction Additives,Evening,J. Mwangi,1166,1219,9,75.6,6.8,103.1,Pass
+BAT-0519,2025-06-23,Mombasa Plant,Line A,Packaging Resin,Night,F. Ali,1597,1392,48,69.2,7.9,126.23,Review
+BAT-0520,2025-08-05,Nakuru Plant,Line E,Packaging Resin,Night,S. Kiptoo,1183,1280,42,52.2,7.2,99.06,Review
+BAT-0521,2025-05-11,Mombasa Plant,Line E,Construction Additives,Evening,M. Hassan,1323,1099,31,25.7,8.4,49.61,Review
+BAT-0522,2025-02-23,Athi River Plant,Line E,Construction Additives,Night,R. Njeri,1266,1426,45,29.9,7.4,91.55,Review
+BAT-0523,2025-03-12,Athi River Plant,Line C,Water Treatment Chemicals,Night,F. Ali,1695,1858,52,33.7,7.1,44.82,Review
+BAT-0524,2025-10-29,Mombasa Plant,Line D,Construction Additives,Evening,S. Kiptoo,884,903,5,42.5,7.8,49.77,Pass
+BAT-0525,2025-04-27,Athi River Plant,Line D,Water Treatment Chemicals,Day,S. Kiptoo,1648,1648,31,22.1,7.1,113.42,Pass
+BAT-0526,2025-04-24,Mombasa Plant,Line C,Packaging Resin,Night,D. Kamau,1664,1414,16,4.6,8.3,38.96,Pass
+BAT-0527,2025-12-04,Mombasa Plant,Line B,Water Treatment Chemicals,Evening,S. Kiptoo,866,713,3,118.6,8.0,83.09,Pass
+BAT-0528,2025-02-22,Nakuru Plant,Line B,Construction Additives,Evening,R. Njeri,1787,1602,52,49.7,8.4,104.45,Review
+BAT-0529,2025-12-01,Athi River Plant,Line D,Water Treatment Chemicals,Evening,P. Otieno,1428,1431,7,165.0,7.9,140.15,Pass
+BAT-0530,2025-12-03,Mombasa Plant,Line B,Water Treatment Chemicals,Night,F. Ali,1600,1324,13,,7.3,135.84,Pass
+BAT-0531,2025-08-07,Nakuru Plant,Line A,Packaging Resin,Night,J. Mwangi,914,872,8,13.9,6.8,20.96,Pass
+BAT-0532,2025-03-02,Nakuru Plant,Line A,Industrial Cleaners,Day,D. Kamau,1757,1655,39,50.9,7.9,70.74,Review
+BAT-0533,2025-02-26,Nakuru Plant,Line B,Packaging Resin,Day,P. Otieno,716,693,6,15.6,6.1,38.0,Pass
+BAT-0534,2025-04-14,Mombasa Plant,Line E,Industrial Cleaners,Evening,R. Njeri,1001,989,28,33.5,7.4,35.47,Review
+BAT-0535,2025-07-30,Nakuru Plant,Line E,Industrial Cleaners,Evening,F. Ali,1667,1638,27,52.2,6.7,105.1,Pass
+BAT-0536,2025-02-26,Mombasa Plant,Line E,Industrial Cleaners,Night,D. Kamau,1321,1644,33,23.3,6.1,109.81,Review
+BAT-0537,2025-06-16,Mombasa Plant,Line E,Industrial Cleaners,Night,M. Hassan,1104,1007,23,5.8,7.2,96.86,Review
+BAT-0538,2025-02-12,Athi River Plant,Line A,Protective Coatings,Night,D. Kamau,1300,1200,20,5.1,7.7,23.07,Pass
+BAT-0539,2025-07-17,Mombasa Plant,Line A,Packaging Resin,Night,P. Otieno,1537,1448,34,57.0,7.5,139.81,Review
+BAT-0540,2025-01-08,Mombasa Plant,Line E,Packaging Resin,Night,M. Hassan,1575,1480,15,8.9,6.7,71.85,Pass
+BAT-0541,2025-09-16,Athi River Plant,Line D,Water Treatment Chemicals,Day,R. Njeri,1257,1280,12,30.6,8.0,73.57,Pass
+BAT-0542,2025-01-21,Athi River Plant,Line E,Construction Additives,Day,S. Kiptoo,1005,1040,4,21.9,7.7,61.65,Pass
+BAT-0543,2025-03-13,Nakuru Plant,Line A,Water Treatment Chemicals,Night,J. Mwangi,942,818,18,46.1,7.2,65.07,Review
+BAT-0544,2025-03-05,Athi River Plant,Line D,Industrial Cleaners,Evening,F. Ali,1745,1510,52,83.3,7.0,18.25,Review
+BAT-0545,2025-10-31,Nakuru Plant,Line A,Industrial Cleaners,Night,P. Otieno,871,793,25,21.2,7.8,76.88,Review
+BAT-0546,2025-01-20,Athi River Plant,Line D,Industrial Cleaners,Night,R. Njeri,1749,1649,53,5.2,6.6,36.09,Review
+BAT-0547,2025-06-06,Mombasa Plant,Line E,Protective Coatings,Day,S. Kiptoo,1627,1526,34,41.0,6.8,68.81,Review
+BAT-0548,2025-08-04,Nakuru Plant,Line E,Packaging Resin,Evening,M. Hassan,1430,1358,39,44.3,7.8,85.35,Review
+BAT-0549,2025-07-08,Mombasa Plant,Line C,Industrial Cleaners,Night,J. Mwangi,815,747,15,16.4,8.0,82.94,Review
+BAT-0550,2025-09-06,Athi River Plant,Line A,Packaging Resin,Day,P. Otieno,1112,1174,18,77.5,6.8,83.88,Pass
+BAT-0551,2025-10-21,Mombasa Plant,Line C,Construction Additives,Day,S. Kiptoo,1713,1684,51,39.0,6.9,135.21,Review
+BAT-0552,2025-05-24,Athi River Plant,Line E,Protective Coatings,Evening,D. Kamau,1299,1146,33,87.4,6.3,133.56,Review
+BAT-0553,2025-10-30,Nakuru Plant,Line A,Packaging Resin,Night,R. Njeri,1417,1164,22,30.0,6.7,61.52,Pass
+BAT-0554,2025-04-27,Mombasa Plant,Line D,Industrial Cleaners,Day,A. Wanjiku,1285,1221,6,174.1,6.5,42.24,Pass
+BAT-0555,2025-12-26,Nakuru Plant,Line E,Water Treatment Chemicals,Night,D. Kamau,1056,976,5,34.8,8.2,55.51,Pass
+BAT-0556,2025-07-04,Mombasa Plant,Line C,Water Treatment Chemicals,Evening,F. Ali,1369,1368,35,9.5,6.2,93.35,Review
+BAT-0557,2025-09-26,Athi River Plant,Line E,Packaging Resin,Evening,D. Kamau,922,923,12,100.0,6.3,106.24,Pass
+BAT-0558,2025-11-16,Nakuru Plant,Line E,Packaging Resin,Night,D. Kamau,1788,1628,30,9.6,6.4,72.88,Pass
+BAT-0559,2025-10-17,Nakuru Plant,Line C,Industrial Cleaners,Day,A. Wanjiku,776,643,5,40.8,6.2,43.69,Pass
+BAT-0560,2025-11-07,Athi River Plant,Line B,Industrial Cleaners,Evening,P. Otieno,857,757,18,33.8,6.2,74.01,Review
+BAT-0561,2025-07-15,Athi River Plant,Line C,Construction Additives,Day,A. Wanjiku,757,619,6,1.5,7.2,143.79,Pass
+BAT-0562,2025-01-16,Athi River Plant,Line D,Industrial Cleaners,Evening,M. Hassan,1339,1525,8,18.1,6.8,48.19,Pass
+BAT-0563,2025-06-29,Mombasa Plant,Line A,Industrial Cleaners,Day,D. Kamau,966,771,6,151.2,7.8,63.35,Pass
+BAT-0564,2025-03-08,Nakuru Plant,Line E,Construction Additives,Night,D. Kamau,715,783,6,149.4,7.2,37.36,Pass
+BAT-0565,2025-11-21,Mombasa Plant,Line A,Industrial Cleaners,Evening,A. Wanjiku,1149,1028,33,38.5,6.1,89.77,Review
+BAT-0566,2025-03-28,Nakuru Plant,Line C,Protective Coatings,Evening,J. Mwangi,877,900,5,32.6,7.8,46.16,Pass
+BAT-0567,2025-03-25,Athi River Plant,Line D,Water Treatment Chemicals,Day,S. Kiptoo,1779,1519,50,56.9,7.6,102.19,Review
+BAT-0568,2025-04-02,Nakuru Plant,Line B,Protective Coatings,Night,D. Kamau,912,984,14,46.5,7.6,87.36,Pass
+BAT-0569,2025-08-23,Mombasa Plant,Line C,Packaging Resin,Evening,M. Hassan,1593,1560,23,54.9,8.1,74.18,Pass
+BAT-0570,2025-07-28,Mombasa Plant,Line A,Construction Additives,Day,D. Kamau,836,797,14,31.2,6.6,48.67,Pass
+BAT-0571,2025-12-13,Athi River Plant,Line C,Water Treatment Chemicals,Evening,A. Wanjiku,1076,1139,19,66.2,8.1,125.91,Pass
+BAT-0572,2025-06-01,Athi River Plant,Line B,Water Treatment Chemicals,Night,F. Ali,991,1002,28,21.6,8.4,107.36,Review
+BAT-0573,2025-04-14,Nakuru Plant,Line B,Protective Coatings,Evening,A. Wanjiku,1528,1308,15,6.0,7.7,133.58,Pass
+BAT-0574,2025-01-18,Athi River Plant,Line A,Packaging Resin,Evening,R. Njeri,877,867,14,41.3,6.4,21.69,Pass
+BAT-0575,2025-01-03,Athi River Plant,Line C,Protective Coatings,Evening,R. Njeri,1596,1475,25,7.8,6.9,52.82,Pass
+BAT-0576,2025-05-17,Nakuru Plant,Line E,Construction Additives,Day,M. Hassan,1147,1238,40,13.6,7.3,96.36,Review
+BAT-0577,2025-12-04,Nakuru Plant,Line B,Water Treatment Chemicals,Evening,R. Njeri,868,774,23,67.4,6.5,45.85,Review
+BAT-0578,2025-07-11,Athi River Plant,Line C,Packaging Resin,Evening,F. Ali,780,818,20,40.1,8.3,55.47,Review
+BAT-0579,2025-11-23,Mombasa Plant,Line C,Protective Coatings,Evening,M. Hassan,1348,1181,7,74.4,7.8,110.44,Pass
+BAT-0580,2025-02-07,Athi River Plant,Line A,Construction Additives,Night,S. Kiptoo,1425,1392,41,29.3,7.9,81.54,Review
+BAT-0581,2025-02-04,Nakuru Plant,Line B,Protective Coatings,Night,J. Mwangi,1073,1068,14,7.9,7.2,138.78,Pass
+BAT-0582,2025-11-01,Nakuru Plant,Line B,Construction Additives,Evening,M. Hassan,1545,1581,55,28.0,6.4,83.88,Review
+BAT-0583,2025-02-08,Athi River Plant,Line D,Industrial Cleaners,Day,M. Hassan,1587,1408,32,36.8,7.1,82.81,Review
+BAT-0584,2025-01-19,Athi River Plant,Line B,Packaging Resin,Night,D. Kamau,1227,1189,36,28.4,7.8,119.05,Review
+BAT-0585,2025-05-28,Mombasa Plant,Line D,Construction Additives,Night,F. Ali,1398,1262,22,27.8,6.6,21.97,Pass
+BAT-0586,2025-12-04,Athi River Plant,Line E,Protective Coatings,Night,D. Kamau,1129,1022,11,50.0,7.3,73.63,Pass
+BAT-0587,2025-09-09,Mombasa Plant,Line C,Protective Coatings,Night,A. Wanjiku,1219,1242,6,29.7,7.1,44.34,Pass
+BAT-0588,2025-02-06,Mombasa Plant,Line C,Industrial Cleaners,Day,J. Mwangi,1221,1194,18,44.6,7.6,49.61,Pass
+BAT-0589,2025-11-02,Nakuru Plant,Line D,Protective Coatings,Evening,D. Kamau,1485,1402,47,28.2,7.8,144.45,Review
+BAT-0590,2025-11-04,Mombasa Plant,Line A,Industrial Cleaners,Evening,S. Kiptoo,721,657,14,22.8,8.5,101.06,Review
+BAT-0591,2025-10-20,Nakuru Plant,Line E,Protective Coatings,Night,S. Kiptoo,1448,1538,28,31.7,8.3,120.47,Pass
+BAT-0592,2025-11-26,Athi River Plant,Line D,Construction Additives,Evening,P. Otieno,1689,2005,37,33.9,6.2,109.91,Pass
+BAT-0593,2025-03-29,Mombasa Plant,Line D,Water Treatment Chemicals,Day,M. Hassan,1795,1869,12,45.3,8.2,40.23,Pass
+BAT-0594,2025-12-24,Mombasa Plant,Line A,Construction Additives,Night,P. Otieno,1308,1497,9,23.8,7.5,112.77,Pass
+BAT-0595,2025-04-28,Athi River Plant,Line C,Water Treatment Chemicals,Evening,S. Kiptoo,1708,1735,16,49.6,7.7,63.3,Pass
+BAT-0596,2025-10-20,Athi River Plant,Line C,Protective Coatings,Evening,A. Wanjiku,1526,1636,14,65.8,7.7,27.04,Pass
+BAT-0597,2025-07-31,Nakuru Plant,Line D,Construction Additives,Evening,A. Wanjiku,910,906,12,56.5,6.4,45.74,Pass
+BAT-0598,2025-10-12,Mombasa Plant,Line A,Water Treatment Chemicals,Day,R. Njeri,1774,1529,31,67.7,6.6,141.98,Review
+BAT-0599,2025-08-18,Nakuru Plant,Line B,Industrial Cleaners,Night,S. Kiptoo,1459,1602,13,37.9,7.0,128.26,Pass
+BAT-0600,2025-08-23,Mombasa Plant,Line E,Protective Coatings,Day,R. Njeri,736,691,20,40.5,7.2,82.62,Review
+BAT-0018,2025-02-16,Mombasa Plant,Line A,Industrial Cleaners,Evening,D. Kamau,1667,1727,18,38.8,6.4,116.65,Pass
+BAT-0087,2025-02-05,Nakuru Plant,Line E,Water Treatment Chemicals,Evening,R. Njeri,1287,1436,44,10.6,8.0,30.68,Review
+BAT-0215,2025-09-26,Mombasa Plant,Line A,Construction Additives,Evening,P. Otieno,1199,1241,17,35.8,7.6,78.19,Pass
+BAT-0402,2025-10-11,Nakuru Plant,Line B,Water Treatment Chemicals,Evening,M. Hassan,1347,1370,7,3.9,6.6,19.42,Pass

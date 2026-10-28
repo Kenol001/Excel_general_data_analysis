@@ -1,0 +1,806 @@
+Shipment_ID,Order_Date,Customer,Material_Category,Dispatch_Depot,Vehicle_ID,Driver,Quantity_Units,Unit_Price_KES,Order_Value_KES,Distance_km,Planned_Delivery_Date,Actual_Delivery_Date,Delivery_Status,Transport_Cost_KES
+SHP-00001,2025-04-27,UrbanWorks Contractors,Construction Additives,Nairobi Depot,TRK-026,P. Maina,1086,742.25,806083.5,406,2025-04-29,2025-05-03,Late,19455.45
+SHP-00002,2025-02-16,Lake Region Water Services,Industrial Cleaning Supplies,Eldoret Depot,TRK-013,K. Barasa,2027,782.42,1585965.34,80,2025-02-17,2025-02-17,On Time,4650.55
+SHP-00003,2025-11-24,Metro Packaging Ltd,Construction Additives,Eldoret Depot,TRK-013,K. Barasa,758,643.51,487780.58,697,2025-11-26,2025-11-27,Late,26836.9
+SHP-00004,2025-01-15,Metro Packaging Ltd,Industrial Cleaning Supplies,Nakuru Depot,TRK-025,M. Otieno,2247,178.61,401336.67,652,2025-01-17,2025-01-21,Late,33466.0
+SHP-00005,2025-03-13,Rift Valley Manufacturing,Protective Coatings,Nairobi Depot,TRK-012,S. Chebet,256,100.81,25807.36,152,2025-03-14,2025-03-17,Late,6973.76
+SHP-00006,2025-03-17,Metro Packaging Ltd,Construction Additives,Mombasa Depot,TRK-009,D. Said,1140,548.84,625677.6,718,2025-03-20,2025-03-20,On Time,38968.9
+SHP-00007,2025-03-10,Highland Agro Processors,Protective Coatings,Eldoret Depot,TRK-020,P. Maina,2494,344.5,859183.0,527,2025-03-12,2025-03-13,Late,23343.44
+SHP-00008,2025-10-09,Rift Valley Manufacturing,Packaging Materials,Nakuru Depot,TRK-028,D. Said,2353,581.47,1368198.91,33,2025-10-10,2025-10-10,On Time,1885.39
+SHP-00009,2025-04-13,Lake Region Water Services,Maintenance Parts,Nakuru Depot,TRK-030,B. Kiprono,57,574.82,32764.74,327,2025-04-14,2025-04-17,Late,14949.71
+SHP-00010,2025-08-04,Rift Valley Manufacturing,Maintenance Parts,Nairobi Depot,TRK-011,M. Otieno,2070,515.96,1068037.2,44,2025-08-05,2025-08-05,On Time,2194.55
+SHP-00011,2025-04-28,Metro Packaging Ltd,Packaging Materials,Mombasa Depot,TRK-006,S. Chebet,194,678.94,131714.36,280,2025-04-29,2025-04-28,On Time,16904.29
+SHP-00012,2025-04-28,Lake Region Water Services,Protective Coatings,Eldoret Depot,TRK-014,B. Kiprono,215,450.32,96818.8,34,2025-04-29,2025-04-28,On Time,1212.9
+SHP-00013,2025-10-18,Lake Region Water Services,Protective Coatings,Eldoret Depot,TRK-014,A. Hassan,1303,738.92,962812.76,645,2025-10-20,2025-10-21,Late,26655.26
+SHP-00014,2025-07-16,BlueWave Facilities,Maintenance Parts,Nairobi Depot,TRK-018,A. Hassan,1839,856.94,1575912.66,714,2025-07-19,2025-07-20,Late,41035.45
+SHP-00015,2025-07-23,BlueWave Facilities,Packaging Materials,Nairobi Depot,TRK-006,S. Chebet,498,103.44,51513.12,504,2025-07-25,2025-07-29,Late,27050.67
+SHP-00016,2025-11-10,BlueWave Facilities,Protective Coatings,Mombasa Depot,TRK-028,S. Chebet,2383,313.37,746760.71,508,2025-11-12,2025-11-12,On Time,25212.0
+SHP-00017,2025-12-06,CoastBuild Ltd,Construction Additives,Nairobi Depot,TRK-007,P. Maina,1666,881.88,1469212.08,716,2025-12-09,2025-12-09,On Time,36442.12
+SHP-00018,2025-06-10,BlueWave Facilities,Construction Additives,Eldoret Depot,TRK-014,D. Said,409,414.33,169460.97,40,2025-06-11,2025-06-12,Late,1578.88
+SHP-00019,2025-12-10,BlueWave Facilities,Industrial Cleaning Supplies,Mombasa Depot,TRK-019,K. Barasa,1497,190.09,284564.73,315,2025-12-11,2025-12-15,Late,11247.91
+SHP-00020,2025-12-16,Metro Packaging Ltd,Packaging Materials,mombasa depot,TRK-009,L. Wekesa,1329,318.69,423539.01,225,2025-12-17,2025-12-20,Late,13435.31
+SHP-00021,2025-07-03,Eastern Industrial Supplies,Industrial Cleaning Supplies,Eldoret Depot,TRK-019,D. Said,793,176.88,140265.84,595,2025-07-05,2025-07-05,On Time,33039.15
+SHP-00022,2025-04-07,Rift Valley Manufacturing,Protective Coatings,Mombasa Depot,TRK-009,E. Achieng,1321,603.65,797421.65,49,2025-04-08,2025-04-08,On Time,
+SHP-00023,2025-05-02,Highland Agro Processors,Protective Coatings,Mombasa Depot,TRK-025,D. Said,434,710.45,308335.3,494,2025-05-04,2025-05-03,On Time,20933.05
+SHP-00024,2025-10-10,Metro Packaging Ltd,Construction Additives,Mombasa Depot,TRK-024,L. Wekesa,1197,554.19,663365.43,403,2025-10-12,2025-10-16,Late,15883.27
+SHP-00025,2025-06-29,Eastern Industrial Supplies,WATER TREATMENT CHEMICALS,Eldoret Depot,TRK-009,S. Chebet,960,89.7,86112.0,518,2025-07-01,2025-07-01,On Time,28972.41
+SHP-00026,2025-12-15,Rift Valley Manufacturing,Construction Additives,Mombasa Depot,TRK-025,L. Wekesa,1360,56.95,77452.0,219,2025-12-16,2025-12-16,On Time,8731.18
+SHP-00027,2025-07-07,Metro Packaging Ltd,Maintenance Parts,Nakuru Depot,TRK-028,B. Kiprono,1553,240.31,373201.43,264,2025-07-08,2025-07-08,On Time,10224.41
+SHP-00028,2025-02-22,UrbanWorks Contractors,Industrial Cleaning Supplies,Nairobi Depot,TRK-026,L. Wekesa,630,70.51,44421.3,692,2025-02-24,2025-02-27,Late,
+SHP-00029,2025-09-30,Metro Packaging Ltd,Water Treatment Chemicals,Nakuru Depot,TRK-018,J. Mutua,1461,530.09,774461.49,582,2025-10-02,2025-10-02,On Time,25112.26
+SHP-00030,2025-06-16,Lake Region Water Services,Packaging Materials,Nakuru Depot,TRK-010,B. Kiprono,150,314.06,47109.0,123,2025-06-17,2025-06-16,On Time,5826.21
+SHP-00031,2025-09-07,Eastern Industrial Supplies,Protective Coatings,Mombasa Depot,TRK-005,P. Maina,984,463.4,455985.6,215,2025-09-08,2025-09-11,Late,13177.12
+SHP-00032,2025-08-09,CoastBuild Ltd,Packaging Materials,Nairobi Depot,TRK-023,A. Hassan,1651,609.69,1006598.19,247,2025-08-10,2025-08-10,On Time,12540.12
+SHP-00033,2025-04-23,Metro Packaging Ltd,Industrial Cleaning Supplies,Nakuru Depot,TRK-027,L. Wekesa,160,749.95,119992.0,529,2025-04-25,2025-04-25,On Time,32360.28
+SHP-00034,2025-09-01,UrbanWorks Contractors,Construction Additives,Nairobi Depot,TRK-019,J. Mutua,478,174.37,83348.86,433,2025-09-03,2025-09-07,Late,17907.94
+SHP-00035,2025-02-04,UrbanWorks Contractors,Construction Additives,Eldoret Depot,TRK-003,M. Otieno,2269,283.22,642626.18,28,2025-02-05,2025-02-05,On Time,1474.85
+SHP-00036,2025-05-15,UrbanWorks Contractors,Protective Coatings,Nakuru Depot,TRK-023,S. Chebet,1364,248.35,338749.4,470,2025-05-17,2025-05-17,On Time,24519.82
+SHP-00037,2025-11-14,BlueWave Facilities,Construction Additives,Nakuru Depot,TRK-019,K. Barasa,1987,251.47,499670.89,296,2025-11-15,2025-11-18,Late,11255.9
+SHP-00038,2025-10-07,Rift Valley Manufacturing,Maintenance Parts,Eldoret Depot,TRK-021,S. Chebet,756,501.25,378945.0,718,2025-10-10,2025-10-14,Late,27208.39
+SHP-00039,2025-01-03,Rift Valley Manufacturing,Protective Coatings,Eldoret Depot,TRK-007,P. Maina,715,350.75,250786.25,717,2025-01-06,2025-01-09,Late,40012.26
+SHP-00040,2025-06-12,Metro Packaging Ltd,Construction Additives,Nakuru Depot,TRK-011,J. Mutua,96,434.04,41667.84,558,2025-06-14,2025-06-14,On Time,25518.34
+SHP-00041,2025-10-17,Highland Agro Processors,Protective Coatings,Nairobi Depot,TRK-019,D. Said,1058,205.5,217419.0,286,2025-10-18,2025-10-19,Late,13992.47
+SHP-00042,2025-11-10,Highland Agro Processors,Maintenance Parts,Mombasa Depot,TRK-002,M. Otieno,2200,149.32,328504.0,431,2025-11-12,2025-11-12,On Time,18559.14
+SHP-00043,2025-08-14,BlueWave Facilities,Water Treatment Chemicals,Mombasa Depot,TRK-030,A. Hassan,1920,254.7,489024.0,532,2025-08-16,2025-08-19,Late,30837.47
+SHP-00044,2025-05-30,BlueWave Facilities,Construction Additives,Mombasa Depot,TRK-014,L. Wekesa,1847,521.99,964115.53,48,2025-05-31,2025-05-31,On Time,2393.78
+SHP-00045,2025-09-04,Lake Region Water Services,Maintenance Parts,Nakuru Depot,TRK-006,J. Mutua,1938,316.14,612679.32,446,2025-09-06,2025-09-07,Late,16694.44
+SHP-00046,2025-01-08,Rift Valley Manufacturing,Maintenance Parts,Nakuru Depot,TRK-009,M. Otieno,1682,785.16,1320639.12,510,2025-01-10,2025-01-09,On Time,18258.03
+SHP-00047,2025-05-31,Highland Agro Processors,Maintenance Parts,Nairobi Depot,TRK-002,P. Maina,2475,466.92,1155627.0,116,2025-06-01,2025-06-05,Late,4850.05
+SHP-00048,2025-02-16,Eastern Industrial Supplies,Maintenance Parts,Nairobi Depot,TRK-014,M. Otieno,1828,287.61,525751.08,169,2025-02-17,2025-02-16,On Time,8998.44
+SHP-00049,2025-05-06,Rift Valley Manufacturing,Water Treatment Chemicals,Nairobi Depot,TRK-016,M. Otieno,663,682.92,452775.96,622,2025-05-08,2025-05-07,On Time,33588.55
+SHP-00050,2025-08-25,Lake Region Water Services,Protective Coatings,Nairobi Depot,TRK-017,D. Said,2476,252.44,625041.44,21,2025-08-26,2025-08-26,On Time,1109.55
+SHP-00051,2025-12-25,CoastBuild Ltd,Water Treatment Chemicals,Nakuru Depot,TRK-027,M. Otieno,1900,76.77,145863.0,461,2025-12-27,2025-12-27,On Time,27042.86
+SHP-00052,2025-10-29,UrbanWorks Contractors,Maintenance Parts,Nairobi Depot,TRK-016,M. Otieno,448,356.39,159662.72,323,2025-10-30,2025-11-02,Late,11994.56
+SHP-00053,2025-11-01,Metro Packaging Ltd,Construction Additives,Mombasa Depot,TRK-024,M. Otieno,1249,109.41,136653.09,494,2025-11-03,2025-11-06,Late,30378.08
+SHP-00054,2025-09-04,Rift Valley Manufacturing,Packaging Materials,Nakuru Depot,TRK-029,J. Mutua,1697,702.55,1192227.35,65,2025-09-05,2025-09-07,Late,3825.63
+SHP-00055,2025-11-07,Lake Region Water Services,Construction Additives,Nairobi Depot,TRK-021,A. Hassan,627,469.71,294508.17,699,2025-11-09,2025-11-09,On Time,42923.6
+SHP-00056,2025-11-14,Rift Valley Manufacturing,Protective Coatings,Mombasa Depot,TRK-020,A. Hassan,1115,200.45,223501.75,660,2025-11-16,2025-11-17,Late,39548.12
+SHP-00057,2025-08-23,BlueWave Facilities,Packaging Materials,Nairobi Depot,TRK-021,A. Hassan,2468,602.2,1486229.6,272,2025-08-24,2025-08-27,Late,11119.51
+SHP-00058,2025-09-20,UrbanWorks Contractors,Protective Coatings,Eldoret Depot,TRK-028,L. Wekesa,310,877.13,271910.3,122,2025-09-21,2025-09-23,Late,5808.36
+SHP-00059,2025-10-23,Rift Valley Manufacturing,Water Treatment Chemicals,Nairobi Depot,TRK-025,M. Otieno,841,290.19,244049.79,425,2025-10-25,2025-10-25,On Time,20752.34
+SHP-00060,2025-04-14,UrbanWorks Contractors,Packaging Materials,Eldoret Depot,TRK-011,A. Hassan,577,847.51,489013.27,545,2025-04-16,2025-04-15,On Time,28240.25
+SHP-00061,2025-04-12,Metro Packaging Ltd,Packaging Materials,Mombasa Depot,TRK-008,E. Achieng,2132,327.94,699168.08,351,2025-04-14,2025-04-14,On Time,16523.1
+SHP-00062,2025-08-16,Eastern Industrial Supplies,Maintenance Parts,Mombasa Depot,TRK-028,J. Mutua,848,276.94,234845.12,511,2025-08-18,2025-08-18,On Time,27401.51
+SHP-00063,2025-03-04,Metro Packaging Ltd,Protective Coatings,Nairobi Depot,TRK-024,P. Maina,481,233.89,112501.09,400,2025-03-06,2025-03-06,On Time,14420.75
+SHP-00064,2025-05-08,Eastern Industrial Supplies,Maintenance Parts,Mombasa Depot,TRK-026,L. Wekesa,718,895.56,643012.08,502,2025-05-10,2025-05-10,On Time,23855.05
+SHP-00065,2025-03-15,BlueWave Facilities,Construction Additives,Mombasa Depot,TRK-008,D. Said,2119,731.26,1549539.94,333,2025-03-16,2025-03-16,On Time,19478.03
+SHP-00066,2025-05-29,Rift Valley Manufacturing,Protective Coatings,Mombasa Depot,TRK-012,S. Chebet,2211,136.8,302464.8,715,2025-06-01,2025-06-03,Late,42716.74
+SHP-00067,2025-05-29,Lake Region Water Services,Construction Additives,Eldoret Depot,TRK-012,E. Achieng,1164,116.04,135070.56,323,2025-05-30,2025-06-02,Late,14273.14
+SHP-00068,2025-05-23,Lake Region Water Services,Construction Additives,Mombasa Depot,TRK-001,B. Kiprono,2194,279.01,612147.94,498,2025-05-25,2025-05-24,On Time,21211.63
+SHP-00069,2025-01-14,Rift Valley Manufacturing,Water Treatment Chemicals,Nakuru Depot,TRK-007,K. Barasa,1667,166.65,277805.55,42,2025-01-15,2025-01-14,On Time,2461.84
+SHP-00070,2025-09-19,CoastBuild Ltd,Construction Additives,Nakuru Depot,TRK-021,E. Achieng,2364,84.81,200490.84,256,2025-09-20,2025-09-24,Late,11364.48
+SHP-00071,2025-01-09,UrbanWorks Contractors,Construction Additives,Eldoret Depot,TRK-003,E. Achieng,749,432.39,323860.11,311,2025-01-10,2025-01-10,On Time,12938.59
+SHP-00072,2025-06-05,Lake Region Water Services,Packaging Materials,Mombasa Depot,TRK-010,M. Otieno,1831,775.62,1420160.22,318,2025-06-06,2025-06-06,On Time,15238.34
+SHP-00073,2025-03-28,Metro Packaging Ltd,Industrial Cleaning Supplies,Nakuru Depot,TRK-013,B. Kiprono,1336,708.25,946222.0,352,2025-03-30,2025-03-30,On Time,15870.61
+SHP-00074,2025-04-05,Rift Valley Manufacturing,Packaging Materials,Eldoret Depot,TRK-024,L. Wekesa,378,298.88,112976.64,588,2025-04-07,2025-04-07,On Time,26079.55
+SHP-00075,2025-06-21,CoastBuild Ltd,Industrial Cleaning Supplies,Mombasa Depot,TRK-030,P. Maina,1995,255.27,509263.65,200,2025-06-22,2025-06-23,Late,8046.48
+SHP-00076,2025-11-07,Rift Valley Manufacturing,Construction Additives,Mombasa Depot,TRK-010,A. Hassan,895,549.77,492044.15,55,2025-11-08,2025-11-08,On Time,2731.45
+SHP-00077,2025-09-30,Rift Valley Manufacturing,Water Treatment Chemicals,Nairobi Depot,TRK-023,K. Barasa,705,568.64,400891.2,560,2025-10-02,2025-10-05,Late,23520.39
+SHP-00078,2025-01-22,Lake Region Water Services,Construction Additives,Nakuru Depot,TRK-017,E. Achieng,1533,395.58,606424.14,128,2025-01-23,2025-01-23,On Time,5297.95
+SHP-00079,2025-11-19,Eastern Industrial Supplies,Industrial Cleaning Supplies,Nakuru Depot,TRK-005,J. Mutua,2278,682.78,1555372.84,547,2025-11-21,2025-11-21,On Time,28572.64
+SHP-00080,2025-08-03,Rift Valley Manufacturing,Water Treatment Chemicals,Nakuru Depot,TRK-026,P. Maina,563,237.92,133948.96,335,2025-08-04,2025-08-03,On Time,12054.53
+SHP-00081,2025-07-11,Eastern Industrial Supplies,Protective Coatings,Mombasa Depot,TRK-009,B. Kiprono,1136,572.64,650519.04,293,2025-07-12,2025-07-12,On Time,14446.25
+SHP-00082,2025-01-11,Rift Valley Manufacturing,Construction Additives,Eldoret Depot,TRK-017,S. Chebet,942,457.57,431030.94,589,2025-01-13,2025-01-13,On Time,36350.06
+SHP-00083,2025-05-28,CoastBuild Ltd,Construction Additives,Nairobi Depot,TRK-012,A. Hassan,209,841.96,175969.64,242,2025-05-29,2025-06-02,Late,11784.85
+SHP-00084,2025-02-28,Eastern Industrial Supplies,Water Treatment Chemicals,Mombasa Depot,TRK-008,E. Achieng,1124,277.98,312449.52,393,2025-03-02,2025-03-02,On Time,21282.58
+SHP-00085,2025-01-17,CoastBuild Ltd,Water Treatment Chemicals,Mombasa Depot,TRK-008,K. Barasa,1628,384.72,626324.16,471,2025-01-19,2025-01-18,On Time,17438.76
+SHP-00086,2025-06-28,BlueWave Facilities,Packaging Materials,Eldoret Depot,TRK-030,A. Hassan,1105,115.04,127119.2,546,2025-06-30,2025-06-30,On Time,33817.34
+SHP-00087,2025-12-03,Lake Region Water Services,Water Treatment Chemicals,Eldoret Depot,TRK-008,S. Chebet,2295,545.44,1251784.8,295,2025-12-04,2025-12-04,On Time,16295.53
+SHP-00088,2025-05-08,Metro Packaging Ltd,Construction Additives,Nakuru Depot,TRK-009,M. Otieno,385,630.29,242661.65,335,2025-05-09,2025-05-09,On Time,20366.43
+SHP-00089,2025-07-03,Highland Agro Processors,Water Treatment Chemicals,Mombasa Depot,TRK-006,L. Wekesa,824,200.14,164915.36,719,2025-07-06,2025-07-09,Late,39880.09
+SHP-00090,2025-07-26,CoastBuild Ltd,Construction Additives,Mombasa Depot,TRK-029,D. Said,1120,223.46,250275.2,319,2025-07-27,2025-07-30,Late,17449.75
+SHP-00091,2025-01-30,Eastern Industrial Supplies,Packaging Materials,Nakuru Depot,TRK-003,E. Achieng,1051,553.47,581696.97,337,2025-01-31,2025-02-01,Late,17991.12
+SHP-00092,2025-11-12,BlueWave Facilities,Water Treatment Chemicals,Nakuru Depot,TRK-007,J. Mutua,1294,849.22,1098890.68,480,2025-11-14,2025-11-14,On Time,23287.86
+SHP-00093,2025-12-31,Eastern Industrial Supplies,Maintenance Parts,Nairobi Depot,TRK-015,S. Chebet,1374,517.29,710756.46,267,2026-01-01,2026-01-03,Late,14420.37
+SHP-00094,2025-12-24,BlueWave Facilities,Industrial Cleaning Supplies,Nairobi Depot,TRK-005,K. Barasa,1058,388.85,411403.3,605,2025-12-26,2025-12-29,Late,36023.07
+SHP-00095,2025-03-09,UrbanWorks Contractors,Water Treatment Chemicals,Nairobi Depot,TRK-018,S. Chebet,1504,300.96,452643.84,43,2025-03-10,2025-03-10,On Time,2464.62
+SHP-00096,2025-11-20,CoastBuild Ltd,Packaging Materials,Mombasa Depot,TRK-025,P. Maina,230,54.19,12463.7,592,2025-11-22,2025-11-26,Late,27512.91
+SHP-00097,2025-08-25,Eastern Industrial Supplies,Water Treatment Chemicals,Nairobi Depot,TRK-017,L. Wekesa,723,411.86,297774.78,207,2025-08-26,2025-08-26,On Time,10910.91
+SHP-00098,2025-06-06,UrbanWorks Contractors,Construction Additives,Mombasa Depot,TRK-005,J. Mutua,384,707.99,271868.16,39,2025-06-07,2025-06-10,Late,1496.97
+SHP-00099,2025-11-12,Rift Valley Manufacturing,Water Treatment Chemicals,Nairobi Depot,TRK-029,E. Achieng,262,856.88,224502.56,381,2025-11-14,2025-11-13,On Time,16202.09
+SHP-00100,2025-10-22,UrbanWorks Contractors,Maintenance Parts,Nakuru Depot,TRK-015,M. Otieno,1288,802.72,1033903.36,215,2025-10-23,2025-10-25,Late,8194.15
+SHP-00101,2025-08-07,Rift Valley Manufacturing,PROTECTIVE COATINGS,Nairobi Depot,TRK-021,P. Maina,769,248.37,190996.53,159,2025-08-08,2025-08-08,On Time,6614.8
+SHP-00102,2025-07-10,Rift Valley Manufacturing,Protective Coatings,Mombasa Depot,TRK-014,A. Hassan,1755,544.72,955983.6,514,2025-07-12,2025-07-12,On Time,27433.02
+SHP-00103,2025-04-28,Metro Packaging Ltd,Packaging Materials,Nakuru Depot,TRK-028,S. Chebet,999,355.76,355404.24,436,2025-04-30,2025-05-01,Late,19266.02
+SHP-00104,2025-09-13,UrbanWorks Contractors,Maintenance Parts,Nakuru Depot,TRK-011,D. Said,2157,767.87,1656295.59,600,2025-09-15,2025-09-15,On Time,37195.38
+SHP-00105,2025-04-28,Eastern Industrial Supplies,Industrial Cleaning Supplies,Mombasa Depot,TRK-007,A. Hassan,601,284.85,171194.85,348,2025-04-29,2025-05-01,Late,16698.61
+SHP-00106,2025-01-21,Rift Valley Manufacturing,Industrial Cleaning Supplies,Mombasa Depot,TRK-006,D. Said,591,477.95,282468.45,454,2025-01-23,2025-01-23,On Time,19426.34
+SHP-00107,2025-11-22,BlueWave Facilities,Packaging Materials,Eldoret Depot,TRK-004,E. Achieng,490,796.02,390049.8,115,2025-11-23,2025-11-27,Late,4402.85
+SHP-00108,2025-04-01,Highland Agro Processors,Industrial Cleaning Supplies,Eldoret Depot,TRK-010,D. Said,1722,230.29,396559.38,578,2025-04-03,2025-04-03,On Time,34917.96
+SHP-00109,2025-11-15,Eastern Industrial Supplies,Water Treatment Chemicals,Mombasa Depot,TRK-006,J. Mutua,844,741.74,626028.56,278,2025-11-16,2025-11-20,Late,12791.88
+SHP-00110,2025-12-28,CoastBuild Ltd,Industrial Cleaning Supplies,Nakuru Depot,TRK-005,M. Otieno,1005,182.61,183523.05,528,2025-12-30,2025-12-30,On Time,23346.33
+SHP-00111,2025-11-06,Metro Packaging Ltd,Packaging Materials,Eldoret Depot,TRK-017,K. Barasa,579,459.64,266131.56,241,2025-11-07,2025-11-10,Late,12533.03
+SHP-00112,2025-08-30,Eastern Industrial Supplies,Packaging Materials,Nairobi Depot,TRK-001,P. Maina,1980,259.53,513869.4,356,2025-09-01,2025-09-01,On Time,19422.55
+SHP-00113,2025-12-25,BlueWave Facilities,Protective Coatings,Nairobi Depot,TRK-004,,1598,205.62,328580.76,296,2025-12-26,2025-12-27,Late,18222.69
+SHP-00114,2025-12-07,Rift Valley Manufacturing,Industrial Cleaning Supplies,Mombasa Depot,TRK-001,K. Barasa,1352,729.57,986378.64,49,2025-12-08,2025-12-10,Late,2629.37
+SHP-00115,2025-07-31,Metro Packaging Ltd,Industrial Cleaning Supplies,Nairobi Depot,TRK-027,P. Maina,608,679.26,412990.08,450,2025-08-02,2025-08-02,On Time,18625.71
+SHP-00116,2025-06-07,Highland Agro Processors,Maintenance Parts,Mombasa Depot,TRK-019,B. Kiprono,2154,252.75,544423.5,71,2025-06-08,2025-06-08,On Time,2789.94
+SHP-00117,2025-01-24,Eastern Industrial Supplies,Water Treatment Chemicals,Mombasa Depot,TRK-003,L. Wekesa,1242,253.36,314673.12,163,2025-01-25,2025-01-25,On Time,7105.62
+SHP-00118,2025-08-01,BlueWave Facilities,Industrial Cleaning Supplies,Mombasa Depot,TRK-029,S. Chebet,126,576.15,72594.9,419,2025-08-03,2025-08-03,On Time,24539.05
+SHP-00119,2025-12-02,Rift Valley Manufacturing,Water Treatment Chemicals,Eldoret Depot,TRK-002,A. Hassan,1476,397.24,586326.24,57,2025-12-03,2025-12-06,Late,3401.65
+SHP-00120,2025-02-09,UrbanWorks Contractors,Maintenance Parts,Eldoret Depot,TRK-016,K. Barasa,2282,236.46,539601.72,473,2025-02-11,2025-02-11,On Time,20805.26
+SHP-00121,2025-08-08,UrbanWorks Contractors,Maintenance Parts,Eldoret Depot,TRK-006,S. Chebet,1601,207.15,331647.15,157,2025-08-09,2025-08-08,On Time,9119.11
+SHP-00122,2025-04-08,Metro Packaging Ltd,Industrial Cleaning Supplies,Nakuru Depot,TRK-009,D. Said,1774,348.83,618824.42,481,2025-04-10,2025-04-10,On Time,22953.81
+SHP-00123,2025-12-30,Lake Region Water Services,Water Treatment Chemicals,Nairobi Depot,TRK-021,J. Mutua,915,571.02,522483.3,253,2025-12-31,2026-01-03,Late,9993.29
+SHP-00124,2025-12-09,BlueWave Facilities,Construction Additives,Eldoret Depot,TRK-002,M. Otieno,157,420.85,66073.45,475,2025-12-11,2025-12-13,Late,21791.41
+SHP-00125,2025-03-16,Eastern Industrial Supplies,Construction Additives,Nairobi Depot,TRK-014,L. Wekesa,625,499.67,312293.75,69,2025-03-17,2025-03-17,On Time,2957.62
+SHP-00126,2025-11-09,Metro Packaging Ltd,Maintenance Parts,Mombasa Depot,TRK-013,S. Chebet,1291,461.14,595331.74,360,2025-11-11,2025-11-15,Late,20764.16
+SHP-00127,2025-07-15,BlueWave Facilities,Protective Coatings,Eldoret Depot,TRK-012,B. Kiprono,2204,583.24,1285460.96,242,2025-07-16,2025-07-16,On Time,10574.64
+SHP-00128,2025-09-24,Highland Agro Processors,Construction Additives,Nakuru Depot,TRK-006,K. Barasa,1500,66.83,100245.0,92,2025-09-25,2025-09-24,On Time,4523.59
+SHP-00129,2025-04-23,Highland Agro Processors,Protective Coatings,Nairobi Depot,TRK-001,J. Mutua,1557,214.44,333883.08,274,2025-04-24,2025-04-28,Late,15234.6
+SHP-00130,2025-02-17,CoastBuild Ltd,Construction Additives,Nakuru Depot,TRK-025,B. Kiprono,640,173.89,111289.6,138,2025-02-18,2025-02-18,On Time,8551.87
+SHP-00131,2025-08-07,Metro Packaging Ltd,Industrial Cleaning Supplies,Mombasa Depot,TRK-008,L. Wekesa,612,755.19,462176.28,696,2025-08-09,2025-08-09,On Time,32284.37
+SHP-00132,2025-06-28,Eastern Industrial Supplies,Protective Coatings,Mombasa Depot,TRK-025,L. Wekesa,1419,147.84,209784.96,395,2025-06-30,2025-07-01,Late,19686.84
+SHP-00133,2025-12-24,UrbanWorks Contractors,Packaging Materials,Nairobi Depot,TRK-006,L. Wekesa,1527,92.44,141155.88,408,2025-12-26,2025-12-26,On Time,15876.37
+SHP-00134,2025-03-18,Highland Agro Processors,Maintenance Parts,Nakuru Depot,TRK-030,B. Kiprono,2309,483.58,1116586.22,706,2025-03-21,2025-03-21,On Time,34301.56
+SHP-00135,2025-05-18,CoastBuild Ltd,Maintenance Parts,Nakuru Depot,TRK-019,B. Kiprono,771,338.82,261230.22,176,2025-05-19,2025-05-23,Late,7221.23
+SHP-00136,2025-05-26,Lake Region Water Services,Protective Coatings,Nairobi Depot,TRK-027,D. Said,1246,172.83,215346.18,89,2025-05-27,2025-05-27,On Time,4511.99
+SHP-00137,2025-06-08,Eastern Industrial Supplies,Industrial Cleaning Supplies,Eldoret Depot,TRK-002,M. Otieno,1071,89.1,95426.1,619,2025-06-10,2025-06-13,Late,28622.85
+SHP-00138,2025-10-01,CoastBuild Ltd,Industrial Cleaning Supplies,Nairobi Depot,TRK-001,E. Achieng,2347,293.35,688492.45,591,2025-10-03,2025-10-03,On Time,26499.05
+SHP-00139,2025-02-12,BlueWave Facilities,Water Treatment Chemicals,Nakuru Depot,TRK-030,B. Kiprono,2488,520.05,1293884.4,25,2025-02-13,2025-02-16,Late,1456.73
+SHP-00140,2025-03-26,Metro Packaging Ltd,Industrial Cleaning Supplies,Nakuru Depot,TRK-023,A. Hassan,1430,296.85,424495.5,491,2025-03-28,2025-03-31,Late,23157.81
+SHP-00141,2025-11-10,Highland Agro Processors,Water Treatment Chemicals,Mombasa Depot,TRK-005,B. Kiprono,453,291.31,131963.43,420,2025-11-12,2025-11-12,On Time,21641.78
+SHP-00142,2025-10-01,Lake Region Water Services,Water Treatment Chemicals,Nakuru Depot,TRK-003,S. Chebet,1896,845.32,1602726.72,73,2025-10-02,2025-10-03,Late,4066.17
+SHP-00143,2025-12-13,UrbanWorks Contractors,Protective Coatings,Mombasa Depot,TRK-011,J. Mutua,181,477.76,86474.56,505,2025-12-15,2025-12-15,On Time,25232.86
+SHP-00144,2025-10-18,Highland Agro Processors,Industrial Cleaning Supplies,Nairobi Depot,TRK-024,P. Maina,1404,80.79,113429.16,469,2025-10-20,2025-10-24,Late,28781.43
+SHP-00145,2025-03-07,BlueWave Facilities,Maintenance Parts,Nakuru Depot,TRK-006,E. Achieng,784,194.78,152707.52,479,2025-03-09,2025-03-12,Late,23231.97
+SHP-00146,2025-07-11,Highland Agro Processors,Industrial Cleaning Supplies,Nairobi Depot,TRK-013,J. Mutua,185,79.1,14633.5,618,2025-07-13,2025-07-14,Late,31023.51
+SHP-00147,2025-07-24,Eastern Industrial Supplies,Industrial Cleaning Supplies,Nairobi Depot,TRK-024,K. Barasa,831,839.66,697757.46,197,2025-07-25,2025-07-29,Late,9465.86
+SHP-00148,2025-08-01,UrbanWorks Contractors,Protective Coatings,Mombasa Depot,TRK-006,B. Kiprono,2241,281.67,631222.47,50,2025-08-02,2025-08-02,On Time,2043.4
+SHP-00149,2025-02-07,Highland Agro Processors,Protective Coatings,Nairobi Depot,TRK-021,B. Kiprono,203,48.19,9782.57,311,2025-02-08,2025-02-08,On Time,13418.96
+SHP-00150,2025-12-24,Rift Valley Manufacturing,Construction Additives,Nairobi Depot,TRK-011,M. Otieno,2479,848.29,2102910.91,368,2025-12-26,2025-12-28,Late,20167.96
+SHP-00151,2025-07-02,Metro Packaging Ltd,Packaging Materials,Nakuru Depot,TRK-006,M. Otieno,947,683.07,646867.29,190,2025-07-03,2025-07-05,Late,9859.75
+SHP-00152,2025-09-16,Highland Agro Processors,Construction Additives,Mombasa Depot,TRK-009,L. Wekesa,2102,85.06,178796.12,538,2025-09-18,2025-09-18,On Time,18892.21
+SHP-00153,2025-01-07,Metro Packaging Ltd,Maintenance Parts,Mombasa Depot,TRK-012,J. Mutua,1285,496.71,638272.35,329,2025-01-08,2025-01-07,On Time,17501.18
+SHP-00154,2025-05-05,Rift Valley Manufacturing,Maintenance Parts,Mombasa Depot,TRK-002,P. Maina,183,785.58,143761.14,247,2025-05-06,2025-05-10,Late,12462.93
+SHP-00155,2025-09-29,BlueWave Facilities,Maintenance Parts,Eldoret Depot,TRK-006,P. Maina,1541,627.78,967408.98,539,2025-10-01,2025-10-05,Late,33042.84
+SHP-00156,2025-09-03,BlueWave Facilities,Construction Additives,Nakuru Depot,TRK-018,P. Maina,1135,339.55,385389.25,542,2025-09-05,2025-09-05,On Time,21489.36
+SHP-00157,2025-11-01,Rift Valley Manufacturing,Construction Additives,Nairobi Depot,TRK-006,D. Said,467,437.6,204359.2,276,2025-11-02,2025-11-01,On Time,16589.5
+SHP-00158,2025-02-26,Rift Valley Manufacturing,Water Treatment Chemicals,Nakuru Depot,TRK-001,S. Chebet,228,107.57,24525.96,649,2025-02-28,2025-03-04,Late,38678.2
+SHP-00159,2025-04-27,Eastern Industrial Supplies,Water Treatment Chemicals,Mombasa Depot,TRK-011,A. Hassan,1042,428.67,446674.14,186,2025-04-28,2025-04-28,On Time,7126.07
+SHP-00160,2025-06-30,UrbanWorks Contractors,Industrial Cleaning Supplies,Mombasa Depot,TRK-018,M. Otieno,300,524.54,157362.0,631,2025-07-02,2025-07-02,On Time,29620.16
+SHP-00161,2025-12-08,Highland Agro Processors,Protective Coatings,Eldoret Depot,TRK-023,K. Barasa,387,48.8,18885.6,266,2025-12-09,2025-12-12,Late,15884.68
+SHP-00162,2025-03-16,UrbanWorks Contractors,Maintenance Parts,Nairobi Depot,TRK-020,P. Maina,1044,391.3,408517.2,551,2025-03-18,2025-03-18,On Time,20887.09
+SHP-00163,2025-09-15,Lake Region Water Services,Water Treatment Chemicals,Mombasa Depot,TRK-011,L. Wekesa,1122,527.93,592337.46,207,2025-09-16,2025-09-16,On Time,8705.4
+SHP-00164,2025-12-27,Metro Packaging Ltd,Construction Additives,Nakuru Depot,TRK-022,J. Mutua,1179,603.37,711373.23,45,2025-12-28,2025-12-27,On Time,2573.57
+SHP-00165,2025-02-03,Eastern Industrial Supplies,Industrial Cleaning Supplies,Mombasa Depot,TRK-002,P. Maina,1224,98.13,120111.12,289,2025-02-04,2025-02-07,Late,16949.0
+SHP-00166,2025-12-30,BlueWave Facilities,Industrial Cleaning Supplies,mombasa depot,TRK-012,K. Barasa,1525,406.58,620034.5,596,2026-01-01,2026-01-03,Late,30274.93
+SHP-00167,2025-05-27,UrbanWorks Contractors,Water Treatment Chemicals,Nakuru Depot,TRK-027,B. Kiprono,429,802.24,344160.96,603,2025-05-29,2025-05-29,On Time,35267.14
+SHP-00168,2025-02-16,BlueWave Facilities,Industrial Cleaning Supplies,Mombasa Depot,TRK-001,L. Wekesa,2297,464.29,1066474.13,349,2025-02-17,2025-02-20,Late,20316.05
+SHP-00169,2025-05-31,Lake Region Water Services,Maintenance Parts,Nakuru Depot,TRK-003,D. Said,985,691.78,681403.3,661,2025-06-02,2025-06-02,On Time,36188.19
+SHP-00170,2025-10-05,Rift Valley Manufacturing,Packaging Materials,Eldoret Depot,TRK-016,D. Said,2397,303.78,728160.66,698,2025-10-07,2025-10-07,On Time,26546.15
+SHP-00171,2025-03-07,Eastern Industrial Supplies,Water Treatment Chemicals,Eldoret Depot,TRK-006,S. Chebet,1973,519.38,1024736.74,618,2025-03-09,2025-03-09,On Time,29111.3
+SHP-00172,2025-07-17,UrbanWorks Contractors,Packaging Materials,Nairobi Depot,TRK-015,K. Barasa,2164,616.28,1333629.92,679,2025-07-19,2025-07-23,Late,28190.77
+SHP-00173,2025-04-26,Eastern Industrial Supplies,Construction Additives,Eldoret Depot,TRK-009,,692,124.14,85904.88,536,2025-04-28,2025-04-30,Late,23614.57
+SHP-00174,2025-03-01,Eastern Industrial Supplies,Protective Coatings,Mombasa Depot,TRK-005,M. Otieno,80,585.56,46844.8,41,2025-03-02,2025-03-02,On Time,1746.92
+SHP-00175,2025-05-19,Rift Valley Manufacturing,Maintenance Parts,Nakuru Depot,TRK-026,E. Achieng,1092,259.53,283406.76,700,2025-05-22,2025-05-22,On Time,31985.51
+SHP-00176,2025-07-17,UrbanWorks Contractors,Protective Coatings,Nairobi Depot,TRK-018,K. Barasa,148,829.84,122816.32,40,2025-07-18,2025-07-17,On Time,2084.92
+SHP-00177,2025-11-07,UrbanWorks Contractors,Protective Coatings,Eldoret Depot,TRK-018,D. Said,2167,80.19,173771.73,259,2025-11-08,2025-11-09,Late,15507.16
+SHP-00178,2025-10-08,Metro Packaging Ltd,Construction Additives,Nakuru Depot,TRK-003,P. Maina,1122,338.95,380301.9,426,2025-10-10,2025-10-10,On Time,16759.82
+SHP-00179,2025-05-28,CoastBuild Ltd,Protective Coatings,Nairobi Depot,TRK-004,D. Said,926,708.14,655737.64,248,2025-05-29,2025-06-01,Late,10535.66
+SHP-00180,2025-11-16,Lake Region Water Services,Industrial Cleaning Supplies,Nairobi Depot,TRK-026,L. Wekesa,882,81.2,71618.4,448,2025-11-18,2025-11-18,On Time,16519.66
+SHP-00181,2025-09-12,Lake Region Water Services,Water Treatment Chemicals,Eldoret Depot,TRK-003,P. Maina,1823,685.17,1249064.91,104,2025-09-13,2025-09-17,Late,5754.87
+SHP-00182,2025-07-13,Metro Packaging Ltd,Maintenance Parts,Nairobi Depot,TRK-027,B. Kiprono,1662,601.56,999792.72,564,2025-07-15,2025-07-16,Late,26085.04
+SHP-00183,2025-08-26,Eastern Industrial Supplies,Packaging Materials,Mombasa Depot,TRK-003,P. Maina,941,745.31,701336.71,307,2025-08-27,2025-08-27,On Time,18206.64
+SHP-00184,2025-06-25,UrbanWorks Contractors,Protective Coatings,Nakuru Depot,TRK-028,J. Mutua,2217,858.82,1904003.94,182,2025-06-26,2025-06-29,Late,7921.33
+SHP-00185,2025-08-06,BlueWave Facilities,Water Treatment Chemicals,Eldoret Depot,TRK-004,P. Maina,406,897.46,364368.76,595,2025-08-08,2025-08-10,Late,31777.95
+SHP-00186,2025-04-19,Lake Region Water Services,Industrial Cleaning Supplies,Mombasa Depot,TRK-030,M. Otieno,676,661.95,447478.2,129,2025-04-20,2025-04-20,On Time,6941.63
+SHP-00187,2025-11-26,Rift Valley Manufacturing,Packaging Materials,Nakuru Depot,TRK-029,P. Maina,1970,206.55,406903.5,206,2025-11-27,2025-11-26,On Time,8271.01
+SHP-00188,2025-05-28,Eastern Industrial Supplies,Construction Additives,Eldoret Depot,TRK-019,B. Kiprono,1166,840.31,979801.46,165,2025-05-29,2025-06-02,Late,7840.83
+SHP-00189,2025-02-13,BlueWave Facilities,Water Treatment Chemicals,Nairobi Depot,TRK-009,P. Maina,1113,396.96,441816.48,232,2025-02-14,2025-02-16,Late,8375.79
+SHP-00190,2025-07-08,Lake Region Water Services,Protective Coatings,Eldoret Depot,TRK-002,P. Maina,1721,217.03,373508.63,455,2025-07-10,2025-07-11,Late,24885.07
+SHP-00191,2025-07-04,Highland Agro Processors,Maintenance Parts,Nairobi Depot,TRK-002,D. Said,919,184.72,169757.68,547,2025-07-06,2025-07-06,On Time,30586.58
+SHP-00192,2025-09-08,Eastern Industrial Supplies,Packaging Materials,Mombasa Depot,TRK-011,J. Mutua,861,206.37,177684.57,508,2025-09-10,2025-09-09,On Time,30946.57
+SHP-00193,2025-06-16,Eastern Industrial Supplies,Packaging Materials,Eldoret Depot,TRK-028,M. Otieno,412,347.16,143029.92,707,2025-06-19,2025-06-22,Late,24861.26
+SHP-00194,2025-12-03,Metro Packaging Ltd,Industrial Cleaning Supplies,Nakuru Depot,TRK-024,D. Said,2335,597.32,1394742.2,666,2025-12-05,2025-12-09,Late,34117.19
+SHP-00195,2025-01-09,Highland Agro Processors,Packaging Materials,Eldoret Depot,TRK-020,M. Otieno,925,423.69,391913.25,586,2025-01-11,2025-01-13,Late,21963.22
+SHP-00196,2025-07-04,Metro Packaging Ltd,Construction Additives,Nairobi Depot,TRK-030,P. Maina,2084,219.58,457604.72,47,2025-07-05,2025-07-05,On Time,2675.27
+SHP-00197,2025-02-28,BlueWave Facilities,Protective Coatings,Nakuru Depot,TRK-027,K. Barasa,2056,676.64,1391171.84,214,2025-03-01,2025-03-04,Late,9524.09
+SHP-00198,2025-09-26,Lake Region Water Services,Water Treatment Chemicals,Nakuru Depot,TRK-023,E. Achieng,1367,425.99,582328.33,60,2025-09-27,2025-09-29,Late,2382.77
+SHP-00199,2025-12-16,UrbanWorks Contractors,Industrial Cleaning Supplies,Mombasa Depot,TRK-006,L. Wekesa,2333,498.49,1162977.17,139,2025-12-17,2025-12-17,On Time,5103.44
+SHP-00200,2025-08-22,Metro Packaging Ltd,Water Treatment Chemicals,Nairobi Depot,TRK-002,D. Said,1729,139.64,241437.56,44,2025-08-23,2025-08-22,On Time,2502.01
+SHP-00201,2025-02-22,CoastBuild Ltd,Packaging Materials,Nairobi Depot,TRK-009,S. Chebet,2001,165.89,331945.89,673,2025-02-24,2025-02-26,Late,24698.5
+SHP-00202,2025-08-09,BlueWave Facilities,Protective Coatings,Eldoret Depot,TRK-021,M. Otieno,2364,222.61,526250.04,658,2025-08-11,2025-08-11,On Time,31041.57
+SHP-00203,2025-07-11,CoastBuild Ltd,Industrial Cleaning Supplies,Nakuru Depot,TRK-016,B. Kiprono,1454,899.03,1307189.62,550,2025-07-13,2025-07-13,On Time,24687.42
+SHP-00204,2025-01-12,BlueWave Facilities,Industrial Cleaning Supplies,Eldoret Depot,TRK-019,E. Achieng,2216,825.26,1828776.16,560,2025-01-14,2025-01-14,On Time,30877.78
+SHP-00205,2025-07-02,Highland Agro Processors,Packaging Materials,Nairobi Depot,TRK-027,J. Mutua,816,612.07,499449.12,639,2025-07-04,2025-07-07,Late,26687.03
+SHP-00206,2025-12-01,Rift Valley Manufacturing,Packaging Materials,Mombasa Depot,TRK-013,K. Barasa,2413,306.85,740429.05,175,2025-12-02,2025-12-02,On Time,8519.76
+SHP-00207,2025-08-12,Lake Region Water Services,Protective Coatings,Nairobi Depot,TRK-028,L. Wekesa,326,580.27,189168.02,255,2025-08-13,2025-08-13,On Time,11679.17
+SHP-00208,2025-11-15,Metro Packaging Ltd,Maintenance Parts,Nairobi Depot,TRK-009,P. Maina,1976,550.72,1088222.72,335,2025-11-16,2025-11-16,On Time,14683.73
+SHP-00209,2025-05-11,CoastBuild Ltd,Maintenance Parts,Mombasa Depot,TRK-016,A. Hassan,320,883.85,282832.0,452,2025-05-13,2025-05-13,On Time,22778.64
+SHP-00210,2025-08-20,Lake Region Water Services,Protective Coatings,Mombasa Depot,TRK-008,J. Mutua,1137,258.37,293766.69,166,2025-08-21,2025-08-21,On Time,9912.13
+SHP-00211,2025-12-06,Eastern Industrial Supplies,Maintenance Parts,Nakuru Depot,TRK-014,P. Maina,800,214.44,171552.0,107,2025-12-07,2025-12-07,On Time,6175.9
+SHP-00212,2025-10-25,Highland Agro Processors,Construction Additives,Nakuru Depot,TRK-007,D. Said,1321,341.47,451081.87,306,2025-10-26,2025-10-26,On Time,15722.38
+SHP-00213,2025-06-25,Eastern Industrial Supplies,Maintenance Parts,Eldoret Depot,TRK-019,M. Otieno,955,45.9,43834.5,79,2025-06-26,2025-06-27,Late,4044.57
+SHP-00214,2025-01-15,CoastBuild Ltd,Protective Coatings,Nakuru Depot,TRK-018,,1399,292.99,409893.01,53,2025-01-16,2025-01-18,Late,2505.81
+SHP-00215,2025-11-21,Eastern Industrial Supplies,Packaging Materials,Mombasa Depot,TRK-016,M. Otieno,755,100.02,75515.1,248,2025-11-22,2025-11-24,Late,14565.81
+SHP-00216,2025-11-14,Highland Agro Processors,Packaging Materials,Nakuru Depot,TRK-028,J. Mutua,792,329.61,261051.12,258,2025-11-15,2025-11-19,Late,11564.56
+SHP-00217,2025-08-18,Eastern Industrial Supplies,Maintenance Parts,Nakuru Depot,TRK-007,A. Hassan,298,194.35,57916.3,666,2025-08-20,2025-08-22,Late,26118.16
+SHP-00218,2025-09-26,Metro Packaging Ltd,Water Treatment Chemicals,Eldoret Depot,TRK-022,S. Chebet,525,796.75,418293.75,58,2025-09-27,2025-09-28,Late,3381.03
+SHP-00219,2025-11-06,Lake Region Water Services,Maintenance Parts,Mombasa Depot,TRK-021,D. Said,849,154.58,131238.42,90,2025-11-07,2025-11-10,Late,4977.7
+SHP-00220,2025-06-20,Eastern Industrial Supplies,Packaging Materials,Eldoret Depot,TRK-013,P. Maina,1761,373.8,658261.8,434,2025-06-22,2025-06-24,Late,26328.99
+SHP-00221,2025-03-17,CoastBuild Ltd,Protective Coatings,Nairobi Depot,TRK-011,L. Wekesa,1443,296.9,428426.7,420,2025-03-19,2025-03-19,On Time,23671.45
+SHP-00222,2025-04-11,BlueWave Facilities,Maintenance Parts,Nakuru Depot,TRK-017,J. Mutua,1482,53.07,78649.74,658,2025-04-13,2025-04-17,Late,30380.18
+SHP-00223,2025-03-07,Lake Region Water Services,Maintenance Parts,Nairobi Depot,TRK-010,M. Otieno,1458,451.12,657732.96,707,2025-03-10,2025-03-14,Late,42123.86
+SHP-00224,2025-07-14,BlueWave Facilities,Industrial Cleaning Supplies,Nakuru Depot,TRK-024,E. Achieng,1393,520.85,725544.05,62,2025-07-15,2025-07-15,On Time,3356.94
+SHP-00225,2025-08-09,Lake Region Water Services,Maintenance Parts,Nakuru Depot,TRK-021,M. Otieno,165,652.81,107713.65,567,2025-08-11,2025-08-13,Late,23317.72
+SHP-00226,2025-02-24,Metro Packaging Ltd,Packaging Materials,Nairobi Depot,TRK-024,J. Mutua,1129,759.47,857441.63,699,2025-02-26,2025-02-26,On Time,30349.06
+SHP-00227,2025-07-18,UrbanWorks Contractors,Packaging Materials,Nakuru Depot,TRK-009,B. Kiprono,1622,570.45,925269.9,668,2025-07-20,2025-07-22,Late,37244.81
+SHP-00228,2025-01-30,Eastern Industrial Supplies,Construction Additives,Mombasa Depot,TRK-016,K. Barasa,194,304.63,59098.22,182,2025-01-31,2025-01-31,On Time,6719.53
+SHP-00229,2025-11-09,Rift Valley Manufacturing,Construction Additives,Nairobi Depot,TRK-017,M. Otieno,327,616.73,201670.71,376,2025-11-11,2025-11-10,On Time,18872.56
+SHP-00230,2025-03-03,UrbanWorks Contractors,Protective Coatings,Nakuru Depot,TRK-014,K. Barasa,1009,726.41,732947.69,459,2025-03-05,2025-03-06,Late,18885.01
+SHP-00231,2025-10-08,Lake Region Water Services,Industrial Cleaning Supplies,Nairobi Depot,TRK-011,P. Maina,1472,114.48,168514.56,713,2025-10-11,2025-10-15,Late,33519.79
+SHP-00232,2025-09-25,BlueWave Facilities,Industrial Cleaning Supplies,Nakuru Depot,TRK-028,A. Hassan,1497,353.13,528635.61,274,2025-09-26,2025-09-30,Late,15504.45
+SHP-00233,2025-02-27,Rift Valley Manufacturing,Construction Additives,Nakuru Depot,TRK-021,A. Hassan,376,683.45,256977.2,538,2025-03-01,2025-03-02,Late,20719.05
+SHP-00234,2025-01-17,Highland Agro Processors,Maintenance Parts,Mombasa Depot,TRK-001,D. Said,564,640.12,361027.68,683,2025-01-19,2025-01-21,Late,39253.14
+SHP-00235,2025-12-20,Eastern Industrial Supplies,Industrial Cleaning Supplies,Nairobi Depot,TRK-019,A. Hassan,1557,787.87,1226713.59,497,2025-12-22,2025-12-23,Late,29522.97
+SHP-00236,2025-07-31,BlueWave Facilities,Water Treatment Chemicals,Nairobi Depot,TRK-020,P. Maina,454,539.24,244814.96,217,2025-08-01,2025-08-04,Late,9780.49
+SHP-00237,2025-11-12,UrbanWorks Contractors,Construction Additives,Eldoret Depot,TRK-016,P. Maina,474,544.36,258026.64,617,2025-11-14,2025-11-13,On Time,24848.12
+SHP-00238,2025-12-18,CoastBuild Ltd,Water Treatment Chemicals,Nairobi Depot,TRK-024,S. Chebet,1935,807.69,1562880.15,192,2025-12-19,2025-12-20,Late,11155.46
+SHP-00239,2025-03-02,CoastBuild Ltd,Packaging Materials,Nairobi Depot,TRK-001,K. Barasa,1886,293.89,554276.54,138,2025-03-03,2025-03-06,Late,5030.14
+SHP-00240,2025-05-07,Metro Packaging Ltd,Industrial Cleaning Supplies,Nakuru Depot,TRK-010,A. Hassan,2068,128.12,264952.16,602,2025-05-09,2025-05-10,Late,27808.06
+SHP-00241,2025-10-22,Rift Valley Manufacturing,Construction Additives,Nakuru Depot,TRK-006,M. Otieno,2265,762.6,1727289.0,562,2025-10-24,2025-10-27,Late,28023.14
+SHP-00242,2025-04-27,CoastBuild Ltd,Packaging Materials,Nakuru Depot,TRK-015,E. Achieng,2459,631.57,1553030.63,466,2025-04-29,2025-05-02,Late,28851.19
+SHP-00243,2025-02-17,Highland Agro Processors,Construction Additives,Nairobi Depot,TRK-011,D. Said,291,130.78,38056.98,533,2025-02-19,2025-02-18,On Time,31445.96
+SHP-00244,2025-12-30,Highland Agro Processors,Industrial Cleaning Supplies,Nairobi Depot,TRK-030,P. Maina,2011,798.74,1606266.14,557,2026-01-01,2026-01-05,Late,23987.5
+SHP-00245,2025-02-25,CoastBuild Ltd,Industrial Cleaning Supplies,Nairobi Depot,TRK-024,A. Hassan,725,802.87,582080.75,111,2025-02-26,2025-02-26,On Time,6739.03
+SHP-00246,2025-11-28,Metro Packaging Ltd,Maintenance Parts,Mombasa Depot,TRK-019,E. Achieng,1551,616.17,955679.67,60,2025-11-29,2025-12-01,Late,3137.35
+SHP-00247,2025-11-12,Lake Region Water Services,Water Treatment Chemicals,Nakuru Depot,TRK-023,K. Barasa,1980,811.89,1607542.2,270,2025-11-13,2025-11-13,On Time,16404.5
+SHP-00248,2025-05-30,UrbanWorks Contractors,Maintenance Parts,Nakuru Depot,TRK-025,E. Achieng,2424,872.14,2114067.36,177,2025-05-31,2025-06-03,Late,9793.04
+SHP-00249,2025-03-13,CoastBuild Ltd,Protective Coatings,Mombasa Depot,TRK-022,M. Otieno,260,566.11,147188.6,173,2025-03-14,2025-03-14,On Time,6303.32
+SHP-00250,2025-09-06,CoastBuild Ltd,Water Treatment Chemicals,Mombasa Depot,TRK-014,D. Said,246,823.81,202657.26,257,2025-09-07,2025-09-07,On Time,11862.84
+SHP-00251,2025-12-11,UrbanWorks Contractors,Water Treatment Chemicals,Nakuru Depot,TRK-016,A. Hassan,928,571.94,530760.32,468,2025-12-13,2025-12-16,Late,27447.17
+SHP-00252,2025-11-04,Metro Packaging Ltd,Maintenance Parts,Mombasa Depot,TRK-010,P. Maina,645,495.6,319662.0,241,2025-11-05,2025-11-07,Late,12007.22
+SHP-00253,2025-05-13,Rift Valley Manufacturing,Maintenance Parts,Nakuru Depot,TRK-020,B. Kiprono,1824,119.92,218734.08,284,2025-05-14,2025-05-14,On Time,16580.94
+SHP-00254,2025-07-09,Lake Region Water Services,Construction Additives,Mombasa Depot,TRK-017,B. Kiprono,646,675.62,436450.52,587,2025-07-11,2025-07-14,Late,27883.51
+SHP-00255,2025-10-04,Rift Valley Manufacturing,Packaging Materials,Mombasa Depot,TRK-026,M. Otieno,2059,635.55,1308597.45,253,2025-10-05,2025-10-08,Late,13127.55
+SHP-00256,2025-08-30,BlueWave Facilities,Industrial Cleaning Supplies,Nairobi Depot,TRK-025,J. Mutua,1322,820.71,1084978.62,380,2025-09-01,2025-09-01,On Time,19509.81
+SHP-00257,2025-09-08,Metro Packaging Ltd,Packaging Materials,Eldoret Depot,TRK-010,A. Hassan,1913,527.52,1009145.76,448,2025-09-10,2025-09-12,Late,25723.88
+SHP-00258,2025-05-15,CoastBuild Ltd,Protective Coatings,Eldoret Depot,TRK-030,L. Wekesa,203,690.48,140167.44,590,2025-05-17,2025-05-19,Late,32064.49
+SHP-00259,2025-06-29,BlueWave Facilities,Packaging Materials,Nairobi Depot,TRK-001,K. Barasa,1333,723.7,964692.1,190,2025-06-30,2025-06-30,On Time,8753.56
+SHP-00260,2025-07-04,Rift Valley Manufacturing,Water Treatment Chemicals,Eldoret Depot,TRK-005,M. Otieno,1755,767.92,1347699.6,352,2025-07-06,2025-07-06,On Time,13825.56
+SHP-00261,2025-06-22,Rift Valley Manufacturing,Maintenance Parts,Mombasa Depot,TRK-029,J. Mutua,1733,257.19,445710.27,257,2025-06-23,2025-06-25,Late,11065.42
+SHP-00262,2025-10-28,Metro Packaging Ltd,Construction Additives,Nakuru Depot,TRK-009,,865,603.63,522139.95,453,2025-10-30,2025-11-02,Late,22124.77
+SHP-00263,2025-11-19,CoastBuild Ltd,Water Treatment Chemicals,Nairobi Depot,TRK-028,K. Barasa,1210,214.67,259750.7,207,2025-11-20,2025-11-20,On Time,10416.24
+SHP-00264,2025-02-24,Eastern Industrial Supplies,Packaging Materials,Nakuru Depot,TRK-014,M. Otieno,1183,805.26,952622.58,511,2025-02-26,2025-02-25,On Time,28720.3
+SHP-00265,2025-09-06,Rift Valley Manufacturing,Water Treatment Chemicals,Mombasa Depot,TRK-028,A. Hassan,2488,783.38,1949049.44,85,2025-09-07,2025-09-06,On Time,4858.69
+SHP-00266,2025-11-04,Lake Region Water Services,Packaging Materials,Nakuru Depot,TRK-029,D. Said,1475,484.23,714239.25,329,2025-11-05,2025-11-06,Late,11787.41
+SHP-00267,2025-04-15,Eastern Industrial Supplies,Maintenance Parts,Mombasa Depot,TRK-012,S. Chebet,1633,672.94,1098911.02,713,2025-04-18,2025-04-21,Late,38729.94
+SHP-00268,2025-02-15,Lake Region Water Services,Water Treatment Chemicals,Eldoret Depot,TRK-013,D. Said,364,211.85,77113.4,442,2025-02-17,2025-02-16,On Time,17319.4
+SHP-00269,2025-01-29,Eastern Industrial Supplies,Construction Additives,Eldoret Depot,TRK-026,P. Maina,455,453.51,206347.05,399,2025-01-31,2025-02-02,Late,16992.35
+SHP-00270,2025-03-16,Lake Region Water Services,Water Treatment Chemicals,Nairobi Depot,TRK-023,K. Barasa,813,236.09,191941.17,363,2025-03-18,2025-03-18,On Time,13116.94
+SHP-00271,2025-05-22,Lake Region Water Services,Water Treatment Chemicals,Eldoret Depot,TRK-030,B. Kiprono,688,180.13,123929.44,537,2025-05-24,2025-05-28,Late,27327.86
+SHP-00272,2025-04-28,BlueWave Facilities,Protective Coatings,Eldoret Depot,TRK-006,B. Kiprono,1318,769.48,1014174.64,388,2025-04-30,2025-04-29,On Time,22387.99
+SHP-00273,2025-06-13,UrbanWorks Contractors,Packaging Materials,Mombasa Depot,TRK-028,A. Hassan,1347,97.27,131022.69,160,2025-06-14,2025-06-14,On Time,9046.6
+SHP-00274,2025-10-28,BlueWave Facilities,Construction Additives,Mombasa Depot,TRK-029,P. Maina,1189,798.59,949523.51,408,2025-10-30,2025-10-30,On Time,15752.62
+SHP-00275,2025-09-20,BlueWave Facilities,Water Treatment Chemicals,Mombasa Depot,TRK-009,S. Chebet,2405,134.6,323713.0,405,2025-09-22,2025-09-22,On Time,20676.8
+SHP-00276,2025-08-24,CoastBuild Ltd,Maintenance Parts,Nairobi Depot,TRK-022,S. Chebet,2005,709.49,1422527.45,576,2025-08-26,2025-08-26,On Time,20305.17
+SHP-00277,2025-02-20,Rift Valley Manufacturing,Construction Additives,Nairobi Depot,TRK-016,,1880,303.5,570580.0,234,2025-02-21,2025-02-24,Late,13353.53
+SHP-00278,2025-08-23,UrbanWorks Contractors,Industrial Cleaning Supplies,Mombasa Depot,TRK-001,A. Hassan,2200,84.28,185416.0,95,2025-08-24,2025-08-24,On Time,3964.55
+SHP-00279,2025-02-04,BlueWave Facilities,CONSTRUCTION ADDITIVES,Nairobi Depot,TRK-003,D. Said,705,517.53,364858.65,29,2025-02-05,2025-02-07,Late,1669.61
+SHP-00280,2025-03-25,Highland Agro Processors,Industrial Cleaning Supplies,Nakuru Depot,TRK-009,K. Barasa,1747,553.15,966353.05,578,2025-03-27,2025-03-26,On Time,24352.98
+SHP-00281,2025-03-03,Metro Packaging Ltd,Protective Coatings,Eldoret Depot,TRK-013,L. Wekesa,189,615.65,116357.85,389,2025-03-05,2025-03-05,On Time,18401.64
+SHP-00282,2025-07-05,Rift Valley Manufacturing,Construction Additives,Eldoret Depot,TRK-026,B. Kiprono,1172,83.97,98412.84,387,2025-07-07,2025-07-08,Late,14331.64
+SHP-00283,2025-06-03,BlueWave Facilities,Water Treatment Chemicals,Eldoret Depot,TRK-015,S. Chebet,1687,309.08,521417.96,621,2025-06-05,2025-06-05,On Time,26939.5
+SHP-00284,2025-12-20,Rift Valley Manufacturing,Construction Additives,Mombasa Depot,TRK-004,P. Maina,1751,250.76,439080.76,67,2025-12-21,2025-12-22,Late,3790.78
+SHP-00285,2025-04-19,UrbanWorks Contractors,Water Treatment Chemicals,Mombasa Depot,TRK-027,,994,85.02,84509.88,534,2025-04-21,2025-04-25,Late,21876.7
+SHP-00286,2025-09-05,Eastern Industrial Supplies,Protective Coatings,Nairobi Depot,TRK-021,D. Said,1902,339.93,646546.86,603,2025-09-07,2025-09-08,Late,29884.21
+SHP-00287,2025-04-02,Highland Agro Processors,Packaging Materials,Mombasa Depot,TRK-027,L. Wekesa,2077,332.74,691100.98,455,2025-04-04,2025-04-03,On Time,20568.92
+SHP-00288,2025-07-15,BlueWave Facilities,Packaging Materials,Eldoret Depot,TRK-023,S. Chebet,2378,458.19,1089575.82,470,2025-07-17,2025-07-21,Late,27971.83
+SHP-00289,2025-12-24,BlueWave Facilities,Water Treatment Chemicals,Mombasa Depot,TRK-025,L. Wekesa,1451,366.72,532110.72,554,2025-12-26,2025-12-29,Late,31638.27
+SHP-00290,2025-07-05,CoastBuild Ltd,Packaging Materials,Nakuru Depot,TRK-027,J. Mutua,1166,146.62,170958.92,434,2025-07-07,2025-07-06,On Time,21033.39
+SHP-00291,2025-08-14,Highland Agro Processors,Maintenance Parts,Mombasa Depot,TRK-002,A. Hassan,1656,775.3,1283896.8,282,2025-08-15,2025-08-18,Late,15224.46
+SHP-00292,2025-12-02,BlueWave Facilities,Industrial Cleaning Supplies,Eldoret Depot,TRK-004,J. Mutua,74,580.32,42943.68,396,2025-12-04,2025-12-04,On Time,22662.64
+SHP-00293,2025-07-07,Metro Packaging Ltd,Industrial Cleaning Supplies,Mombasa Depot,TRK-030,P. Maina,1873,856.2,1603662.6,342,2025-07-08,2025-07-08,On Time,20080.99
+SHP-00294,2025-02-16,Metro Packaging Ltd,Construction Additives,Nairobi Depot,TRK-023,S. Chebet,2105,789.78,1662486.9,571,2025-02-18,2025-02-22,Late,22664.89
+SHP-00295,2025-06-04,Rift Valley Manufacturing,Construction Additives,Mombasa Depot,TRK-030,B. Kiprono,953,434.87,414431.11,197,2025-06-05,2025-06-09,Late,11557.94
+SHP-00296,2025-06-18,Rift Valley Manufacturing,Construction Additives,Eldoret Depot,TRK-022,B. Kiprono,2286,288.3,659053.8,536,2025-06-20,2025-06-20,On Time,18841.04
+SHP-00297,2025-10-02,Lake Region Water Services,Construction Additives,Mombasa Depot,TRK-017,K. Barasa,1959,897.15,1757516.85,566,2025-10-04,2025-10-04,On Time,21278.25
+SHP-00298,2025-04-26,UrbanWorks Contractors,Protective Coatings,Eldoret Depot,TRK-030,E. Achieng,702,474.32,332972.64,520,2025-04-28,2025-05-01,Late,21362.4
+SHP-00299,2025-04-07,Lake Region Water Services,Maintenance Parts,Nairobi Depot,TRK-024,A. Hassan,117,77.68,9088.56,675,2025-04-09,2025-04-12,Late,39787.04
+SHP-00300,2025-09-28,Rift Valley Manufacturing,Construction Additives,Nakuru Depot,TRK-017,P. Maina,1606,389.69,625842.14,213,2025-09-29,2025-09-29,On Time,12458.52
+SHP-00301,2025-04-23,UrbanWorks Contractors,Protective Coatings,Nairobi Depot,TRK-009,P. Maina,1242,238.4,296092.8,31,2025-04-24,2025-04-28,Late,1127.14
+SHP-00302,2025-06-04,Highland Agro Processors,Packaging Materials,Eldoret Depot,TRK-026,A. Hassan,81,201.46,16318.26,87,2025-06-05,2025-06-07,Late,3885.31
+SHP-00303,2025-11-21,Lake Region Water Services,Construction Additives,Nakuru Depot,TRK-027,E. Achieng,218,777.02,169390.36,63,2025-11-22,2025-11-23,Late,2346.67
+SHP-00304,2025-12-10,Highland Agro Processors,Maintenance Parts,Nairobi Depot,TRK-007,L. Wekesa,284,729.32,207126.88,382,2025-12-12,2025-12-12,On Time,20891.39
+SHP-00305,2025-09-07,Eastern Industrial Supplies,Maintenance Parts,Nakuru Depot,TRK-030,A. Hassan,212,144.59,30653.08,50,2025-09-08,2025-09-12,Late,2255.64
+SHP-00306,2025-06-06,Lake Region Water Services,Protective Coatings,Nakuru Depot,TRK-023,M. Otieno,209,504.59,105459.31,31,2025-06-07,2025-06-08,Late,1250.53
+SHP-00307,2025-07-19,Highland Agro Processors,Protective Coatings,Eldoret Depot,TRK-019,B. Kiprono,2120,759.06,1609207.2,524,2025-07-21,2025-07-25,Late,20168.64
+SHP-00308,2025-01-16,UrbanWorks Contractors,Maintenance Parts,Nakuru Depot,TRK-029,P. Maina,951,558.27,530914.77,449,2025-01-18,2025-01-18,On Time,27256.7
+SHP-00309,2025-07-23,CoastBuild Ltd,Protective Coatings,Mombasa Depot,TRK-001,P. Maina,1058,697.08,737510.64,348,2025-07-24,2025-07-27,Late,12183.92
+SHP-00310,2025-03-25,Lake Region Water Services,Water Treatment Chemicals,Mombasa Depot,TRK-007,J. Mutua,187,356.55,66674.85,108,2025-03-26,2025-03-25,On Time,4706.82
+SHP-00311,2025-07-05,Lake Region Water Services,Packaging Materials,Nakuru Depot,TRK-005,K. Barasa,650,49.63,32259.5,683,2025-07-07,2025-07-07,On Time,35729.18
+SHP-00312,2025-04-24,Eastern Industrial Supplies,Industrial Cleaning Supplies,Mombasa Depot,TRK-012,D. Said,1827,270.25,493746.75,209,2025-04-25,2025-04-29,Late,8390.1
+SHP-00313,2025-11-13,Rift Valley Manufacturing,Protective Coatings,Nairobi Depot,TRK-024,E. Achieng,498,425.51,211903.98,502,2025-11-15,2025-11-14,On Time,26246.88
+SHP-00314,2025-04-07,UrbanWorks Contractors,Industrial Cleaning Supplies,Nakuru Depot,TRK-023,K. Barasa,1550,600.89,931379.5,294,2025-04-08,2025-04-12,Late,16110.18
+SHP-00315,2025-10-07,UrbanWorks Contractors,Construction Additives,Eldoret Depot,TRK-026,S. Chebet,2022,661.42,1337391.24,155,2025-10-08,2025-10-08,On Time,5831.07
+SHP-00316,2025-07-20,CoastBuild Ltd,Water Treatment Chemicals,Nakuru Depot,TRK-007,B. Kiprono,1156,81.89,94664.84,204,2025-07-21,2025-07-23,Late,10234.65
+SHP-00317,2025-12-03,BlueWave Facilities,Industrial Cleaning Supplies,Nakuru Depot,TRK-025,B. Kiprono,886,532.81,472069.66,211,2025-12-04,2025-12-05,Late,10006.79
+SHP-00318,2025-12-20,Metro Packaging Ltd,Maintenance Parts,Nairobi Depot,TRK-010,D. Said,897,642.26,576107.22,481,2025-12-22,2025-12-22,On Time,22394.91
+SHP-00319,2025-10-14,Lake Region Water Services,Maintenance Parts,Mombasa Depot,TRK-006,A. Hassan,1093,891.98,974934.14,386,2025-10-16,2025-10-16,On Time,17999.77
+SHP-00320,2025-01-09,Rift Valley Manufacturing,Construction Additives,Mombasa Depot,TRK-014,J. Mutua,139,496.28,68982.92,288,2025-01-10,2025-01-10,On Time,15741.19
+SHP-00321,2025-01-08,Eastern Industrial Supplies,Industrial Cleaning Supplies,Nairobi Depot,TRK-019,J. Mutua,1813,269.47,488549.11,513,2025-01-10,2025-01-13,Late,19839.74
+SHP-00322,2025-11-17,CoastBuild Ltd,Packaging Materials,Eldoret Depot,TRK-023,A. Hassan,527,460.5,242683.5,557,2025-11-19,2025-11-22,Late,21731.52
+SHP-00323,2025-12-24,CoastBuild Ltd,Industrial Cleaning Supplies,Nakuru Depot,TRK-020,K. Barasa,1177,891.25,1049001.25,51,2025-12-25,2025-12-26,Late,2041.13
+SHP-00324,2025-04-16,Eastern Industrial Supplies,Construction Additives,Nakuru Depot,TRK-003,S. Chebet,410,624.14,255897.4,288,2025-04-17,2025-04-16,On Time,16658.89
+SHP-00325,2025-07-09,Metro Packaging Ltd,Industrial Cleaning Supplies,Mombasa Depot,TRK-026,E. Achieng,129,686.24,88524.96,258,2025-07-10,2025-07-10,On Time,10112.51
+SHP-00326,2025-08-31,Lake Region Water Services,Construction Additives,Eldoret Depot,TRK-003,S. Chebet,1357,639.75,868140.75,280,2025-09-01,2025-09-01,On Time,11432.8
+SHP-00327,2025-04-11,Metro Packaging Ltd,Industrial Cleaning Supplies,Nakuru Depot,TRK-011,S. Chebet,1434,169.78,243464.52,414,2025-04-13,2025-04-13,On Time,17973.05
+SHP-00328,2025-03-25,Eastern Industrial Supplies,Industrial Cleaning Supplies,Eldoret Depot,TRK-018,K. Barasa,1158,415.86,481565.88,340,2025-03-26,2025-03-29,Late,13971.49
+SHP-00329,2025-06-10,Rift Valley Manufacturing,Maintenance Parts,Nakuru Depot,TRK-015,L. Wekesa,912,109.2,99590.4,453,2025-06-12,2025-06-15,Late,22776.71
+SHP-00330,2025-12-19,Metro Packaging Ltd,Water Treatment Chemicals,Nakuru Depot,TRK-013,M. Otieno,1618,196.56,318034.08,315,2025-12-20,2025-12-20,On Time,11800.4
+SHP-00331,2025-04-04,UrbanWorks Contractors,Packaging Materials,Nakuru Depot,TRK-001,E. Achieng,2347,868.81,2039097.07,264,2025-04-05,2025-04-08,Late,10699.24
+SHP-00332,2025-06-19,Highland Agro Processors,Protective Coatings,Eldoret Depot,TRK-016,K. Barasa,1102,350.25,385975.5,222,2025-06-20,2025-06-22,Late,8433.78
+SHP-00333,2025-12-13,Eastern Industrial Supplies,Maintenance Parts,Nairobi Depot,TRK-011,E. Achieng,1231,254.76,313609.56,82,2025-12-14,2025-12-13,On Time,4429.61
+SHP-00334,2025-09-20,Rift Valley Manufacturing,Water Treatment Chemicals,Nairobi Depot,TRK-025,E. Achieng,1161,761.8,884449.8,145,2025-09-21,2025-09-20,On Time,5184.89
+SHP-00335,2025-10-25,CoastBuild Ltd,Maintenance Parts,Mombasa Depot,TRK-007,L. Wekesa,1180,234.2,276356.0,449,2025-10-27,2025-10-26,On Time,24530.22
+SHP-00336,2025-08-30,UrbanWorks Contractors,Water Treatment Chemicals,Nairobi Depot,TRK-018,P. Maina,565,606.24,342525.6,149,2025-08-31,2025-09-03,Late,6294.86
+SHP-00337,2025-10-04,Rift Valley Manufacturing,Maintenance Parts,Nairobi Depot,TRK-001,D. Said,1004,119.08,119556.32,717,2025-10-07,2025-10-08,Late,43845.25
+SHP-00338,2025-04-09,Highland Agro Processors,Water Treatment Chemicals,Mombasa Depot,TRK-003,K. Barasa,869,806.62,700952.78,367,2025-04-11,2025-04-15,Late,22665.11
+SHP-00339,2025-08-23,Lake Region Water Services,Packaging Materials,Mombasa Depot,TRK-019,L. Wekesa,372,725.59,269919.48,237,2025-08-24,2025-08-24,On Time,
+SHP-00340,2025-10-26,Eastern Industrial Supplies,Construction Additives,Eldoret Depot,TRK-015,P. Maina,551,472.14,260149.14,609,2025-10-28,2025-10-30,Late,22776.24
+SHP-00341,2025-01-29,UrbanWorks Contractors,Packaging Materials,Mombasa Depot,TRK-013,M. Otieno,1748,770.57,1346956.36,63,2025-01-30,2025-01-30,On Time,3643.96
+SHP-00342,2025-01-16,CoastBuild Ltd,Maintenance Parts,Mombasa Depot,TRK-025,B. Kiprono,2383,175.55,418335.65,112,2025-01-17,2025-01-18,Late,6056.42
+SHP-00343,2025-11-18,CoastBuild Ltd,Maintenance Parts,Mombasa Depot,TRK-012,E. Achieng,1247,558.28,696175.16,709,2025-11-21,2025-11-24,Late,26918.86
+SHP-00344,2025-08-11,Rift Valley Manufacturing,Packaging Materials,Nakuru Depot,TRK-020,M. Otieno,1514,202.57,306690.98,614,2025-08-13,2025-08-13,On Time,25631.59
+SHP-00345,2025-06-14,Eastern Industrial Supplies,CONSTRUCTION ADDITIVES,Eldoret Depot,TRK-013,K. Barasa,1120,863.76,967411.2,204,2025-06-15,2025-06-17,Late,9227.79
+SHP-00346,2025-04-07,BlueWave Facilities,Industrial Cleaning Supplies,Nairobi Depot,TRK-005,P. Maina,1097,333.09,365399.73,339,2025-04-08,2025-04-11,Late,20153.89
+SHP-00347,2025-02-03,Eastern Industrial Supplies,Maintenance Parts,Nairobi Depot,TRK-010,S. Chebet,2208,431.28,952266.24,305,2025-02-04,2025-02-08,Late,16662.26
+SHP-00348,2025-07-03,CoastBuild Ltd,Protective Coatings,Nairobi Depot,TRK-004,K. Barasa,1262,633.93,800019.66,657,2025-07-05,2025-07-08,Late,30679.37
+SHP-00349,2025-10-13,CoastBuild Ltd,Protective Coatings,Eldoret Depot,TRK-018,E. Achieng,720,472.4,340128.0,261,2025-10-14,2025-10-15,Late,12461.58
+SHP-00350,2025-07-26,Rift Valley Manufacturing,Packaging Materials,Nairobi Depot,TRK-024,S. Chebet,903,591.69,534296.07,663,2025-07-28,2025-07-31,Late,29631.69
+SHP-00351,2025-08-17,Metro Packaging Ltd,Construction Additives,Nairobi Depot,TRK-006,A. Hassan,1110,220.85,245143.5,285,2025-08-18,2025-08-22,Late,10372.12
+SHP-00352,2025-04-24,Metro Packaging Ltd,Protective Coatings,Nakuru Depot,TRK-007,M. Otieno,2435,646.76,1574860.6,609,2025-04-26,2025-04-26,On Time,35714.56
+SHP-00353,2025-04-03,Lake Region Water Services,Maintenance Parts,Mombasa Depot,TRK-028,E. Achieng,764,440.71,336702.44,376,2025-04-05,2025-04-07,Late,20805.56
+SHP-00354,2025-08-12,BlueWave Facilities,Maintenance Parts,Mombasa Depot,TRK-010,M. Otieno,474,795.18,376915.32,381,2025-08-14,2025-08-18,Late,15409.27
+SHP-00355,2025-06-02,Eastern Industrial Supplies,Water Treatment Chemicals,Nairobi Depot,TRK-024,B. Kiprono,384,580.25,222816.0,709,2025-06-05,2025-06-06,Late,39344.25
+SHP-00356,2025-06-17,BlueWave Facilities,Packaging Materials,Nakuru Depot,TRK-005,L. Wekesa,1994,177.96,354852.24,30,2025-06-18,2025-06-18,On Time,1218.22
+SHP-00357,2025-02-08,Rift Valley Manufacturing,Packaging Materials,Mombasa Depot,TRK-029,L. Wekesa,55,493.56,27145.8,122,2025-02-09,2025-02-13,Late,4957.64
+SHP-00358,2025-06-16,Highland Agro Processors,Construction Additives,Eldoret Depot,TRK-011,B. Kiprono,1640,226.12,370836.8,312,2025-06-17,2025-06-17,On Time,18895.73
+SHP-00359,2025-07-09,Eastern Industrial Supplies,Maintenance Parts,Nairobi Depot,TRK-019,B. Kiprono,1359,179.65,244144.35,82,2025-07-10,2025-07-14,Late,4399.66
+SHP-00360,2025-02-13,Highland Agro Processors,Packaging Materials,Eldoret Depot,TRK-006,K. Barasa,886,496.29,439712.94,504,2025-02-15,2025-02-14,On Time,17946.44
+SHP-00361,2025-04-14,Highland Agro Processors,Industrial Cleaning Supplies,Nairobi Depot,TRK-023,P. Maina,330,382.72,126297.6,106,2025-04-15,2025-04-15,On Time,4973.92
+SHP-00362,2025-04-26,Eastern Industrial Supplies,Packaging Materials,Nairobi Depot,TRK-022,S. Chebet,317,828.74,262710.58,382,2025-04-28,2025-04-29,Late,16610.63
+SHP-00363,2025-11-15,BlueWave Facilities,Construction Additives,Eldoret Depot,TRK-012,J. Mutua,2143,536.64,1150019.52,542,2025-11-17,2025-11-20,Late,30864.54
+SHP-00364,2025-11-08,BlueWave Facilities,Protective Coatings,Mombasa Depot,TRK-006,B. Kiprono,602,175.92,105903.84,191,2025-11-09,2025-11-11,Late,10607.55
+SHP-00365,2025-02-11,Rift Valley Manufacturing,Packaging Materials,Nairobi Depot,TRK-029,E. Achieng,773,288.38,222917.74,665,2025-02-13,2025-02-15,Late,36682.55
+SHP-00366,2025-09-27,Metro Packaging Ltd,Packaging Materials,Mombasa Depot,TRK-024,M. Otieno,1206,663.85,800603.1,585,2025-09-29,2025-09-29,On Time,32145.03
+SHP-00367,2025-05-02,CoastBuild Ltd,Protective Coatings,Mombasa Depot,TRK-027,B. Kiprono,1802,272.95,491855.9,44,2025-05-03,2025-05-03,On Time,2414.34
+SHP-00368,2025-08-14,UrbanWorks Contractors,Protective Coatings,Nairobi Depot,TRK-030,K. Barasa,2388,785.64,1876108.32,578,2025-08-16,2025-08-20,Late,29101.03
+SHP-00369,2025-07-30,Eastern Industrial Supplies,Protective Coatings,Eldoret Depot,TRK-021,A. Hassan,331,83.84,27751.04,652,2025-08-01,2025-08-01,On Time,28940.42
+SHP-00370,2025-09-11,Highland Agro Processors,Construction Additives,Nairobi Depot,TRK-029,B. Kiprono,1906,442.79,843957.74,713,2025-09-14,2025-09-18,Late,42059.59
+SHP-00371,2025-11-28,Eastern Industrial Supplies,Industrial Cleaning Supplies,Eldoret Depot,TRK-017,E. Achieng,673,608.5,409520.5,338,2025-11-29,2025-11-29,On Time,17896.92
+SHP-00372,2025-05-02,Rift Valley Manufacturing,Construction Additives,Nakuru Depot,TRK-017,K. Barasa,2131,182.2,388268.2,244,2025-05-03,2025-05-03,On Time,11649.78
+SHP-00373,2025-03-09,Metro Packaging Ltd,Protective Coatings,Nairobi Depot,TRK-025,E. Achieng,966,546.36,527783.76,489,2025-03-11,2025-03-12,Late,28700.14
+SHP-00374,2025-12-02,Lake Region Water Services,Construction Additives,Nairobi Depot,TRK-006,B. Kiprono,1944,79.83,155189.52,648,2025-12-04,2025-12-05,Late,32746.39
+SHP-00375,2025-10-05,Lake Region Water Services,Maintenance Parts,Eldoret Depot,TRK-012,K. Barasa,1977,171.92,339885.84,564,2025-10-07,2025-10-07,On Time,26888.71
+SHP-00376,2025-08-21,Metro Packaging Ltd,Construction Additives,Nairobi Depot,TRK-003,J. Mutua,1843,601.81,1109135.83,548,2025-08-23,2025-08-27,Late,25818.53
+SHP-00377,2025-05-11,Highland Agro Processors,Industrial Cleaning Supplies,Mombasa Depot,TRK-022,L. Wekesa,158,232.75,36774.5,85,2025-05-12,2025-05-12,On Time,3035.58
+SHP-00378,2025-01-05,Highland Agro Processors,Construction Additives,Eldoret Depot,TRK-030,D. Said,1307,116.48,152239.36,220,2025-01-06,2025-01-08,Late,8000.96
+SHP-00379,2025-07-02,CoastBuild Ltd,Water Treatment Chemicals,Nakuru Depot,TRK-004,E. Achieng,1149,191.75,220320.75,342,2025-07-03,2025-07-04,Late,18829.63
+SHP-00380,2025-04-10,Eastern Industrial Supplies,Maintenance Parts,Nakuru Depot,TRK-019,E. Achieng,2237,255.91,572470.67,124,2025-04-11,2025-04-11,On Time,7171.69
+SHP-00381,2025-12-18,Lake Region Water Services,Construction Additives,Eldoret Depot,TRK-012,B. Kiprono,137,523.38,71703.06,45,2025-12-19,2025-12-22,Late,1866.95
+SHP-00382,2025-01-31,Rift Valley Manufacturing,Protective Coatings,Nakuru Depot,TRK-013,L. Wekesa,2108,112.16,236433.28,581,2025-02-02,2025-02-05,Late,22603.11
+SHP-00383,2025-08-02,UrbanWorks Contractors,Packaging Materials,Nakuru Depot,TRK-016,D. Said,2195,241.42,529916.9,105,2025-08-03,2025-08-02,On Time,6352.12
+SHP-00384,2025-08-07,CoastBuild Ltd,Protective Coatings,Nairobi Depot,TRK-015,A. Hassan,1123,635.23,713363.29,521,2025-08-09,2025-08-10,Late,30871.98
+SHP-00385,2025-04-18,Metro Packaging Ltd,Water Treatment Chemicals,Nakuru Depot,TRK-007,A. Hassan,1764,500.27,882476.28,648,2025-04-20,2025-04-20,On Time,33610.87
+SHP-00386,2025-03-14,Lake Region Water Services,Industrial Cleaning Supplies,Nakuru Depot,TRK-020,M. Otieno,1137,692.76,787668.12,307,2025-03-15,2025-03-18,Late,15732.98
+SHP-00387,2025-08-11,Metro Packaging Ltd,Construction Additives,Nakuru Depot,TRK-024,M. Otieno,1886,197.23,371975.78,257,2025-08-12,2025-08-11,On Time,15703.19
+SHP-00388,2025-11-07,BlueWave Facilities,Maintenance Parts,Eldoret Depot,TRK-016,L. Wekesa,2167,484.21,1049283.07,490,2025-11-09,2025-11-09,On Time,27778.31
+SHP-00389,2025-12-27,Lake Region Water Services,Maintenance Parts,Eldoret Depot,TRK-001,L. Wekesa,2499,343.47,858331.53,565,2025-12-29,2025-12-28,On Time,25786.17
+SHP-00390,2025-07-20,CoastBuild Ltd,Industrial Cleaning Supplies,Nairobi Depot,TRK-005,E. Achieng,92,142.81,13138.52,718,2025-07-23,2025-07-25,Late,27177.25
+SHP-00391,2025-08-11,CoastBuild Ltd,Protective Coatings,Nairobi Depot,TRK-002,A. Hassan,2172,234.05,508356.6,399,2025-08-13,2025-08-15,Late,16729.53
+SHP-00392,2025-06-04,Eastern Industrial Supplies,Industrial Cleaning Supplies,Eldoret Depot,TRK-020,B. Kiprono,1298,140.43,182278.14,143,2025-06-05,2025-06-05,On Time,8293.22
+SHP-00393,2025-12-10,CoastBuild Ltd,Maintenance Parts,Nakuru Depot,TRK-003,L. Wekesa,650,273.26,177619.0,425,2025-12-12,2025-12-11,On Time,19785.31
+SHP-00394,2025-08-14,BlueWave Facilities,Protective Coatings,Eldoret Depot,TRK-028,D. Said,80,822.87,65829.6,712,2025-08-17,2025-08-17,On Time,38375.77
+SHP-00395,2025-08-30,Lake Region Water Services,Industrial Cleaning Supplies,Eldoret Depot,TRK-020,A. Hassan,1709,96.7,165260.3,456,2025-09-01,2025-09-04,Late,19197.0
+SHP-00396,2025-06-28,Lake Region Water Services,Protective Coatings,Nakuru Depot,TRK-006,S. Chebet,349,645.59,225310.91,245,2025-06-29,2025-06-28,On Time,13987.75
+SHP-00397,2025-08-05,BlueWave Facilities,Protective Coatings,Mombasa Depot,TRK-008,P. Maina,555,334.87,185852.85,533,2025-08-07,2025-08-06,On Time,19024.9
+SHP-00398,2025-12-09,UrbanWorks Contractors,Industrial Cleaning Supplies,Mombasa Depot,TRK-001,L. Wekesa,2296,311.23,714584.08,538,2025-12-11,2025-12-13,Late,26457.53
+SHP-00399,2025-04-17,UrbanWorks Contractors,Industrial Cleaning Supplies,Mombasa Depot,TRK-006,D. Said,1326,367.26,486986.76,108,2025-04-18,2025-04-21,Late,5017.04
+SHP-00400,2025-06-02,CoastBuild Ltd,Protective Coatings,Mombasa Depot,TRK-003,D. Said,864,800.42,691562.88,245,2025-06-03,2025-06-03,On Time,13308.89
+SHP-00401,2025-10-16,Lake Region Water Services,Protective Coatings,Mombasa Depot,TRK-029,P. Maina,2026,452.83,917433.58,68,2025-10-17,2025-10-17,On Time,2968.77
+SHP-00402,2025-08-22,UrbanWorks Contractors,Packaging Materials,Mombasa Depot,TRK-023,E. Achieng,1300,417.0,542100.0,467,2025-08-24,2025-08-24,On Time,27588.47
+SHP-00403,2025-08-25,UrbanWorks Contractors,Industrial Cleaning Supplies,Eldoret Depot,TRK-026,P. Maina,138,436.02,60170.76,428,2025-08-27,2025-08-28,Late,24507.74
+SHP-00404,2025-07-18,Highland Agro Processors,Protective Coatings,Mombasa Depot,TRK-014,A. Hassan,595,346.65,206256.75,34,2025-07-19,2025-07-20,Late,1626.5
+SHP-00405,2025-08-03,Eastern Industrial Supplies,Construction Additives,Nairobi Depot,TRK-030,M. Otieno,1155,95.27,110036.85,150,2025-08-04,2025-08-04,On Time,6381.73
+SHP-00406,2025-09-23,Eastern Industrial Supplies,Protective Coatings,Eldoret Depot,TRK-009,L. Wekesa,890,150.3,133767.0,364,2025-09-25,2025-09-25,On Time,18862.9
+SHP-00407,2025-06-25,CoastBuild Ltd,Maintenance Parts,Mombasa Depot,TRK-019,E. Achieng,2450,149.65,366642.5,256,2025-06-26,2025-06-26,On Time,12634.28
+SHP-00408,2025-08-02,Rift Valley Manufacturing,Protective Coatings,Mombasa Depot,TRK-013,L. Wekesa,1535,179.53,275578.55,122,2025-08-03,2025-08-03,On Time,6346.32
+SHP-00409,2025-01-15,Highland Agro Processors,Construction Additives,Nakuru Depot,TRK-004,A. Hassan,1586,762.49,1209309.14,455,2025-01-17,2025-01-19,Late,21446.58
+SHP-00410,2025-11-03,UrbanWorks Contractors,Maintenance Parts,Nakuru Depot,TRK-009,E. Achieng,1014,369.07,374236.98,291,2025-11-04,2025-11-04,On Time,13244.87
+SHP-00411,2025-04-27,UrbanWorks Contractors,Protective Coatings,Nakuru Depot,TRK-020,J. Mutua,134,280.24,37552.16,116,2025-04-28,2025-05-01,Late,5759.7
+SHP-00412,2025-10-05,UrbanWorks Contractors,Industrial Cleaning Supplies,Eldoret Depot,TRK-018,E. Achieng,2143,725.64,1555046.52,340,2025-10-06,2025-10-05,On Time,17378.97
+SHP-00413,2025-03-21,BlueWave Facilities,Industrial Cleaning Supplies,Nakuru Depot,TRK-018,E. Achieng,1992,328.77,654909.84,219,2025-03-22,2025-03-21,On Time,7715.03
+SHP-00414,2025-12-17,BlueWave Facilities,Packaging Materials,Nakuru Depot,TRK-019,S. Chebet,282,129.14,36417.48,273,2025-12-18,2025-12-18,On Time,14655.15
+SHP-00415,2025-03-10,UrbanWorks Contractors,Maintenance Parts,Nairobi Depot,TRK-028,M. Otieno,91,276.69,25178.79,35,2025-03-11,2025-03-11,On Time,1302.0
+SHP-00416,2025-05-13,Metro Packaging Ltd,Construction Additives,Nairobi Depot,TRK-004,L. Wekesa,2007,801.82,1609252.74,215,2025-05-14,2025-05-13,On Time,10956.24
+SHP-00417,2025-08-05,UrbanWorks Contractors,Packaging Materials,Mombasa Depot,TRK-006,P. Maina,2280,624.59,1424065.2,480,2025-08-07,2025-08-10,Late,22966.76
+SHP-00418,2025-06-27,CoastBuild Ltd,Water Treatment Chemicals,Nairobi Depot,TRK-016,B. Kiprono,2059,380.08,782584.72,42,2025-06-28,2025-06-28,On Time,2578.04
+SHP-00419,2025-01-20,UrbanWorks Contractors,Water Treatment Chemicals,Mombasa Depot,TRK-009,L. Wekesa,1315,374.32,492230.8,600,2025-01-22,2025-01-22,On Time,
+SHP-00420,2025-04-12,Highland Agro Processors,Water Treatment Chemicals,Mombasa Depot,TRK-024,P. Maina,983,373.44,367091.52,424,2025-04-14,2025-04-16,Late,20620.92
+SHP-00421,2025-02-04,UrbanWorks Contractors,Protective Coatings,Nakuru Depot,TRK-023,B. Kiprono,1160,659.96,765553.6,518,2025-02-06,2025-02-06,On Time,22703.95
+SHP-00422,2025-01-28,CoastBuild Ltd,Industrial Cleaning Supplies,Eldoret Depot,TRK-015,K. Barasa,1800,542.44,976392.0,116,2025-01-29,2025-02-01,Late,4655.21
+SHP-00423,2025-02-11,Metro Packaging Ltd,Maintenance Parts,Nakuru Depot,TRK-007,K. Barasa,1412,180.18,254414.16,358,2025-02-13,2025-02-13,On Time,16199.13
+SHP-00424,2025-01-08,Metro Packaging Ltd,Protective Coatings,Nairobi Depot,TRK-022,K. Barasa,2219,705.77,1566103.63,552,2025-01-10,2025-01-10,On Time,31065.44
+SHP-00425,2025-10-05,Highland Agro Processors,Industrial Cleaning Supplies,Mombasa Depot,TRK-006,M. Otieno,461,289.35,133390.35,70,2025-10-06,2025-10-07,Late,2813.37
+SHP-00426,2025-10-09,Eastern Industrial Supplies,Construction Additives,Nakuru Depot,TRK-022,P. Maina,1604,207.53,332878.12,102,2025-10-10,2025-10-12,Late,6148.99
+SHP-00427,2025-04-28,UrbanWorks Contractors,Protective Coatings,Nairobi Depot,TRK-017,K. Barasa,1250,73.56,91950.0,556,2025-04-30,2025-04-29,On Time,32388.97
+SHP-00428,2025-09-23,Rift Valley Manufacturing,Water Treatment Chemicals,Nakuru Depot,TRK-024,E. Achieng,1569,681.71,1069602.99,544,2025-09-25,2025-09-25,On Time,33342.55
+SHP-00429,2025-04-09,Highland Agro Processors,Packaging Materials,Nakuru Depot,TRK-008,B. Kiprono,1032,183.79,189671.28,199,2025-04-10,2025-04-14,Late,11778.1
+SHP-00430,2025-09-23,Metro Packaging Ltd,Construction Additives,Eldoret Depot,TRK-019,K. Barasa,1770,891.96,1578769.2,82,2025-09-24,2025-09-25,Late,3046.6
+SHP-00431,2025-08-08,Eastern Industrial Supplies,Industrial Cleaning Supplies,Eldoret Depot,TRK-017,M. Otieno,593,402.0,238386.0,424,2025-08-10,2025-08-14,Late,19086.47
+SHP-00432,2025-07-30,Rift Valley Manufacturing,Protective Coatings,Nakuru Depot,TRK-011,M. Otieno,1788,393.64,703828.32,247,2025-07-31,2025-07-31,On Time,10832.95
+SHP-00433,2025-08-07,Eastern Industrial Supplies,Protective Coatings,Nakuru Depot,TRK-023,D. Said,577,141.06,81391.62,249,2025-08-08,2025-08-07,On Time,10898.34
+SHP-00434,2025-06-19,UrbanWorks Contractors,Protective Coatings,Eldoret Depot,TRK-025,L. Wekesa,1345,348.11,468207.95,214,2025-06-20,2025-06-22,Late,10745.78
+SHP-00435,2025-07-11,Highland Agro Processors,Construction Additives,Eldoret Depot,TRK-029,B. Kiprono,1719,530.01,911087.19,240,2025-07-12,2025-07-12,On Time,11640.44
+SHP-00436,2025-12-10,CoastBuild Ltd,Construction Additives,Mombasa Depot,TRK-009,M. Otieno,113,325.65,36798.45,525,2025-12-12,2025-12-11,On Time,27619.63
+SHP-00437,2025-06-25,UrbanWorks Contractors,Maintenance Parts,Nairobi Depot,TRK-022,L. Wekesa,1024,730.56,748093.44,528,2025-06-27,2025-06-27,On Time,22248.25
+SHP-00438,2025-10-18,Highland Agro Processors,Construction Additives,Nakuru Depot,TRK-017,E. Achieng,1541,582.1,897016.1,210,2025-10-19,2025-10-18,On Time,8540.73
+SHP-00439,2025-03-23,CoastBuild Ltd,Maintenance Parts,Nakuru Depot,TRK-008,J. Mutua,428,150.93,64598.04,602,2025-03-25,2025-03-26,Late,36470.24
+SHP-00440,2025-05-30,Rift Valley Manufacturing,Construction Additives,Nakuru Depot,TRK-003,E. Achieng,932,495.67,461964.44,520,2025-06-01,2025-06-01,On Time,29672.12
+SHP-00441,2025-04-08,Lake Region Water Services,Construction Additives,Nakuru Depot,TRK-012,L. Wekesa,1876,736.22,1381148.72,584,2025-04-10,2025-04-12,Late,29944.71
+SHP-00442,2025-07-29,Eastern Industrial Supplies,Industrial Cleaning Supplies,Nairobi Depot,TRK-016,L. Wekesa,1683,677.59,1140383.97,65,2025-07-30,2025-07-30,On Time,3421.86
+SHP-00443,2025-02-02,Metro Packaging Ltd,Maintenance Parts,Nairobi Depot,TRK-028,J. Mutua,736,553.36,407272.96,442,2025-02-04,2025-02-04,On Time,21541.07
+SHP-00444,2025-07-20,Metro Packaging Ltd,Industrial Cleaning Supplies,Nairobi Depot,TRK-027,L. Wekesa,868,189.53,164512.04,255,2025-07-21,2025-07-21,On Time,15636.22
+SHP-00445,2025-09-13,Highland Agro Processors,Industrial Cleaning Supplies,Mombasa Depot,TRK-004,M. Otieno,641,663.23,425130.43,690,2025-09-15,2025-09-17,Late,37316.73
+SHP-00446,2025-01-08,BlueWave Facilities,Protective Coatings,Mombasa Depot,TRK-025,E. Achieng,2269,526.77,1195241.13,470,2025-01-10,2025-01-12,Late,22719.81
+SHP-00447,2025-07-05,CoastBuild Ltd,Construction Additives,Nakuru Depot,TRK-020,S. Chebet,1394,555.08,773781.52,692,2025-07-07,2025-07-09,Late,37565.97
+SHP-00448,2025-12-23,BlueWave Facilities,Protective Coatings,Nakuru Depot,TRK-016,A. Hassan,1803,806.26,1453686.78,708,2025-12-26,2025-12-25,On Time,36860.53
+SHP-00449,2025-06-06,Eastern Industrial Supplies,Construction Additives,Nairobi Depot,TRK-025,B. Kiprono,1807,453.02,818607.14,202,2025-06-07,2025-06-07,On Time,12028.36
+SHP-00450,2025-04-17,Lake Region Water Services,Water Treatment Chemicals,Eldoret Depot,TRK-016,E. Achieng,924,195.23,180392.52,565,2025-04-19,2025-04-18,On Time,28391.67
+SHP-00451,2025-03-25,CoastBuild Ltd,Protective Coatings,Nakuru Depot,TRK-013,A. Hassan,1368,193.08,264133.44,384,2025-03-27,2025-03-30,Late,17188.76
+SHP-00452,2025-09-14,BlueWave Facilities,Water Treatment Chemicals,Eldoret Depot,TRK-011,K. Barasa,659,858.29,565613.11,222,2025-09-15,2025-09-18,Late,8949.37
+SHP-00453,2025-10-04,CoastBuild Ltd,Maintenance Parts,Nairobi Depot,TRK-013,B. Kiprono,1976,647.91,1280270.16,456,2025-10-06,2025-10-06,On Time,25396.53
+SHP-00454,2025-12-30,Rift Valley Manufacturing,Packaging Materials,Nakuru Depot,TRK-020,J. Mutua,826,582.96,481524.96,150,2025-12-31,2025-12-30,On Time,5483.94
+SHP-00455,2025-12-07,Lake Region Water Services,Protective Coatings,Nakuru Depot,TRK-008,J. Mutua,363,265.29,96300.27,553,2025-12-09,2025-12-12,Late,31871.83
+SHP-00456,2025-11-13,BlueWave Facilities,Protective Coatings,Nakuru Depot,TRK-012,A. Hassan,1851,379.63,702695.13,642,2025-11-15,2025-11-17,Late,38097.89
+SHP-00457,2025-07-08,BlueWave Facilities,Construction Additives,Nairobi Depot,TRK-014,S. Chebet,1517,496.93,753842.81,17,2025-07-09,2025-07-12,Late,619.72
+SHP-00458,2025-04-03,Highland Agro Processors,Construction Additives,Nakuru Depot,TRK-015,A. Hassan,53,496.69,26324.57,394,2025-04-05,2025-04-04,On Time,21429.68
+SHP-00459,2025-10-01,Lake Region Water Services,Protective Coatings,Nairobi Depot,TRK-027,M. Otieno,646,872.26,563479.96,373,2025-10-03,2025-10-02,On Time,18628.02
+SHP-00460,2025-07-06,Eastern Industrial Supplies,Industrial Cleaning Supplies,Eldoret Depot,TRK-028,P. Maina,2468,882.71,2178528.28,584,2025-07-08,2025-07-07,On Time,28673.68
+SHP-00461,2025-04-10,Metro Packaging Ltd,Industrial Cleaning Supplies,Nairobi Depot,TRK-016,K. Barasa,1519,259.66,394423.54,483,2025-04-12,2025-04-11,On Time,19890.53
+SHP-00462,2025-04-08,Lake Region Water Services,Construction Additives,Eldoret Depot,TRK-005,E. Achieng,564,150.92,85118.88,389,2025-04-10,2025-04-09,On Time,21371.8
+SHP-00463,2025-04-06,Highland Agro Processors,Construction Additives,Nakuru Depot,TRK-009,E. Achieng,2224,837.23,1861999.52,94,2025-04-07,2025-04-06,On Time,3878.88
+SHP-00464,2025-02-06,CoastBuild Ltd,Construction Additives,Mombasa Depot,TRK-023,A. Hassan,2407,867.81,2088818.67,123,2025-02-07,2025-02-08,Late,5273.7
+SHP-00465,2025-12-24,CoastBuild Ltd,Industrial Cleaning Supplies,Nakuru Depot,TRK-016,M. Otieno,2451,234.14,573877.14,390,2025-12-26,2025-12-26,On Time,17681.15
+SHP-00466,2025-04-26,BlueWave Facilities,Maintenance Parts,Nakuru Depot,TRK-009,S. Chebet,2149,165.01,354606.49,680,2025-04-28,2025-04-28,On Time,24026.49
+SHP-00467,2025-01-26,Highland Agro Processors,Protective Coatings,Nakuru Depot,TRK-012,K. Barasa,719,97.86,70361.34,285,2025-01-27,2025-01-29,Late,17265.12
+SHP-00468,2025-05-08,UrbanWorks Contractors,Water Treatment Chemicals,Nakuru Depot,TRK-028,B. Kiprono,1096,650.17,712586.32,80,2025-05-09,2025-05-09,On Time,3944.43
+SHP-00469,2025-04-02,Metro Packaging Ltd,Protective Coatings,Nairobi Depot,TRK-025,J. Mutua,2002,439.85,880579.7,589,2025-04-04,2025-04-03,On Time,35816.5
+SHP-00470,2025-10-05,Highland Agro Processors,Packaging Materials,Eldoret Depot,TRK-025,D. Said,2032,762.25,1548892.0,292,2025-10-06,2025-10-08,Late,16186.22
+SHP-00471,2025-03-03,Rift Valley Manufacturing,Construction Additives,Nakuru Depot,TRK-015,A. Hassan,1877,277.19,520285.63,97,2025-03-04,2025-03-04,On Time,4897.73
+SHP-00472,2025-07-15,Lake Region Water Services,Maintenance Parts,Nakuru Depot,TRK-014,B. Kiprono,2101,702.52,1475994.52,657,2025-07-17,2025-07-17,On Time,28945.3
+SHP-00473,2025-01-29,UrbanWorks Contractors,Water Treatment Chemicals,Mombasa Depot,TRK-006,S. Chebet,625,53.76,33600.0,604,2025-01-31,2025-02-01,Late,22156.02
+SHP-00474,2025-10-19,Metro Packaging Ltd,Packaging Materials,Nakuru Depot,TRK-021,,713,83.28,59378.64,687,2025-10-21,2025-10-21,On Time,26777.91
+SHP-00475,2025-12-06,Eastern Industrial Supplies,Protective Coatings,Eldoret Depot,TRK-009,D. Said,2397,544.66,1305550.02,510,2025-12-08,2025-12-11,Late,30193.15
+SHP-00476,2025-08-02,Highland Agro Processors,Maintenance Parts,Eldoret Depot,TRK-014,A. Hassan,988,634.97,627350.36,639,2025-08-04,2025-08-04,On Time,22482.0
+SHP-00477,2025-04-17,Lake Region Water Services,Water Treatment Chemicals,Nairobi Depot,TRK-024,L. Wekesa,2391,787.52,1882960.32,168,2025-04-18,2025-04-18,On Time,7961.32
+SHP-00478,2025-11-05,Eastern Industrial Supplies,Maintenance Parts,Mombasa Depot,TRK-007,A. Hassan,2136,305.43,652398.48,702,2025-11-08,2025-11-08,On Time,32575.23
+SHP-00479,2025-01-10,UrbanWorks Contractors,Water Treatment Chemicals,Mombasa Depot,TRK-003,D. Said,808,623.64,503901.12,414,2025-01-12,2025-01-14,Late,16236.28
+SHP-00480,2025-08-08,CoastBuild Ltd,Water Treatment Chemicals,Eldoret Depot,TRK-017,M. Otieno,1084,654.51,709488.84,190,2025-08-09,2025-08-12,Late,10363.98
+SHP-00481,2025-02-23,Rift Valley Manufacturing,Packaging Materials,Nairobi Depot,TRK-003,P. Maina,881,698.05,614982.05,263,2025-02-24,2025-02-25,Late,14422.13
+SHP-00482,2025-01-11,Eastern Industrial Supplies,Industrial Cleaning Supplies,Nairobi Depot,TRK-024,J. Mutua,2499,539.66,1348610.34,656,2025-01-13,2025-01-16,Late,39866.54
+SHP-00483,2025-06-14,BlueWave Facilities,Maintenance Parts,Nairobi Depot,TRK-005,E. Achieng,523,186.47,97523.81,714,2025-06-17,2025-06-18,Late,40374.67
+SHP-00484,2025-01-08,Lake Region Water Services,Water Treatment Chemicals,Mombasa Depot,TRK-022,S. Chebet,2333,401.89,937609.37,255,2025-01-09,2025-01-10,Late,9075.13
+SHP-00485,2025-03-07,Highland Agro Processors,Construction Additives,Eldoret Depot,TRK-028,E. Achieng,1284,511.26,656457.84,130,2025-03-08,2025-03-08,On Time,4570.12
+SHP-00486,2025-05-12,Eastern Industrial Supplies,Protective Coatings,Eldoret Depot,TRK-005,E. Achieng,333,876.97,292031.01,706,2025-05-15,2025-05-15,On Time,33028.97
+SHP-00487,2025-05-21,Lake Region Water Services,Protective Coatings,Eldoret Depot,TRK-021,B. Kiprono,1741,350.09,609506.69,175,2025-05-22,2025-05-22,On Time,7660.29
+SHP-00488,2025-04-21,UrbanWorks Contractors,Protective Coatings,Nakuru Depot,TRK-030,S. Chebet,449,608.31,273131.19,261,2025-04-22,2025-04-23,Late,12607.11
+SHP-00489,2025-05-23,BlueWave Facilities,Protective Coatings,Nairobi Depot,TRK-026,M. Otieno,2000,862.37,1724740.0,448,2025-05-25,2025-05-27,Late,24057.13
+SHP-00490,2025-02-02,BlueWave Facilities,Packaging Materials,Nakuru Depot,TRK-014,J. Mutua,967,339.04,327851.68,634,2025-02-04,2025-02-05,Late,29077.06
+SHP-00491,2025-08-12,Lake Region Water Services,Packaging Materials,Mombasa Depot,TRK-001,E. Achieng,1382,79.65,110076.3,647,2025-08-14,2025-08-15,Late,36394.41
+SHP-00492,2025-12-10,Lake Region Water Services,Packaging Materials,Nakuru Depot,TRK-016,E. Achieng,1664,559.23,930558.72,396,2025-12-12,2025-12-14,Late,21511.1
+SHP-00493,2025-12-05,CoastBuild Ltd,Maintenance Parts,Eldoret Depot,TRK-025,D. Said,724,212.28,153690.72,192,2025-12-06,2025-12-07,Late,7423.09
+SHP-00494,2025-07-06,Eastern Industrial Supplies,Water Treatment Chemicals,Eldoret Depot,TRK-026,J. Mutua,1665,134.84,224508.6,532,2025-07-08,2025-07-08,On Time,32821.14
+SHP-00495,2025-12-17,Metro Packaging Ltd,Water Treatment Chemicals,Nakuru Depot,TRK-007,P. Maina,792,234.86,186009.12,557,2025-12-19,2025-12-20,Late,31254.67
+SHP-00496,2025-12-15,UrbanWorks Contractors,Construction Additives,Nairobi Depot,TRK-006,P. Maina,943,580.21,547138.03,595,2025-12-17,2025-12-18,Late,25482.11
+SHP-00497,2025-06-18,UrbanWorks Contractors,Industrial Cleaning Supplies,Nakuru Depot,TRK-003,P. Maina,1774,746.16,1323687.84,36,2025-06-19,2025-06-23,Late,1451.44
+SHP-00498,2025-11-06,Metro Packaging Ltd,Protective Coatings,Nakuru Depot,TRK-010,E. Achieng,1978,558.81,1105326.18,449,2025-11-08,2025-11-11,Late,23120.61
+SHP-00499,2025-09-02,Eastern Industrial Supplies,Construction Additives,Nairobi Depot,TRK-028,M. Otieno,1367,86.78,118628.26,237,2025-09-03,2025-09-05,Late,8621.05
+SHP-00500,2025-10-03,Lake Region Water Services,Industrial Cleaning Supplies,Nakuru Depot,TRK-004,D. Said,2216,751.8,1665988.8,671,2025-10-05,2025-10-06,Late,24473.99
+SHP-00501,2025-12-20,BlueWave Facilities,Packaging Materials,Eldoret Depot,TRK-007,S. Chebet,835,582.72,486571.2,271,2025-12-21,2025-12-24,Late,16204.65
+SHP-00502,2025-05-06,CoastBuild Ltd,Industrial Cleaning Supplies,Mombasa Depot,TRK-018,K. Barasa,101,249.71,25220.71,611,2025-05-08,2025-05-08,On Time,32219.48
+SHP-00503,2025-07-15,Lake Region Water Services,Water Treatment Chemicals,Nakuru Depot,TRK-009,A. Hassan,1550,677.51,1050140.5,127,2025-07-16,2025-07-16,On Time,4900.12
+SHP-00504,2025-02-23,BlueWave Facilities,Maintenance Parts,Mombasa Depot,TRK-008,M. Otieno,2335,826.08,1928896.8,260,2025-02-24,2025-02-25,Late,10414.36
+SHP-00505,2025-03-10,Lake Region Water Services,Water Treatment Chemicals,Eldoret Depot,TRK-007,S. Chebet,952,273.36,260238.72,106,2025-03-11,2025-03-13,Late,6525.91
+SHP-00506,2025-08-23,UrbanWorks Contractors,Packaging Materials,Eldoret Depot,TRK-012,D. Said,1733,112.74,195378.42,451,2025-08-25,2025-08-25,On Time,23818.08
+SHP-00507,2025-02-11,CoastBuild Ltd,Packaging Materials,Mombasa Depot,TRK-027,A. Hassan,2204,452.94,998279.76,255,2025-02-12,2025-02-11,On Time,14343.98
+SHP-00508,2025-10-09,CoastBuild Ltd,Packaging Materials,Eldoret Depot,TRK-003,E. Achieng,359,382.36,137267.24,177,2025-10-10,2025-10-10,On Time,9148.47
+SHP-00509,2025-04-28,BlueWave Facilities,Industrial Cleaning Supplies,Nairobi Depot,TRK-029,J. Mutua,813,192.5,156502.5,602,2025-04-30,2025-04-30,On Time,26385.38
+SHP-00510,2025-03-16,UrbanWorks Contractors,Water Treatment Chemicals,Mombasa Depot,TRK-025,L. Wekesa,166,76.51,12700.66,356,2025-03-18,2025-03-20,Late,15817.18
+SHP-00511,2025-03-02,UrbanWorks Contractors,Construction Additives,Nairobi Depot,TRK-024,K. Barasa,2422,411.59,996870.98,114,2025-03-03,2025-03-03,On Time,6716.0
+SHP-00512,2025-06-07,Metro Packaging Ltd,Construction Additives,Mombasa Depot,TRK-017,L. Wekesa,935,607.56,568068.6,411,2025-06-09,2025-06-11,Late,19803.13
+SHP-00513,2025-01-12,BlueWave Facilities,Construction Additives,Nakuru Depot,TRK-030,S. Chebet,373,816.14,304420.22,105,2025-01-13,2025-01-17,Late,3829.34
+SHP-00514,2025-05-12,Lake Region Water Services,Maintenance Parts,Mombasa Depot,TRK-024,E. Achieng,819,503.99,412767.81,27,2025-05-13,2025-05-13,On Time,1039.83
+SHP-00515,2025-01-30,Rift Valley Manufacturing,Packaging Materials,Eldoret Depot,TRK-021,J. Mutua,140,179.79,25170.6,419,2025-02-01,2025-02-01,On Time,19012.86
+SHP-00516,2025-10-29,Metro Packaging Ltd,Packaging Materials,Mombasa Depot,TRK-028,L. Wekesa,1786,165.78,296083.08,26,2025-10-30,2025-10-30,On Time,1450.6
+SHP-00517,2025-09-18,Rift Valley Manufacturing,Industrial Cleaning Supplies,Eldoret Depot,TRK-011,K. Barasa,2248,748.98,1683707.04,311,2025-09-19,2025-09-19,On Time,17464.31
+SHP-00518,2025-06-10,Lake Region Water Services,Packaging Materials,Mombasa Depot,TRK-013,L. Wekesa,2289,836.26,1914199.14,365,2025-06-12,2025-06-13,Late,20883.61
+SHP-00519,2025-04-19,CoastBuild Ltd,Water Treatment Chemicals,Eldoret Depot,TRK-023,,1394,169.74,236617.56,59,2025-04-20,2025-04-20,On Time,2623.38
+SHP-00520,2025-07-18,Lake Region Water Services,Packaging Materials,Mombasa Depot,TRK-008,A. Hassan,923,368.99,340577.77,459,2025-07-20,2025-07-19,On Time,25851.15
+SHP-00521,2025-06-02,BlueWave Facilities,Water Treatment Chemicals,Nakuru Depot,TRK-030,K. Barasa,1396,154.9,216240.4,352,2025-06-04,2025-06-04,On Time,12455.08
+SHP-00522,2025-02-18,CoastBuild Ltd,Packaging Materials,Nairobi Depot,TRK-023,E. Achieng,579,676.26,391554.54,640,2025-02-20,2025-02-20,On Time,27919.47
+SHP-00523,2025-08-09,Rift Valley Manufacturing,Industrial Cleaning Supplies,Eldoret Depot,TRK-008,S. Chebet,2500,702.79,1756975.0,674,2025-08-11,2025-08-11,On Time,32968.6
+SHP-00524,2025-03-22,Highland Agro Processors,Construction Additives,Nairobi Depot,TRK-001,P. Maina,1378,56.7,78132.6,29,2025-03-23,2025-03-24,Late,1180.58
+SHP-00525,2025-10-23,Highland Agro Processors,Maintenance Parts,Nairobi Depot,TRK-009,K. Barasa,1924,675.36,1299392.64,527,2025-10-25,2025-10-27,Late,30334.3
+SHP-00526,2025-06-12,BlueWave Facilities,Maintenance Parts,Eldoret Depot,TRK-018,J. Mutua,555,795.38,441435.9,513,2025-06-14,2025-06-13,On Time,20694.79
+SHP-00527,2025-02-16,BlueWave Facilities,Industrial Cleaning Supplies,Nairobi Depot,TRK-018,S. Chebet,743,469.43,348786.49,123,2025-02-17,2025-02-21,Late,4841.41
+SHP-00528,2025-04-23,Highland Agro Processors,Maintenance Parts,Eldoret Depot,TRK-009,B. Kiprono,1519,839.24,1274805.56,672,2025-04-25,2025-04-27,Late,25955.03
+SHP-00529,2025-11-18,Lake Region Water Services,Water Treatment Chemicals,Nairobi Depot,TRK-015,J. Mutua,73,416.2,30382.6,717,2025-11-21,2025-11-21,On Time,42834.56
+SHP-00530,2025-05-22,Eastern Industrial Supplies,Protective Coatings,Nakuru Depot,TRK-015,K. Barasa,2207,745.2,1644656.4,616,2025-05-24,2025-05-23,On Time,
+SHP-00531,2025-10-04,UrbanWorks Contractors,Maintenance Parts,Nairobi Depot,TRK-029,K. Barasa,1624,360.86,586036.64,435,2025-10-06,2025-10-06,On Time,18914.89
+SHP-00532,2025-04-08,Highland Agro Processors,Protective Coatings,Nairobi Depot,TRK-011,M. Otieno,1075,560.72,602774.0,532,2025-04-10,2025-04-12,Late,30211.76
+SHP-00533,2025-11-07,UrbanWorks Contractors,Industrial Cleaning Supplies,Eldoret Depot,TRK-025,E. Achieng,328,603.42,197921.76,398,2025-11-09,2025-11-08,On Time,23668.19
+SHP-00534,2025-07-29,Lake Region Water Services,Protective Coatings,Nakuru Depot,TRK-011,P. Maina,2385,47.98,114432.3,495,2025-07-31,2025-08-03,Late,25318.34
+SHP-00535,2025-05-04,Highland Agro Processors,Water Treatment Chemicals,Mombasa Depot,TRK-017,M. Otieno,484,740.95,358619.8,271,2025-05-05,2025-05-05,On Time,13299.94
+SHP-00536,2025-01-15,CoastBuild Ltd,Industrial Cleaning Supplies,Nairobi Depot,TRK-028,K. Barasa,1226,279.77,342998.02,265,2025-01-16,2025-01-17,Late,15831.74
+SHP-00537,2025-01-09,Metro Packaging Ltd,Water Treatment Chemicals,Eldoret Depot,TRK-007,M. Otieno,1398,702.34,981871.32,281,2025-01-10,2025-01-10,On Time,9983.33
+SHP-00538,2025-06-21,CoastBuild Ltd,Protective Coatings,Eldoret Depot,TRK-022,,443,63.51,28134.93,146,2025-06-22,2025-06-25,Late,5536.24
+SHP-00539,2025-01-06,Eastern Industrial Supplies,Water Treatment Chemicals,Nakuru Depot,TRK-008,B. Kiprono,2253,680.93,1534135.29,668,2025-01-08,2025-01-10,Late,23813.77
+SHP-00540,2025-01-28,Rift Valley Manufacturing,Water Treatment Chemicals,Nairobi Depot,TRK-021,D. Said,1279,671.2,858464.8,418,2025-01-30,2025-01-31,Late,22931.59
+SHP-00541,2025-05-13,Rift Valley Manufacturing,Construction Additives,Mombasa Depot,TRK-012,E. Achieng,2413,770.28,1858685.64,543,2025-05-15,2025-05-16,Late,26997.86
+SHP-00542,2025-04-23,UrbanWorks Contractors,Packaging Materials,Mombasa Depot,TRK-027,B. Kiprono,195,642.04,125197.8,351,2025-04-25,2025-04-28,Late,18657.68
+SHP-00543,2025-11-29,Eastern Industrial Supplies,Protective Coatings,Mombasa Depot,TRK-024,M. Otieno,938,61.84,58005.92,638,2025-12-01,2025-12-01,On Time,25204.52
+SHP-00544,2025-04-17,Eastern Industrial Supplies,Water Treatment Chemicals,Nairobi Depot,TRK-017,M. Otieno,514,241.83,124300.62,418,2025-04-19,2025-04-19,On Time,16575.3
+SHP-00545,2025-09-13,Rift Valley Manufacturing,Maintenance Parts,Nairobi Depot,TRK-018,P. Maina,321,119.5,38359.5,167,2025-09-14,2025-09-14,On Time,10180.55
+SHP-00546,2025-08-13,Metro Packaging Ltd,Industrial Cleaning Supplies,Nairobi Depot,TRK-019,A. Hassan,1293,748.36,967629.48,90,2025-08-14,2025-08-18,Late,4082.03
+SHP-00547,2025-03-19,UrbanWorks Contractors,Maintenance Parts,Mombasa Depot,TRK-025,B. Kiprono,1639,879.59,1441648.01,351,2025-03-21,2025-03-22,Late,12802.8
+SHP-00548,2025-04-14,Highland Agro Processors,Maintenance Parts,Eldoret Depot,TRK-023,P. Maina,325,51.13,16617.25,238,2025-04-15,2025-04-15,On Time,9751.18
+SHP-00549,2025-08-20,Rift Valley Manufacturing,Industrial Cleaning Supplies,Nairobi Depot,TRK-018,P. Maina,1724,831.2,1432988.8,31,2025-08-21,2025-08-24,Late,1832.76
+SHP-00550,2025-11-18,Highland Agro Processors,MAINTENANCE PARTS,Nairobi Depot,TRK-018,B. Kiprono,2290,295.65,677038.5,102,2025-11-19,2025-11-19,On Time,6004.17
+SHP-00551,2025-12-09,BlueWave Facilities,Packaging Materials,Nakuru Depot,TRK-018,S. Chebet,139,586.97,81588.83,108,2025-12-10,2025-12-12,Late,6549.98
+SHP-00552,2025-08-10,Highland Agro Processors,Construction Additives,Eldoret Depot,TRK-027,S. Chebet,235,352.18,82762.3,24,2025-08-11,2025-08-15,Late,858.18
+SHP-00553,2025-09-18,Metro Packaging Ltd,Protective Coatings,Nairobi Depot,TRK-013,E. Achieng,94,358.76,33723.44,114,2025-09-19,2025-09-19,On Time,6423.62
+SHP-00554,2025-05-30,Eastern Industrial Supplies,Packaging Materials,Eldoret Depot,TRK-015,P. Maina,1408,367.67,517679.36,33,2025-05-31,2025-06-01,Late,1546.49
+SHP-00555,2025-01-15,CoastBuild Ltd,Maintenance Parts,Mombasa Depot,TRK-010,B. Kiprono,959,819.4,785804.6,665,2025-01-17,2025-01-18,Late,39218.26
+SHP-00556,2025-08-31,CoastBuild Ltd,Protective Coatings,Nairobi Depot,TRK-029,J. Mutua,783,646.67,506342.61,377,2025-09-02,2025-09-06,Late,23216.48
+SHP-00557,2025-01-13,CoastBuild Ltd,Packaging Materials,Nairobi Depot,TRK-007,S. Chebet,1306,535.65,699558.9,320,2025-01-14,2025-01-17,Late,11763.19
+SHP-00558,2025-05-25,CoastBuild Ltd,Maintenance Parts,Nakuru Depot,TRK-030,E. Achieng,840,811.56,681710.4,316,2025-05-26,2025-05-28,Late,14603.03
+SHP-00559,2025-04-11,Lake Region Water Services,Water Treatment Chemicals,Mombasa Depot,TRK-015,S. Chebet,1038,736.64,764632.32,254,2025-04-12,2025-04-14,Late,14681.96
+SHP-00560,2025-07-20,Lake Region Water Services,Industrial Cleaning Supplies,Nakuru Depot,TRK-012,B. Kiprono,834,679.32,566552.88,335,2025-07-21,2025-07-21,On Time,12224.52
+SHP-00561,2025-03-03,Metro Packaging Ltd,Industrial Cleaning Supplies,Nakuru Depot,TRK-026,J. Mutua,2372,816.12,1935836.64,688,2025-03-05,2025-03-06,Late,37119.66
+SHP-00562,2025-12-09,Rift Valley Manufacturing,Protective Coatings,Eldoret Depot,TRK-019,L. Wekesa,2223,538.31,1196663.13,269,2025-12-10,2025-12-10,On Time,16309.27
+SHP-00563,2025-07-21,Rift Valley Manufacturing,Maintenance Parts,Nakuru Depot,TRK-026,D. Said,1453,363.86,528688.58,77,2025-07-22,2025-07-22,On Time,4160.23
+SHP-00564,2025-09-26,Lake Region Water Services,Construction Additives,Mombasa Depot,TRK-020,J. Mutua,1751,262.07,458884.57,345,2025-09-27,2025-09-27,On Time,18597.89
+SHP-00565,2025-09-10,CoastBuild Ltd,Maintenance Parts,Eldoret Depot,TRK-003,K. Barasa,2059,235.19,484256.21,311,2025-09-11,2025-09-11,On Time,17281.51
+SHP-00566,2025-03-15,Highland Agro Processors,Packaging Materials,Eldoret Depot,TRK-014,M. Otieno,1994,708.83,1413407.02,134,2025-03-16,2025-03-16,On Time,8277.2
+SHP-00567,2025-11-27,Metro Packaging Ltd,Maintenance Parts,Mombasa Depot,TRK-021,P. Maina,1653,844.6,1396123.8,349,2025-11-28,2025-12-01,Late,15681.32
+SHP-00568,2025-06-04,CoastBuild Ltd,Packaging Materials,Mombasa Depot,TRK-011,,1600,482.51,772016.0,389,2025-06-06,2025-06-10,Late,17832.7
+SHP-00569,2025-05-08,Lake Region Water Services,Packaging Materials,Nairobi Depot,TRK-005,K. Barasa,1197,496.95,594849.15,205,2025-05-09,2025-05-13,Late,12560.03
+SHP-00570,2025-05-20,UrbanWorks Contractors,Construction Additives,Mombasa Depot,TRK-008,P. Maina,2493,617.68,1539876.24,412,2025-05-22,2025-05-21,On Time,23701.91
+SHP-00571,2025-09-29,Eastern Industrial Supplies,Construction Additives,Nairobi Depot,TRK-005,S. Chebet,1268,620.6,786920.8,482,2025-10-01,2025-09-30,On Time,22385.2
+SHP-00572,2025-07-06,Rift Valley Manufacturing,Construction Additives,Mombasa Depot,TRK-018,P. Maina,1050,237.2,249060.0,292,2025-07-07,2025-07-07,On Time,16765.71
+SHP-00573,2025-03-19,Eastern Industrial Supplies,Water Treatment Chemicals,Eldoret Depot,TRK-017,P. Maina,323,538.89,174061.47,691,2025-03-21,2025-03-22,Late,36168.35
+SHP-00574,2025-01-12,Lake Region Water Services,Industrial Cleaning Supplies,Eldoret Depot,TRK-018,L. Wekesa,1097,480.6,527218.2,152,2025-01-13,2025-01-13,On Time,8053.8
+SHP-00575,2025-01-03,BlueWave Facilities,Construction Additives,Nairobi Depot,TRK-018,B. Kiprono,1115,711.34,793144.1,528,2025-01-05,2025-01-05,On Time,19125.59
+SHP-00576,2025-01-10,Metro Packaging Ltd,Industrial Cleaning Supplies,Mombasa Depot,TRK-009,P. Maina,1373,755.4,1037164.2,545,2025-01-12,2025-01-12,On Time,31781.17
+SHP-00577,2025-04-04,Highland Agro Processors,Maintenance Parts,Mombasa Depot,TRK-004,P. Maina,189,386.34,73018.26,577,2025-04-06,2025-04-05,On Time,24338.23
+SHP-00578,2025-12-03,UrbanWorks Contractors,Packaging Materials,Nakuru Depot,TRK-007,S. Chebet,1520,174.99,265984.8,567,2025-12-05,2025-12-05,On Time,23533.33
+SHP-00579,2025-01-26,Highland Agro Processors,Protective Coatings,Mombasa Depot,TRK-025,J. Mutua,2067,384.16,794058.72,404,2025-01-28,2025-01-27,On Time,18945.04
+SHP-00580,2025-07-18,Lake Region Water Services,Packaging Materials,Eldoret Depot,TRK-020,A. Hassan,1294,436.46,564779.24,430,2025-07-20,2025-07-23,Late,21816.1
+SHP-00581,2025-01-02,BlueWave Facilities,Water Treatment Chemicals,Nairobi Depot,TRK-007,S. Chebet,1377,596.15,820898.55,18,2025-01-03,2025-01-06,Late,759.87
+SHP-00582,2025-03-13,Lake Region Water Services,Maintenance Parts,Mombasa Depot,TRK-004,K. Barasa,2262,770.67,1743255.54,665,2025-03-15,2025-03-14,On Time,23777.5
+SHP-00583,2025-04-16,Metro Packaging Ltd,Protective Coatings,Nairobi Depot,TRK-028,J. Mutua,902,528.45,476661.9,606,2025-04-18,2025-04-18,On Time,25811.21
+SHP-00584,2025-06-24,CoastBuild Ltd,Packaging Materials,Mombasa Depot,TRK-010,D. Said,1605,48.3,77521.5,605,2025-06-26,2025-06-30,Late,32469.31
+SHP-00585,2025-06-10,BlueWave Facilities,Water Treatment Chemicals,Nakuru Depot,TRK-007,E. Achieng,177,124.2,21983.4,571,2025-06-12,2025-06-14,Late,26577.4
+SHP-00586,2025-06-13,Metro Packaging Ltd,Industrial Cleaning Supplies,Nakuru Depot,TRK-018,D. Said,541,791.96,428450.36,482,2025-06-15,2025-06-18,Late,20704.65
+SHP-00587,2025-06-01,Lake Region Water Services,Maintenance Parts,Mombasa Depot,TRK-013,B. Kiprono,1287,235.66,303294.42,195,2025-06-02,2025-06-04,Late,11282.42
+SHP-00588,2025-09-06,CoastBuild Ltd,Packaging Materials,Nairobi Depot,TRK-002,J. Mutua,1375,249.38,342897.5,270,2025-09-07,2025-09-07,On Time,12456.61
+SHP-00589,2025-11-11,Metro Packaging Ltd,Maintenance Parts,Nakuru Depot,TRK-002,D. Said,1605,673.71,1081304.55,54,2025-11-12,2025-11-12,On Time,
+SHP-00590,2025-12-20,CoastBuild Ltd,Water Treatment Chemicals,Eldoret Depot,TRK-022,J. Mutua,528,732.57,386796.96,636,2025-12-22,2025-12-22,On Time,34041.56
+SHP-00591,2025-07-10,Highland Agro Processors,Water Treatment Chemicals,Mombasa Depot,TRK-010,P. Maina,1964,335.21,658352.44,222,2025-07-11,2025-07-11,On Time,11299.19
+SHP-00592,2025-09-09,Metro Packaging Ltd,Construction Additives,Mombasa Depot,TRK-029,S. Chebet,1769,259.33,458754.77,584,2025-09-11,2025-09-12,Late,30836.28
+SHP-00593,2025-05-14,BlueWave Facilities,Protective Coatings,Mombasa Depot,TRK-006,L. Wekesa,2434,434.62,1057865.08,514,2025-05-16,2025-05-16,On Time,21502.02
+SHP-00594,2025-07-27,BlueWave Facilities,Protective Coatings,Mombasa Depot,TRK-002,L. Wekesa,2471,221.86,548216.06,664,2025-07-29,2025-08-01,Late,26569.74
+SHP-00595,2025-02-27,Eastern Industrial Supplies,Packaging Materials,Eldoret Depot,TRK-013,A. Hassan,2420,631.52,1528278.4,269,2025-02-28,2025-03-01,Late,11866.6
+SHP-00596,2025-04-04,CoastBuild Ltd,Packaging Materials,Nakuru Depot,TRK-012,J. Mutua,689,659.54,454423.06,252,2025-04-05,2025-04-09,Late,10649.1
+SHP-00597,2025-09-19,Metro Packaging Ltd,Protective Coatings,Nakuru Depot,TRK-026,K. Barasa,221,557.89,123293.69,491,2025-09-21,2025-09-22,Late,20981.27
+SHP-00598,2025-06-15,Eastern Industrial Supplies,CONSTRUCTION ADDITIVES,Mombasa Depot,TRK-018,J. Mutua,576,646.22,372222.72,195,2025-06-16,2025-06-17,Late,9370.35
+SHP-00599,2025-01-15,Metro Packaging Ltd,Industrial Cleaning Supplies,Nakuru Depot,TRK-029,P. Maina,690,722.22,498331.8,236,2025-01-16,2025-01-19,Late,12982.88
+SHP-00600,2025-10-02,Lake Region Water Services,Water Treatment Chemicals,Eldoret Depot,TRK-017,B. Kiprono,1552,78.28,121490.56,508,2025-10-04,2025-10-06,Late,24145.61
+SHP-00601,2025-04-24,Metro Packaging Ltd,Construction Additives,Nairobi Depot,TRK-019,A. Hassan,92,202.55,18634.6,609,2025-04-26,2025-04-25,On Time,22027.5
+SHP-00602,2025-12-31,UrbanWorks Contractors,Packaging Materials,Nakuru Depot,TRK-015,E. Achieng,690,116.39,80309.1,339,2026-01-01,2026-01-03,Late,18978.94
+SHP-00603,2025-01-14,Lake Region Water Services,Industrial Cleaning Supplies,Nairobi Depot,TRK-019,E. Achieng,2428,855.89,2078100.92,104,2025-01-15,2025-01-15,On Time,5629.41
+SHP-00604,2025-02-01,Metro Packaging Ltd,Industrial Cleaning Supplies,Nakuru Depot,TRK-023,E. Achieng,196,352.55,69099.8,573,2025-02-03,2025-02-05,Late,30251.89
+SHP-00605,2025-01-29,Lake Region Water Services,Construction Additives,Nairobi Depot,TRK-021,B. Kiprono,1362,823.71,1121893.02,313,2025-01-30,2025-01-30,On Time,16497.86
+SHP-00606,2025-06-19,Lake Region Water Services,Packaging Materials,Mombasa Depot,TRK-018,E. Achieng,1481,108.31,160407.11,555,2025-06-21,2025-06-21,On Time,28770.09
+SHP-00607,2025-10-18,Rift Valley Manufacturing,Industrial Cleaning Supplies,Nakuru Depot,TRK-027,A. Hassan,2366,611.6,1447045.6,367,2025-10-20,2025-10-21,Late,21058.36
+SHP-00608,2025-01-07,CoastBuild Ltd,Packaging Materials,Eldoret Depot,TRK-014,J. Mutua,1297,354.66,459994.02,680,2025-01-09,2025-01-09,On Time,39835.14
+SHP-00609,2025-12-03,BlueWave Facilities,Maintenance Parts,Nakuru Depot,TRK-005,L. Wekesa,2257,883.23,1993450.11,522,2025-12-05,2025-12-09,Late,24304.59
+SHP-00610,2025-07-28,Rift Valley Manufacturing,Industrial Cleaning Supplies,Nairobi Depot,TRK-001,B. Kiprono,1647,382.11,629335.17,617,2025-07-30,2025-08-02,Late,24823.04
+SHP-00611,2025-04-15,Eastern Industrial Supplies,Protective Coatings,Nairobi Depot,TRK-020,L. Wekesa,503,421.52,212024.56,169,2025-04-16,2025-04-16,On Time,8457.96
+SHP-00612,2025-10-13,Metro Packaging Ltd,Maintenance Parts,Mombasa Depot,TRK-012,M. Otieno,221,190.9,42188.9,196,2025-10-14,2025-10-14,On Time,8071.06
+SHP-00613,2025-01-16,BlueWave Facilities,Industrial Cleaning Supplies,Eldoret Depot,TRK-023,S. Chebet,576,577.54,332663.04,700,2025-01-19,2025-01-21,Late,34208.38
+SHP-00614,2025-07-05,Lake Region Water Services,Construction Additives,Eldoret Depot,TRK-016,A. Hassan,1513,259.53,392668.89,534,2025-07-07,2025-07-07,On Time,31728.57
+SHP-00615,2025-12-20,Lake Region Water Services,Industrial Cleaning Supplies,Nairobi Depot,TRK-002,P. Maina,1656,569.92,943787.52,214,2025-12-21,2025-12-24,Late,11406.7
+SHP-00616,2025-05-18,CoastBuild Ltd,Packaging Materials,Eldoret Depot,TRK-008,L. Wekesa,932,264.18,246215.76,310,2025-05-19,2025-05-19,On Time,13021.5
+SHP-00617,2025-04-13,Metro Packaging Ltd,Water Treatment Chemicals,Nairobi Depot,TRK-030,D. Said,1743,652.18,1136749.74,359,2025-04-15,2025-04-16,Late,20789.09
+SHP-00618,2025-10-25,BlueWave Facilities,Maintenance Parts,Nakuru Depot,TRK-028,D. Said,263,81.62,21466.06,286,2025-10-26,2025-10-27,Late,10118.95
+SHP-00619,2025-04-01,Metro Packaging Ltd,Construction Additives,Eldoret Depot,TRK-025,K. Barasa,1961,814.1,1596450.1,589,2025-04-03,2025-04-07,Late,27676.22
+SHP-00620,2025-09-08,UrbanWorks Contractors,Maintenance Parts,Nakuru Depot,TRK-013,B. Kiprono,1026,811.24,832332.24,334,2025-09-09,2025-09-12,Late,13511.54
+SHP-00621,2025-10-25,CoastBuild Ltd,Protective Coatings,Mombasa Depot,TRK-015,D. Said,2366,854.81,2022480.46,611,2025-10-27,2025-10-28,Late,36960.26
+SHP-00622,2025-04-08,CoastBuild Ltd,Industrial Cleaning Supplies,Eldoret Depot,TRK-024,K. Barasa,280,783.69,219433.2,384,2025-04-10,2025-04-10,On Time,18407.67
+SHP-00623,2025-03-14,UrbanWorks Contractors,Protective Coatings,Mombasa Depot,TRK-007,J. Mutua,619,859.02,531733.38,717,2025-03-17,2025-03-17,On Time,25597.9
+SHP-00624,2025-10-20,BlueWave Facilities,Construction Additives,Nakuru Depot,TRK-025,J. Mutua,1951,645.53,1259429.03,305,2025-10-21,2025-10-24,Late,15516.38
+SHP-00625,2025-04-24,BlueWave Facilities,Industrial Cleaning Supplies,Eldoret Depot,TRK-010,B. Kiprono,2417,660.35,1596065.95,75,2025-04-25,2025-04-24,On Time,3112.91
+SHP-00626,2025-07-07,CoastBuild Ltd,Maintenance Parts,Nairobi Depot,TRK-015,D. Said,1922,651.94,1253028.68,224,2025-07-08,2025-07-08,On Time,9434.42
+SHP-00627,2025-04-12,Rift Valley Manufacturing,Maintenance Parts,Mombasa Depot,TRK-006,B. Kiprono,2372,398.27,944696.44,324,2025-04-13,2025-04-13,On Time,17721.92
+SHP-00628,2025-05-02,Lake Region Water Services,Construction Additives,Eldoret Depot,TRK-011,D. Said,2408,550.94,1326663.52,26,2025-05-03,2025-05-04,Late,1134.17
+SHP-00629,2025-06-16,CoastBuild Ltd,Industrial Cleaning Supplies,Eldoret Depot,TRK-019,L. Wekesa,52,785.51,40846.52,562,2025-06-18,2025-06-17,On Time,32372.31
+SHP-00630,2025-07-27,BlueWave Facilities,Water Treatment Chemicals,Nakuru Depot,TRK-011,A. Hassan,467,396.08,184969.36,434,2025-07-29,2025-08-02,Late,17642.75
+SHP-00631,2025-09-06,Rift Valley Manufacturing,Water Treatment Chemicals,Mombasa Depot,TRK-023,D. Said,1803,881.19,1588785.57,224,2025-09-07,2025-09-07,On Time,12384.09
+SHP-00632,2025-12-14,Highland Agro Processors,Water Treatment Chemicals,Eldoret Depot,TRK-024,E. Achieng,2277,646.11,1471192.47,556,2025-12-16,2025-12-17,Late,24033.07
+SHP-00633,2025-11-22,Lake Region Water Services,Construction Additives,Eldoret Depot,TRK-002,A. Hassan,1789,799.07,1429536.23,84,2025-11-23,2025-11-24,Late,4654.47
+SHP-00634,2025-06-10,Highland Agro Processors,Protective Coatings,Nairobi Depot,TRK-006,A. Hassan,2352,178.89,420749.28,40,2025-06-11,2025-06-11,On Time,2458.86
+SHP-00635,2025-01-11,Lake Region Water Services,Maintenance Parts,Mombasa Depot,TRK-014,J. Mutua,1089,501.24,545850.36,701,2025-01-14,2025-01-18,Late,33784.38
+SHP-00636,2025-10-02,Eastern Industrial Supplies,Maintenance Parts,Eldoret Depot,TRK-010,A. Hassan,71,252.36,17917.56,380,2025-10-04,2025-10-04,On Time,19612.61
+SHP-00637,2025-04-24,Rift Valley Manufacturing,Industrial Cleaning Supplies,Nairobi Depot,TRK-001,B. Kiprono,238,538.71,128212.98,560,2025-04-26,2025-04-30,Late,22215.56
+SHP-00638,2025-07-30,Eastern Industrial Supplies,Water Treatment Chemicals,Eldoret Depot,TRK-016,D. Said,1184,132.25,156584.0,116,2025-07-31,2025-07-31,On Time,7161.38
+SHP-00639,2025-06-10,CoastBuild Ltd,Protective Coatings,Eldoret Depot,TRK-008,L. Wekesa,159,779.42,123927.78,328,2025-06-11,2025-06-11,On Time,19729.85
+SHP-00640,2025-10-15,BlueWave Facilities,Construction Additives,Eldoret Depot,TRK-015,M. Otieno,537,198.63,106664.31,334,2025-10-16,2025-10-18,Late,11925.61
+SHP-00641,2025-10-06,CoastBuild Ltd,Industrial Cleaning Supplies,Nakuru Depot,TRK-020,E. Achieng,687,763.11,524256.57,150,2025-10-07,2025-10-07,On Time,6303.7
+SHP-00642,2025-11-28,Metro Packaging Ltd,Water Treatment Chemicals,Nairobi Depot,TRK-005,K. Barasa,2370,667.23,1581335.1,670,2025-11-30,2025-12-01,Late,29480.53
+SHP-00643,2025-03-28,Highland Agro Processors,Water Treatment Chemicals,Nairobi Depot,TRK-028,K. Barasa,1023,665.22,680520.06,276,2025-03-29,2025-03-31,Late,11115.93
+SHP-00644,2025-12-09,Eastern Industrial Supplies,Packaging Materials,Mombasa Depot,TRK-002,M. Otieno,2364,349.53,826288.92,306,2025-12-10,2025-12-11,Late,14346.27
+SHP-00645,2025-12-05,UrbanWorks Contractors,Industrial Cleaning Supplies,Nairobi Depot,TRK-022,J. Mutua,1642,816.92,1341382.64,26,2025-12-06,2025-12-06,On Time,1204.42
+SHP-00646,2025-04-21,Lake Region Water Services,Construction Additives,Nakuru Depot,TRK-030,K. Barasa,1407,82.78,116471.46,323,2025-04-22,2025-04-22,On Time,13566.29
+SHP-00647,2025-05-06,Rift Valley Manufacturing,Packaging Materials,Nakuru Depot,TRK-012,P. Maina,744,334.0,248496.0,547,2025-05-08,2025-05-08,On Time,22193.68
+SHP-00648,2025-02-20,Rift Valley Manufacturing,Construction Additives,Mombasa Depot,TRK-010,D. Said,2075,124.28,257881.0,437,2025-02-22,2025-02-23,Late,25744.79
+SHP-00649,2025-03-24,Lake Region Water Services,Water Treatment Chemicals,Nakuru Depot,TRK-011,E. Achieng,1579,877.46,1385509.34,192,2025-03-25,2025-03-25,On Time,8507.31
+SHP-00650,2025-09-06,UrbanWorks Contractors,Protective Coatings,Nairobi Depot,TRK-023,L. Wekesa,1009,517.81,522470.29,153,2025-09-07,2025-09-07,On Time,8131.13
+SHP-00651,2025-10-15,CoastBuild Ltd,Water Treatment Chemicals,Mombasa Depot,TRK-016,B. Kiprono,1736,879.58,1526950.88,649,2025-10-17,2025-10-21,Late,
+SHP-00652,2025-03-27,Eastern Industrial Supplies,CONSTRUCTION ADDITIVES,Nakuru Depot,TRK-009,E. Achieng,1501,506.4,760106.4,151,2025-03-28,2025-03-30,Late,7615.69
+SHP-00653,2025-10-01,Highland Agro Processors,Industrial Cleaning Supplies,Eldoret Depot,TRK-017,D. Said,1372,380.09,521483.48,607,2025-10-03,2025-10-04,Late,21801.23
+SHP-00654,2025-07-15,BlueWave Facilities,Industrial Cleaning Supplies,Nairobi Depot,TRK-023,J. Mutua,1028,838.96,862450.88,699,2025-07-17,2025-07-18,Late,39595.01
+SHP-00655,2025-03-11,Metro Packaging Ltd,Water Treatment Chemicals,Mombasa Depot,TRK-001,D. Said,1688,771.8,1302798.4,47,2025-03-12,2025-03-16,Late,2303.8
+SHP-00656,2025-09-22,Rift Valley Manufacturing,Maintenance Parts,Nairobi Depot,TRK-026,B. Kiprono,1581,226.96,358823.76,337,2025-09-23,2025-09-22,On Time,20720.24
+SHP-00657,2025-11-06,UrbanWorks Contractors,Construction Additives,Mombasa Depot,TRK-011,S. Chebet,685,552.11,378195.35,654,2025-11-08,2025-11-08,On Time,28806.26
+SHP-00658,2025-11-04,Metro Packaging Ltd,Water Treatment Chemicals,Nairobi Depot,TRK-023,J. Mutua,1612,866.6,1396959.2,514,2025-11-06,2025-11-08,Late,26415.84
+SHP-00659,2025-03-26,Eastern Industrial Supplies,Water Treatment Chemicals,Nakuru Depot,TRK-010,E. Achieng,631,98.8,62342.8,528,2025-03-28,2025-03-28,On Time,30055.41
+SHP-00660,2025-12-13,Highland Agro Processors,Water Treatment Chemicals,Mombasa Depot,TRK-022,S. Chebet,811,714.99,579856.89,253,2025-12-14,2025-12-14,On Time,9794.63
+SHP-00661,2025-10-22,Highland Agro Processors,Construction Additives,Mombasa Depot,TRK-027,A. Hassan,1761,184.23,324429.03,30,2025-10-23,2025-10-23,On Time,1219.14
+SHP-00662,2025-08-12,Metro Packaging Ltd,Packaging Materials,Nakuru Depot,TRK-030,D. Said,2314,564.72,1306762.08,660,2025-08-14,2025-08-18,Late,32367.28
+SHP-00663,2025-07-29,BlueWave Facilities,Water Treatment Chemicals,Nairobi Depot,TRK-016,A. Hassan,1688,363.81,614111.28,642,2025-07-31,2025-08-04,Late,28789.06
+SHP-00664,2025-01-11,BlueWave Facilities,Protective Coatings,Nakuru Depot,TRK-015,P. Maina,2363,188.41,445212.83,355,2025-01-13,2025-01-13,On Time,12926.32
+SHP-00665,2025-07-09,CoastBuild Ltd,Protective Coatings,Nakuru Depot,TRK-019,S. Chebet,1017,163.32,166096.44,582,2025-07-11,2025-07-13,Late,23520.57
+SHP-00666,2025-07-15,CoastBuild Ltd,Industrial Cleaning Supplies,Nakuru Depot,TRK-026,S. Chebet,1929,258.32,498299.28,483,2025-07-17,2025-07-17,On Time,17993.82
+SHP-00667,2025-10-01,Rift Valley Manufacturing,Industrial Cleaning Supplies,Nakuru Depot,TRK-027,K. Barasa,2078,848.4,1762975.2,669,2025-10-03,2025-10-07,Late,26930.21
+SHP-00668,2025-08-30,Highland Agro Processors,Construction Additives,Nairobi Depot,TRK-019,B. Kiprono,1842,343.66,633021.72,622,2025-09-01,2025-09-05,Late,33964.75
+SHP-00669,2025-11-23,UrbanWorks Contractors,Industrial Cleaning Supplies,Mombasa Depot,TRK-028,J. Mutua,704,362.61,255277.44,612,2025-11-25,2025-11-29,Late,26731.48
+SHP-00670,2025-07-10,Highland Agro Processors,Maintenance Parts,Mombasa Depot,TRK-009,P. Maina,1208,552.19,667045.52,323,2025-07-11,2025-07-10,On Time,12767.29
+SHP-00671,2025-02-22,Rift Valley Manufacturing,Construction Additives,Nairobi Depot,TRK-012,D. Said,1033,827.27,854569.91,62,2025-02-23,2025-02-25,Late,3758.84
+SHP-00672,2025-02-09,Eastern Industrial Supplies,Industrial Cleaning Supplies,Nakuru Depot,TRK-006,M. Otieno,1175,52.36,61523.0,333,2025-02-10,2025-02-12,Late,14151.95
+SHP-00673,2025-12-09,Highland Agro Processors,Water Treatment Chemicals,Nairobi Depot,TRK-030,M. Otieno,55,339.54,18674.7,715,2025-12-12,2025-12-12,On Time,33982.65
+SHP-00674,2025-10-05,BlueWave Facilities,Protective Coatings,Mombasa Depot,TRK-026,D. Said,1894,147.12,278645.28,334,2025-10-06,2025-10-06,On Time,20440.49
+SHP-00675,2025-10-29,Lake Region Water Services,Industrial Cleaning Supplies,Nakuru Depot,TRK-030,D. Said,2242,315.32,706947.44,243,2025-10-30,2025-10-30,On Time,12095.52
+SHP-00676,2025-05-12,Eastern Industrial Supplies,Packaging Materials,Nairobi Depot,TRK-025,M. Otieno,2301,789.14,1815811.14,539,2025-05-14,2025-05-13,On Time,26784.21
+SHP-00677,2025-12-06,Lake Region Water Services,Industrial Cleaning Supplies,Mombasa Depot,TRK-015,P. Maina,205,847.51,173739.55,357,2025-12-08,2025-12-10,Late,17970.15
+SHP-00678,2025-08-27,Rift Valley Manufacturing,Water Treatment Chemicals,Nakuru Depot,TRK-030,K. Barasa,2014,451.68,909683.52,225,2025-08-28,2025-08-27,On Time,11426.37
+SHP-00679,2025-03-04,Rift Valley Manufacturing,Packaging Materials,Eldoret Depot,TRK-029,K. Barasa,571,630.62,360084.02,225,2025-03-05,2025-03-05,On Time,12331.14
+SHP-00680,2025-06-24,Rift Valley Manufacturing,Protective Coatings,Nakuru Depot,TRK-001,B. Kiprono,451,529.38,238750.38,250,2025-06-25,2025-06-28,Late,12196.94
+SHP-00681,2025-04-22,Eastern Industrial Supplies,Maintenance Parts,Nairobi Depot,TRK-011,L. Wekesa,1586,165.45,262403.7,147,2025-04-23,2025-04-27,Late,8648.21
+SHP-00682,2025-09-24,Metro Packaging Ltd,Packaging Materials,Nakuru Depot,TRK-018,S. Chebet,2029,215.67,437594.43,383,2025-09-26,2025-09-28,Late,14599.6
+SHP-00683,2025-06-01,BlueWave Facilities,Maintenance Parts,Mombasa Depot,TRK-009,A. Hassan,2244,182.38,409260.72,581,2025-06-03,2025-06-03,On Time,26184.55
+SHP-00684,2025-05-19,Lake Region Water Services,Packaging Materials,Mombasa Depot,TRK-001,B. Kiprono,1407,884.09,1243914.63,625,2025-05-21,2025-05-21,On Time,23850.21
+SHP-00685,2025-05-02,Rift Valley Manufacturing,Industrial Cleaning Supplies,Nakuru Depot,TRK-018,S. Chebet,1084,514.18,557371.12,207,2025-05-03,2025-05-05,Late,10466.77
+SHP-00686,2025-03-22,Eastern Industrial Supplies,Industrial Cleaning Supplies,Nakuru Depot,TRK-019,L. Wekesa,1822,760.13,1384956.86,313,2025-03-23,2025-03-23,On Time,15741.25
+SHP-00687,2025-04-08,Lake Region Water Services,Water Treatment Chemicals,Nakuru Depot,TRK-020,S. Chebet,315,312.3,98374.5,434,2025-04-10,2025-04-14,Late,22018.44
+SHP-00688,2025-07-26,BlueWave Facilities,Water Treatment Chemicals,Nairobi Depot,TRK-001,D. Said,1102,528.88,582825.76,71,2025-07-27,2025-07-27,On Time,3829.59
+SHP-00689,2025-06-02,CoastBuild Ltd,Water Treatment Chemicals,Eldoret Depot,TRK-002,M. Otieno,199,506.77,100847.23,484,2025-06-04,2025-06-08,Late,27338.92
+SHP-00690,2025-06-07,UrbanWorks Contractors,Construction Additives,Nairobi Depot,TRK-023,B. Kiprono,1284,189.88,243805.92,492,2025-06-09,2025-06-13,Late,28183.42
+SHP-00691,2025-04-19,BlueWave Facilities,Protective Coatings,Nakuru Depot,TRK-010,S. Chebet,513,654.25,335630.25,624,2025-04-21,2025-04-23,Late,30266.73
+SHP-00692,2025-05-11,Metro Packaging Ltd,Maintenance Parts,Mombasa Depot,TRK-030,D. Said,1611,296.7,477983.7,226,2025-05-12,2025-05-16,Late,13138.33
+SHP-00693,2025-03-07,Lake Region Water Services,Water Treatment Chemicals,Eldoret Depot,TRK-004,D. Said,868,124.97,108473.96,177,2025-03-08,2025-03-10,Late,10814.83
+SHP-00694,2025-02-23,Eastern Industrial Supplies,Maintenance Parts,Eldoret Depot,TRK-016,L. Wekesa,889,516.51,459177.39,385,2025-02-25,2025-03-01,Late,19632.97
+SHP-00695,2025-03-06,Metro Packaging Ltd,Industrial Cleaning Supplies,Nakuru Depot,TRK-030,S. Chebet,69,66.51,4589.19,333,2025-03-07,2025-03-10,Late,18704.09
+SHP-00696,2025-04-13,UrbanWorks Contractors,Industrial Cleaning Supplies,Nakuru Depot,TRK-026,S. Chebet,1080,727.81,786034.8,303,2025-04-14,2025-04-17,Late,13123.05
+SHP-00697,2025-01-04,BlueWave Facilities,Construction Additives,Mombasa Depot,TRK-003,D. Said,837,397.91,333050.67,665,2025-01-06,2025-01-06,On Time,35485.26
+SHP-00698,2025-04-19,Rift Valley Manufacturing,Packaging Materials,Eldoret Depot,TRK-015,A. Hassan,320,722.38,231161.6,710,2025-04-22,2025-04-22,On Time,43523.44
+SHP-00699,2025-07-03,Eastern Industrial Supplies,Packaging Materials,Nairobi Depot,TRK-017,M. Otieno,534,112.49,60069.66,237,2025-07-04,2025-07-06,Late,11823.61
+SHP-00700,2025-01-13,UrbanWorks Contractors,Maintenance Parts,Mombasa Depot,TRK-011,E. Achieng,2303,605.47,1394397.41,405,2025-01-15,2025-01-17,Late,19682.71
+SHP-00701,2025-01-09,Rift Valley Manufacturing,Packaging Materials,Eldoret Depot,TRK-013,B. Kiprono,1005,475.18,477555.9,499,2025-01-11,2025-01-11,On Time,28268.62
+SHP-00702,2025-10-23,UrbanWorks Contractors,Industrial Cleaning Supplies,Nairobi Depot,TRK-018,A. Hassan,1070,66.85,71529.5,124,2025-10-24,2025-10-27,Late,5844.23
+SHP-00703,2025-01-22,BlueWave Facilities,Construction Additives,Mombasa Depot,TRK-011,L. Wekesa,737,738.15,544016.55,88,2025-01-23,2025-01-26,Late,4388.35
+SHP-00704,2025-05-18,UrbanWorks Contractors,Construction Additives,Nakuru Depot,TRK-018,L. Wekesa,1946,761.64,1482151.44,377,2025-05-20,2025-05-23,Late,20409.53
+SHP-00705,2025-05-05,Lake Region Water Services,Maintenance Parts,Mombasa Depot,TRK-024,B. Kiprono,557,841.61,468776.77,647,2025-05-07,2025-05-08,Late,31846.76
+SHP-00706,2025-01-05,BlueWave Facilities,Water Treatment Chemicals,Eldoret Depot,TRK-011,E. Achieng,440,826.75,363770.0,50,2025-01-06,2025-01-05,On Time,2799.8
+SHP-00707,2025-10-17,Rift Valley Manufacturing,Construction Additives,Nairobi Depot,TRK-010,P. Maina,446,556.92,248386.32,298,2025-10-18,2025-10-19,Late,12363.12
+SHP-00708,2025-03-31,Rift Valley Manufacturing,Protective Coatings,Mombasa Depot,TRK-022,B. Kiprono,2369,780.45,1848886.05,247,2025-04-01,2025-04-02,Late,15047.4
+SHP-00709,2025-07-28,UrbanWorks Contractors,Packaging Materials,Eldoret Depot,TRK-021,K. Barasa,1015,525.7,533585.5,452,2025-07-30,2025-07-31,Late,17109.63
+SHP-00710,2025-06-23,Rift Valley Manufacturing,Industrial Cleaning Supplies,Nairobi Depot,TRK-029,B. Kiprono,1563,357.66,559022.58,534,2025-06-25,2025-06-25,On Time,30714.61
+SHP-00711,2025-01-14,CoastBuild Ltd,Industrial Cleaning Supplies,Nairobi Depot,TRK-015,E. Achieng,2061,639.1,1317185.1,685,2025-01-16,2025-01-18,Late,24678.18
+SHP-00712,2025-11-30,Eastern Industrial Supplies,Construction Additives,Eldoret Depot,TRK-007,L. Wekesa,532,842.1,447997.2,28,2025-12-01,2025-11-30,On Time,1697.38
+SHP-00713,2025-09-29,Highland Agro Processors,Packaging Materials,Nakuru Depot,TRK-030,P. Maina,324,264.79,85791.96,64,2025-09-30,2025-09-30,On Time,3923.38
+SHP-00714,2025-11-05,Highland Agro Processors,Water Treatment Chemicals,Mombasa Depot,TRK-020,E. Achieng,888,476.18,422847.84,621,2025-11-07,2025-11-09,Late,32828.65
+SHP-00715,2025-05-03,UrbanWorks Contractors,Industrial Cleaning Supplies,Nakuru Depot,TRK-002,S. Chebet,1541,600.45,925293.45,194,2025-05-04,2025-05-07,Late,7552.64
+SHP-00716,2025-05-08,CoastBuild Ltd,Water Treatment Chemicals,Nakuru Depot,TRK-004,J. Mutua,1710,675.15,1154506.5,347,2025-05-09,2025-05-09,On Time,14429.46
+SHP-00717,2025-12-15,CoastBuild Ltd,Industrial Cleaning Supplies,Eldoret Depot,TRK-023,B. Kiprono,2175,256.2,557235.0,404,2025-12-17,2025-12-21,Late,19105.71
+SHP-00718,2025-10-30,UrbanWorks Contractors,Maintenance Parts,Nakuru Depot,TRK-023,P. Maina,1751,723.9,1267548.9,262,2025-10-31,2025-11-03,Late,12001.06
+SHP-00719,2025-06-11,UrbanWorks Contractors,Construction Additives,Eldoret Depot,TRK-018,L. Wekesa,2380,493.51,1174553.8,494,2025-06-13,2025-06-14,Late,19381.6
+SHP-00720,2025-06-16,Lake Region Water Services,Construction Additives,Nairobi Depot,TRK-007,E. Achieng,1481,354.17,524525.77,231,2025-06-17,2025-06-20,Late,10342.33
+SHP-00721,2025-06-26,UrbanWorks Contractors,Packaging Materials,Eldoret Depot,TRK-005,J. Mutua,393,419.42,164832.06,432,2025-06-28,2025-06-29,Late,15627.66
+SHP-00722,2025-05-21,Lake Region Water Services,Industrial Cleaning Supplies,Mombasa Depot,TRK-003,K. Barasa,2186,435.32,951609.52,170,2025-05-22,2025-05-24,Late,8930.92
+SHP-00723,2025-08-29,Lake Region Water Services,Maintenance Parts,Eldoret Depot,TRK-022,P. Maina,1096,395.97,433983.12,624,2025-08-31,2025-08-31,On Time,38484.04
+SHP-00724,2025-06-18,Lake Region Water Services,Water Treatment Chemicals,Nairobi Depot,TRK-021,P. Maina,1673,403.19,674536.87,696,2025-06-20,2025-06-20,On Time,27411.26
+SHP-00725,2025-04-02,BlueWave Facilities,Maintenance Parts,Eldoret Depot,TRK-020,A. Hassan,428,668.52,286126.56,510,2025-04-04,2025-04-03,On Time,26578.07
+SHP-00726,2025-10-05,BlueWave Facilities,Protective Coatings,Eldoret Depot,TRK-018,D. Said,1449,631.53,915086.97,604,2025-10-07,2025-10-11,Late,30941.93
+SHP-00727,2025-02-17,UrbanWorks Contractors,Packaging Materials,Nairobi Depot,TRK-006,P. Maina,530,626.01,331785.3,499,2025-02-19,2025-02-19,On Time,29665.95
+SHP-00728,2025-04-04,CoastBuild Ltd,Protective Coatings,Eldoret Depot,TRK-028,L. Wekesa,1057,784.29,828994.53,180,2025-04-05,2025-04-04,On Time,9396.33
+SHP-00729,2025-06-18,Eastern Industrial Supplies,Construction Additives,Nakuru Depot,TRK-002,K. Barasa,314,454.33,142659.62,472,2025-06-20,2025-06-21,Late,16704.33
+SHP-00730,2025-02-17,BlueWave Facilities,Maintenance Parts,Nakuru Depot,TRK-004,B. Kiprono,747,891.12,665666.64,168,2025-02-18,2025-02-18,On Time,7600.89
+SHP-00731,2025-08-20,BlueWave Facilities,Maintenance Parts,Mombasa Depot,TRK-005,E. Achieng,1728,256.82,443784.96,308,2025-08-21,2025-08-21,On Time,18669.99
+SHP-00732,2025-11-12,Eastern Industrial Supplies,Construction Additives,Mombasa Depot,TRK-017,B. Kiprono,2451,147.32,361081.32,167,2025-11-13,2025-11-13,On Time,8058.83
+SHP-00733,2025-01-14,Rift Valley Manufacturing,Industrial Cleaning Supplies,Eldoret Depot,TRK-021,M. Otieno,1431,408.93,585178.83,239,2025-01-15,2025-01-19,Late,14325.49
+SHP-00734,2025-11-08,Eastern Industrial Supplies,Protective Coatings,Mombasa Depot,TRK-029,S. Chebet,236,606.35,143098.6,312,2025-11-09,2025-11-10,Late,18411.06
+SHP-00735,2025-01-31,CoastBuild Ltd,Construction Additives,Eldoret Depot,TRK-017,D. Said,214,343.91,73596.74,442,2025-02-02,2025-02-02,On Time,24169.55
+SHP-00736,2025-01-13,Highland Agro Processors,Construction Additives,Nakuru Depot,TRK-026,J. Mutua,1955,619.79,1211689.45,589,2025-01-15,2025-01-15,On Time,30287.55
+SHP-00737,2025-08-14,Eastern Industrial Supplies,Industrial Cleaning Supplies,Mombasa Depot,TRK-023,B. Kiprono,1954,785.02,1533929.08,331,2025-08-15,2025-08-18,Late,13877.77
+SHP-00738,2025-03-02,Eastern Industrial Supplies,Maintenance Parts,Nakuru Depot,TRK-002,D. Said,128,750.56,96071.68,567,2025-03-04,2025-03-03,On Time,20385.83
+SHP-00739,2025-02-08,Lake Region Water Services,Protective Coatings,Mombasa Depot,TRK-022,J. Mutua,1992,463.7,923690.4,168,2025-02-09,2025-02-09,On Time,
+SHP-00740,2025-06-04,CoastBuild Ltd,Packaging Materials,Eldoret Depot,TRK-003,A. Hassan,727,514.83,374281.41,365,2025-06-06,2025-06-06,On Time,16914.39
+SHP-00741,2025-08-01,Rift Valley Manufacturing,Packaging Materials,Nakuru Depot,TRK-005,B. Kiprono,365,78.23,28553.95,440,2025-08-03,2025-08-05,Late,16959.31
+SHP-00742,2025-05-22,Eastern Industrial Supplies,Packaging Materials,Nakuru Depot,TRK-001,M. Otieno,1978,656.9,1299348.2,286,2025-05-23,2025-05-23,On Time,10443.37
+SHP-00743,2025-02-03,Lake Region Water Services,Protective Coatings,Nairobi Depot,TRK-022,D. Said,1352,78.88,106645.76,339,2025-02-04,2025-02-06,Late,18736.18
+SHP-00744,2025-09-04,Highland Agro Processors,Industrial Cleaning Supplies,Nakuru Depot,TRK-026,L. Wekesa,1292,836.19,1080357.48,631,2025-09-06,2025-09-06,On Time,28273.49
+SHP-00745,2025-02-10,BlueWave Facilities,Industrial Cleaning Supplies,Mombasa Depot,TRK-011,M. Otieno,597,499.01,297908.97,431,2025-02-12,2025-02-15,Late,18273.78
+SHP-00746,2025-10-03,Lake Region Water Services,Protective Coatings,Nairobi Depot,TRK-027,D. Said,1367,331.56,453242.52,41,2025-10-04,2025-10-03,On Time,2165.68
+SHP-00747,2025-09-01,UrbanWorks Contractors,Construction Additives,Nairobi Depot,TRK-022,D. Said,467,664.43,310288.81,619,2025-09-03,2025-09-05,Late,35981.24
+SHP-00748,2025-01-02,Lake Region Water Services,Industrial Cleaning Supplies,Nakuru Depot,TRK-002,J. Mutua,1958,511.3,1001125.4,381,2025-01-04,2025-01-07,Late,21863.46
+SHP-00749,2025-04-30,Rift Valley Manufacturing,Water Treatment Chemicals,Nairobi Depot,TRK-015,P. Maina,386,248.52,95928.72,158,2025-05-01,2025-05-01,On Time,6353.48
+SHP-00750,2025-11-29,BlueWave Facilities,Packaging Materials,Eldoret Depot,TRK-024,E. Achieng,1509,131.88,199006.92,588,2025-12-01,2025-12-01,On Time,27271.14
+SHP-00751,2025-02-09,Metro Packaging Ltd,Construction Additives,Eldoret Depot,TRK-016,J. Mutua,2005,886.76,1777953.8,85,2025-02-10,2025-02-09,On Time,5197.71
+SHP-00752,2025-07-22,Lake Region Water Services,Protective Coatings,Eldoret Depot,TRK-001,J. Mutua,1714,688.36,1179849.04,72,2025-07-23,2025-07-23,On Time,4071.47
+SHP-00753,2025-04-21,BlueWave Facilities,Construction Additives,Nakuru Depot,TRK-017,K. Barasa,2173,247.92,538730.16,224,2025-04-22,2025-04-26,Late,9365.33
+SHP-00754,2025-06-24,Rift Valley Manufacturing,Protective Coatings,Nakuru Depot,TRK-028,P. Maina,1830,242.6,443958.0,180,2025-06-25,2025-06-25,On Time,10279.53
+SHP-00755,2025-10-21,Eastern Industrial Supplies,Packaging Materials,Nakuru Depot,TRK-009,M. Otieno,2220,776.08,1722897.6,139,2025-10-22,2025-10-23,Late,7089.13
+SHP-00756,2025-06-23,Eastern Industrial Supplies,Maintenance Parts,Eldoret Depot,TRK-015,L. Wekesa,1220,558.22,681028.4,247,2025-06-24,2025-06-24,On Time,10513.02
+SHP-00757,2025-09-27,Metro Packaging Ltd,Protective Coatings,Nakuru Depot,TRK-022,A. Hassan,363,226.68,82284.84,292,2025-09-28,2025-09-27,On Time,16436.73
+SHP-00758,2025-04-06,Highland Agro Processors,Protective Coatings,Mombasa Depot,TRK-022,K. Barasa,2279,797.77,1818117.83,717,2025-04-09,2025-04-10,Late,43729.73
+SHP-00759,2025-08-05,Rift Valley Manufacturing,Water Treatment Chemicals,Eldoret Depot,TRK-004,E. Achieng,2375,312.82,742947.5,383,2025-08-07,2025-08-10,Late,22673.44
+SHP-00760,2025-01-22,Rift Valley Manufacturing,Maintenance Parts,Eldoret Depot,TRK-012,L. Wekesa,991,387.05,383566.55,550,2025-01-24,2025-01-28,Late,32256.3
+SHP-00761,2025-01-18,Eastern Industrial Supplies,Packaging Materials,Nairobi Depot,TRK-002,K. Barasa,1818,863.14,1569188.52,370,2025-01-20,2025-01-19,On Time,18500.66
+SHP-00762,2025-07-20,Rift Valley Manufacturing,Water Treatment Chemicals,Nairobi Depot,TRK-020,M. Otieno,271,530.64,143803.44,613,2025-07-22,2025-07-24,Late,33557.06
+SHP-00763,2025-12-09,Rift Valley Manufacturing,Water Treatment Chemicals,Nairobi Depot,TRK-013,B. Kiprono,476,638.74,304040.24,28,2025-12-10,2025-12-10,On Time,1432.9
+SHP-00764,2025-05-01,Lake Region Water Services,Water Treatment Chemicals,Nairobi Depot,TRK-009,J. Mutua,1958,555.34,1087355.72,496,2025-05-03,2025-05-06,Late,30437.59
+SHP-00765,2025-04-10,BlueWave Facilities,Maintenance Parts,Mombasa Depot,TRK-021,D. Said,1008,173.2,174585.6,195,2025-04-11,2025-04-12,Late,7795.0
+SHP-00766,2025-04-19,Eastern Industrial Supplies,Construction Additives,Nakuru Depot,TRK-009,A. Hassan,2212,863.02,1909000.24,694,2025-04-21,2025-04-21,On Time,31549.5
+SHP-00767,2025-12-20,Rift Valley Manufacturing,Packaging Materials,Mombasa Depot,TRK-013,P. Maina,2141,554.55,1187291.55,32,2025-12-21,2025-12-20,On Time,1470.97
+SHP-00768,2025-06-21,Highland Agro Processors,Water Treatment Chemicals,Nakuru Depot,TRK-027,J. Mutua,1039,599.34,622714.26,553,2025-06-23,2025-06-22,On Time,30911.58
+SHP-00769,2025-05-22,Lake Region Water Services,Construction Additives,Mombasa Depot,TRK-016,L. Wekesa,105,305.17,32042.85,704,2025-05-25,2025-05-25,On Time,33968.83
+SHP-00770,2025-02-23,UrbanWorks Contractors,Industrial Cleaning Supplies,Eldoret Depot,TRK-004,A. Hassan,1819,846.43,1539656.17,580,2025-02-25,2025-02-25,On Time,22695.38
+SHP-00771,2025-09-16,UrbanWorks Contractors,Industrial Cleaning Supplies,Mombasa Depot,TRK-030,D. Said,167,556.73,92973.91,599,2025-09-18,2025-09-21,Late,32389.41
+SHP-00772,2025-09-14,Eastern Industrial Supplies,Water Treatment Chemicals,Mombasa Depot,TRK-003,M. Otieno,1893,254.24,481276.32,154,2025-09-15,2025-09-15,On Time,6649.0
+SHP-00773,2025-12-15,Eastern Industrial Supplies,Construction Additives,Mombasa Depot,TRK-029,D. Said,832,194.66,161957.12,74,2025-12-16,2025-12-19,Late,3278.27
+SHP-00774,2025-05-03,Lake Region Water Services,Maintenance Parts,Mombasa Depot,TRK-030,K. Barasa,2372,249.28,591292.16,657,2025-05-05,2025-05-05,On Time,27157.02
+SHP-00775,2025-11-07,UrbanWorks Contractors,Packaging Materials,Nairobi Depot,TRK-023,S. Chebet,953,473.12,450883.36,203,2025-11-08,2025-11-08,On Time,8551.67
+SHP-00776,2025-09-15,UrbanWorks Contractors,Protective Coatings,Mombasa Depot,TRK-017,D. Said,1362,232.64,316855.68,153,2025-09-16,2025-09-16,On Time,8441.8
+SHP-00777,2025-04-11,BlueWave Facilities,Construction Additives,Eldoret Depot,TRK-028,M. Otieno,67,339.54,22749.18,495,2025-04-13,2025-04-15,Late,30192.92
+SHP-00778,2025-10-29,Metro Packaging Ltd,Water Treatment Chemicals,Eldoret Depot,TRK-023,D. Said,981,344.76,338209.56,630,2025-10-31,2025-10-31,On Time,38405.81
+SHP-00779,2025-08-17,Rift Valley Manufacturing,Protective Coatings,Nakuru Depot,TRK-011,J. Mutua,2034,864.52,1758433.68,678,2025-08-19,2025-08-19,On Time,40820.65
+SHP-00780,2025-08-30,UrbanWorks Contractors,Water Treatment Chemicals,Mombasa Depot,TRK-012,E. Achieng,389,145.19,56478.91,229,2025-08-31,2025-09-03,Late,12314.51
+SHP-00781,2025-12-11,Highland Agro Processors,Water Treatment Chemicals,Eldoret Depot,TRK-025,J. Mutua,180,663.41,119413.8,287,2025-12-12,2025-12-12,On Time,13928.39
+SHP-00782,2025-06-23,Metro Packaging Ltd,Industrial Cleaning Supplies,Mombasa Depot,TRK-013,L. Wekesa,857,874.14,749137.98,493,2025-06-25,2025-06-27,Late,25914.41
+SHP-00783,2025-07-26,Eastern Industrial Supplies,Maintenance Parts,Eldoret Depot,TRK-029,M. Otieno,55,573.8,31559.0,305,2025-07-27,2025-07-29,Late,15265.08
+SHP-00784,2025-08-25,Highland Agro Processors,Construction Additives,Mombasa Depot,TRK-029,D. Said,953,188.14,179297.42,677,2025-08-27,2025-08-31,Late,33462.32
+SHP-00785,2025-06-23,Metro Packaging Ltd,Industrial Cleaning Supplies,Mombasa Depot,TRK-007,K. Barasa,2172,378.6,822319.2,694,2025-06-25,2025-06-25,On Time,25754.86
+SHP-00786,2025-01-31,Metro Packaging Ltd,Construction Additives,Eldoret Depot,TRK-003,E. Achieng,127,830.63,105490.01,523,2025-02-02,2025-02-03,Late,26347.67
+SHP-00787,2025-04-29,Eastern Industrial Supplies,Construction Additives,Eldoret Depot,TRK-001,K. Barasa,1615,751.73,1214043.95,366,2025-05-01,2025-05-01,On Time,22462.36
+SHP-00788,2025-01-26,Highland Agro Processors,Water Treatment Chemicals,Nakuru Depot,TRK-026,K. Barasa,128,375.52,48066.56,127,2025-01-27,2025-01-27,On Time,5698.06
+SHP-00789,2025-01-15,UrbanWorks Contractors,Water Treatment Chemicals,Nairobi Depot,TRK-026,E. Achieng,1099,843.05,926511.95,100,2025-01-16,2025-01-20,Late,5234.15
+SHP-00790,2025-09-23,BlueWave Facilities,Maintenance Parts,Nairobi Depot,TRK-024,B. Kiprono,2191,255.38,559537.58,41,2025-09-24,2025-09-23,On Time,2215.94
+SHP-00791,2025-10-25,Metro Packaging Ltd,Water Treatment Chemicals,Mombasa Depot,TRK-024,A. Hassan,339,513.38,174035.82,623,2025-10-27,2025-10-27,On Time,33313.12
+SHP-00792,2025-01-28,BlueWave Facilities,Maintenance Parts,Mombasa Depot,TRK-016,B. Kiprono,2230,300.84,670873.2,167,2025-01-29,2025-01-31,Late,7612.19
+SHP-00793,2025-08-16,CoastBuild Ltd,Industrial Cleaning Supplies,Nairobi Depot,TRK-001,A. Hassan,1792,742.85,1331187.2,380,2025-08-18,2025-08-22,Late,18281.24
+SHP-00794,2025-10-29,CoastBuild Ltd,Packaging Materials,Mombasa Depot,TRK-015,B. Kiprono,1821,493.03,897807.63,165,2025-10-30,2025-10-29,On Time,6127.53
+SHP-00795,2025-05-12,Lake Region Water Services,Protective Coatings,Mombasa Depot,TRK-027,M. Otieno,874,829.56,725035.44,340,2025-05-13,2025-05-13,On Time,14551.67
+SHP-00796,2025-07-21,Rift Valley Manufacturing,Construction Additives,Nairobi Depot,TRK-003,L. Wekesa,2257,524.37,1183503.09,632,2025-07-23,2025-07-22,On Time,24497.19
+SHP-00797,2025-09-16,UrbanWorks Contractors,Packaging Materials,Eldoret Depot,TRK-011,M. Otieno,944,564.27,532670.88,25,2025-09-17,2025-09-17,On Time,1150.86
+SHP-00798,2025-06-14,Lake Region Water Services,Packaging Materials,Nairobi Depot,TRK-025,K. Barasa,2482,381.0,945642.0,348,2025-06-15,2025-06-19,Late,19571.79
+SHP-00799,2025-04-11,Lake Region Water Services,Packaging Materials,Mombasa Depot,TRK-004,J. Mutua,2099,838.64,1760305.36,383,2025-04-13,2025-04-12,On Time,22038.08
+SHP-00800,2025-12-03,Lake Region Water Services,Construction Additives,Nairobi Depot,TRK-023,S. Chebet,2150,828.78,1781877.0,361,2025-12-05,2025-12-05,On Time,18513.71
+SHP-00033,2025-04-23,Metro Packaging Ltd,Industrial Cleaning Supplies,Nakuru Depot,TRK-027,L. Wekesa,160,749.95,119992.0,529,2025-04-25,2025-04-25,On Time,32360.28
+SHP-00145,2025-03-07,BlueWave Facilities,Maintenance Parts,Nakuru Depot,TRK-006,E. Achieng,784,194.78,152707.52,479,2025-03-09,2025-03-12,Late,23231.97
+SHP-00390,2025-07-20,CoastBuild Ltd,Industrial Cleaning Supplies,Nairobi Depot,TRK-005,E. Achieng,92,142.81,13138.52,718,2025-07-23,2025-07-25,Late,27177.25
+SHP-00511,2025-03-02,UrbanWorks Contractors,Construction Additives,Nairobi Depot,TRK-024,K. Barasa,2422,411.59,996870.98,114,2025-03-03,2025-03-03,On Time,6716.0
+SHP-00678,2025-08-27,Rift Valley Manufacturing,Water Treatment Chemicals,Nakuru Depot,TRK-030,K. Barasa,2014,451.68,909683.52,225,2025-08-28,2025-08-27,On Time,11426.37
