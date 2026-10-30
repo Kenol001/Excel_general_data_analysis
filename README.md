@@ -19,7 +19,7 @@ The repository is organized into three main folders:
  [a_datasets](https://github.com/Kenol001/Excel_general_data_analysis/tree/main/a_datasets)  Contains downloadable raw and cleaned Excel datasets for both projects, alongside PNG previews showcasing the original and cleaned data for easy viewing.
                                                            
  [b_data_cleaning](https://github.com/Kenol001/Excel_general_data_analysis/tree/main/b_data_cleaning) Contains Excel workbooks demonstrating the data cleaning and standardization processes for both datasets.         
- [c_dashboards](https://github.com/Kenol001/Excel_general_data_analysis/tree/main/c_dashboard)  Contains an Excel workbook featuring interactive dashboards for Industrial Logistics and Manufacturing Production. 
+ [c_dashboards](https://github.com/Kenol001/Excel_general_data_analysis/tree/main/c_dashboard) Contains an Excel workbook featuring interactive dashboards for both projects, alongside PNG screenshots providing visual previews of the dashboards for easy viewing.
 
 The projects cover two business areas:
 
